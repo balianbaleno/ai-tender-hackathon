@@ -1,0 +1,2120 @@
+{
+  "date": "2026-06-01T09:30:15.937684+03:00",
+  "dateModified": "2026-06-09T11:41:50.201675+03:00",
+  "dateCreated": "2026-05-27T12:14:26.534154+03:00",
+  "tenderID": "UA-2026-05-27-005747-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "95e50f8f37fc43a49b41cbcef22f1ee7",
+      "datePublished": "2026-05-27T12:16:12.430342+03:00",
+      "hash": "md5:d57f26a7d019cd5f9f7556d766839d1e",
+      "title": "Проект договору.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/92b6f475839747f48789af5e88fd09ed?Signature=oXjXOBIRaHT4TagCCE9i9qpjxseGNHoVLOP%2F80lBJWpF7Ak3JxK4w9fWMoGYoD7Y4r6dyfMf%2FFLPwxVmFdyPBg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-27T12:16:12.430342+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "6bae3a099dac427cba6a14a64179461e",
+      "datePublished": "2026-05-27T12:16:47.795440+03:00",
+      "hash": "md5:a9e125a14492612cf7a0f0e019749e9f",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/c80f0328e40b48bcbbe68b042caca00d?Signature=qccMwFHdEfBwyw%2BlKawG4zCkWQtFJCUsnxotqoRheWs97QtWPRDqeEijptNsbi3oXPMuDaMkFFxdF%2B6AjfNRDA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-27T12:16:47.795440+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "e-tender.biz",
+  "title": "Медичне обладнання та вироби медичного призначення різні, код 33190000-8 за ДК 021:2015 «Єдиний закупівельний словник»   (Паперові стерилізаційні пакети чи обгортки, код 33198200-6 за ДК 021:2015 «Єдиний закупівельний словник»; Паковання для стерилізування одноразового використання, код 13735 за НК 024:2023 «Класифікатор медичних виробів»; Стерилізаційні мішки, плоскі, паперові/з полімерної плівки, код S01010101 за НК 031:2024 «Національна номенклатура медичних виробів»)",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "5125cf8212574fcea56c00606071d57f"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "21bd90351c574d5e92accd852284abc8",
+      "title": "deliveryOfGoods",
+      "description": "Оплата товарів проводиться відповідно до рахунків та накладних Постачальника. Оплата вартості товару буде здійснюватися протягом 30 (тридцяти) робочих днів після поставки товару на склад Замовника. У разі затримки бюджетного фінансування розрахунок здійснюється протягом 14 днів з дня надходження коштів на рахунок на вказані цілі. Розрахунок здійснюється шляхом перерахування грошових коштів на розрахунковий рахунок Постачальника згідно з наданими платіжними документами за цінами Договору.",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "working"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "3c5eb0d16aea403e8a178bfe7d17a818",
+      "title": "submissionDateOfApplications",
+      "description": "Постачальник здійснює поставку товару Замовнику протягом 3 робочих днів після подачі відповідної письмової (електронної) заявки, з офіційної електронної пошти Замовника klymenko_nmmcc@post.mil.gov.ua та/або nikituk_nmmcc@post.mil.gov.ua, включаючи день отримання заявки. Замовник має право контролювати поставку товарів у строки, встановлені цим Договором. Постачальник зобов’язаний забезпечити поставку товарів у строки, встановлені Договором.",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 3,
+        "type": "working"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.awarded",
+  "agreement": {
+    "id": "42788d3656fd4c82ae7e7e9284099407"
+  },
+  "value": {
+    "amount": 243344.9,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-05-27T12:16:54.228116+03:00",
+    "endDate": "2026-06-01T00:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Національний військово-медичний клінічний центр \"Головний військовий клінічний госпіталь\"",
+    "name_en": "The National Military Medical Center, \"the Main Military Clinical Hospital\"",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "07773293",
+      "legalName": "Національний військово-медичний клінічний центр \"Головний військовий клінічний госпіталь\"",
+      "legalName_en": "The National Military Medical Center, \"the Main Military Clinical Hospital\""
+    },
+    "address": {
+      "streetAddress": "вулиця Госпітальна, будинок 18",
+      "locality": "",
+      "region": "м. Київ",
+      "postalCode": "01133",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Клименко Анна Олександрівна",
+      "email": "klymenko_nmmcc@post.mil.gov.ua",
+      "telephone": "380662288699"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "651879-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "ed5f1195f66342879c20bf1a60d90a24",
+      "description": "Рулон для стерилізації, 20000 х 10 см, Медичний папір",
+      "quantity": 5.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "717076-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "bfe2675141204eb7832bd4ddfaa42225",
+      "description": "Рулон для стерилізації, 20000 х 15 см, Медичний папір",
+      "quantity": 30.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "736227-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "b0dd0f7f129a48e8a3349ebfc93d4ce4",
+      "description": "Рулон для стерилізації, 20000 х 20 см, Медичний папір",
+      "quantity": 15.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "555269-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "95b3c6b900c444a18f7e70f59ca8778e",
+      "description": "Рулон для стерилізації, 20000 х 25 см, Медичний папір",
+      "quantity": 45.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "938897-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "40338fcc9cdd4bd9ae5b32882b9a224e",
+      "description": "Рулон для стерилізації, 20000 х 30 см, Медичний папір",
+      "quantity": 30.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "187709-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "34404c09d4c84ce29e717e93adf29109",
+      "description": "Рулон для стерилізації, 20000 х 40 см, Медичний папір",
+      "quantity": 20.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "213389-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "eeae859802d343b890cba05ccef8407d",
+      "description": "Рулон для стерилізації, 10000 х 15 см, Медичний папір",
+      "quantity": 15.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "663312-33190000-798649-42574629",
+      "category": "33190000-798649-42574629",
+      "id": "d2a8cead5bb34a628584ad9bb3484538",
+      "description": "Рулон для стерилізації, 10000 х 40 см, Медичний папір",
+      "quantity": 5.0,
+      "classification": {
+        "description": "Обладнання стерилізаційне, дезінфекційне та санітарно-гігієнічне",
+        "scheme": "ДК021",
+        "id": "33191000-5"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-01T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Госпітальна, 18",
+        "locality": "",
+        "region": "м. Київ",
+        "postalCode": "01133",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "d675b1b1476c458ab47c4e892e6d1b5a",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "ed5f1195f66342879c20bf1a60d90a24",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "44dbb552463d4d02bd814fe1bf339b4c",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "26919a5c4f27474d82efc9ec1a5d6ca4",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "97b783d4133346338e4584af5ae9668c",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "444797bed8d34cefb5c9611e2f157bff",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 10.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "66934246137f47f69b3806e46acc8c9d",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 20000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bd928c17f12448548fc24d0d5e9c69db",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "bfe2675141204eb7832bd4ddfaa42225",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "d15b2d91fdf14f418b80588f3de4726b",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "c6672fa4fe6c4851836d78a096fcf851",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "9a52e51ec9154a4798538dd744b95bec",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "64f8cc2fbfe84640b0148334558938f5",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 15.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "675a1925e0cf46dd80b57152a400190f",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 20000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "013e6baa2870461096b2df6dd54c4148",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "b0dd0f7f129a48e8a3349ebfc93d4ce4",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "4b2da3b5e86b4f4f82a54108d4383574",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "f0f4379c663849cbb5880339c5a340ba",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "a1b75925b79b4ce7a2be90d3a3b6fa41",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "6b73f29d6fb44af697d1c91b20af30d2",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 20000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "be1ab6720cbc432ba161f933635c8327",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 20.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7dd725d03c5e498aa1f6829d903be693",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "95b3c6b900c444a18f7e70f59ca8778e",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "cc114ae7b1a64024b976431cffd7756f",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "66ec8a0d6e75488aaacdeba0397dd289",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "6ead6dbbb3fa440db2b9a6b970e4bf88",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "51d4955f46794788bd48b30e90bbecd4",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 20000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "eb65a071410c491cbe091809e895281e",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 25.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54a07b9b9b7246708d94c0af708a3e4e",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "40338fcc9cdd4bd9ae5b32882b9a224e",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "7efb700ff71e4a418263af1144794363",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "974e08565f0b40f8b79c1f9372e2d6b3",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "0403e773261d4b6da02d39dc0c420dd7",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "f0abbdb9ebe64fd6b55b1b0617528829",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 20000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "838da897e9be4f1595bf6ae02a6fe18b",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 30.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ffb28cee4d034c07a9a9e1d8bc5d93fb",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "34404c09d4c84ce29e717e93adf29109",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "b7a14ede2d974647995142cff46c0114",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "297199d3b10d4d308f54373e361b1e9e",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "d413f16ff6454b87adcd5fcc9f23badc",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "7041b2cc164e40ad9bfdef9b4c0b674f",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 40.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "fbc90eee439e459caf953dfc70a8a869",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 20000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ea3aadf15ca49e98862027486dadd57",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "eeae859802d343b890cba05ccef8407d",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "a6cf237152d54096a57729faad4609a7",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "d48b67d339e1475a8870ce611765f4e2",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "f741efaaf9614d0e924b4cd44c694112",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "674b232ebfe84020bb3aec639a22625e",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 15.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "d1b658cdc1224d30b539ffe66847fcf6",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 10000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "59f451c2a6734b26b6e4006e0943986d",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "d2a8cead5bb34a628584ad9bb3484538",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "dcaba7ebae8a4923b0709f91218afee0",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "cd5920991298440894a049c65eb8826e",
+              "title": "Вид пакування",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Рулон"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "824460fcecb446d1a84019036b6318af",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Медичний папір"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "08eac89839a84f5b9cb97ae6bc52fdef",
+              "title": "Довжина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 10000.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            },
+            {
+              "id": "e586fb0cd1624dd8b18822932c27a191",
+              "title": "Ширина",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 40.0,
+              "datePublished": "2026-05-27T12:14:28.413251+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2359bf7a8fb6434b8e209bb688b646e2",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "2e31b87877aa4988ab1f56c60e9d7323",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "8aa64caf12824eaf823056f19172f77e",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-27T12:16:24.521148+03:00"
+            },
+            {
+              "id": "c5343d6bdac1429998cbb4c49a0b323c",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-27T12:16:24.521148+03:00"
+            },
+            {
+              "id": "758c47f47a744eb38526d662a7d4a5db",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-27T12:16:24.521148+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d5670323f2847149343c1dfcf7f49ff",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "e96a78892b3840b3a62bdb1e5ded305a",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "16cd9c1c9783497bb8d8ccc5eac85783",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-27T12:16:24.521148+03:00"
+            }
+          ]
+        },
+        {
+          "id": "9c062ffefcce48aca7d1749781e2fe27",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "6a5191c900ea485da7436dd9b7bdd91a",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "eligibleEvidences": [
+                {
+                  "type": "document",
+                  "id": "4117afc08f054510a548eff07b1b33da"
+                }
+              ],
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-27T12:16:24.521148+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-05-27T12:16:54.228116+03:00",
+  "bids": [
+    {
+      "id": "9dbd406742304c65bc1f352cc8427caa",
+      "date": "2026-05-29T18:11:36.875494+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:7d732daf29a77058a8d2c9e8b61ac631712cf645;SHA2-384:edbc788651ed1cadf8436c3bdddb9675fb615c1fdb071ff87cba3ff5f19908f7e79d8ed805e9c06084c6d09faed76b43;Antivirus: ESET Antivirus,fids:719f288f69e7444db417079bdd0f66a1:fide",
+          "id": "8c04ae0e31a14c2ea40fd1ff051fc11f",
+          "datePublished": "2026-05-29T18:11:36.635871+03:00",
+          "hash": "md5:9c6759152dae031d1a26050c7ba58707",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/6b1794350c0b406bbf7846d7ace740ea?Signature=IjFpxSqjn%2BjKKshcoEqIpU7PQSYQqIG1%2BOpVaYpeYRplp0XXCFCJTW9dK6uKs%2FENS9%2FTQ9sOh%2FLjLD1XC7LdCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-29T18:11:36.635871+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"Дезцентр плюс\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "36295719",
+            "legalName": "ТОВ \"Дезцентр плюс\"",
+            "uri": "http://dezmed.com.ua"
+          },
+          "address": {
+            "streetAddress": "вул. Шосе Запорізьке, буд 27",
+            "locality": "Днепропетровск",
+            "region": "Дніпропетровська область",
+            "postalCode": "49107",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Дмитрий Плахутін",
+            "email": "info@dezmed.com.ua",
+            "telephone": "+380676419292"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 243023.75,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "16cd9c1c9783497bb8d8ccc5eac85783",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "82b56ba295844e47b3982ef4016ba09c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8aa64caf12824eaf823056f19172f77e",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "62b90528a21e40f19628d03bcb6a6271",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c5343d6bdac1429998cbb4c49a0b323c",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "628fe4e771174b96ada8d7fd429526a5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "758c47f47a744eb38526d662a7d4a5db",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "4328e142d97b404497e40a1a4ebcf28f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66934246137f47f69b3806e46acc8c9d",
+            "title": "Довжина"
+          },
+          "value": 20000,
+          "id": "28aa5c29b9ee4c3ea5e03683233f01a3",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26919a5c4f27474d82efc9ec1a5d6ca4",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "87e15002aa30415aa40b2387ea3857c0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "444797bed8d34cefb5c9611e2f157bff",
+            "title": "Ширина"
+          },
+          "value": 10,
+          "id": "500c2559288142cc8f32a7fe566d22d7",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "97b783d4133346338e4584af5ae9668c",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "7b1f45df776f4bc4b8b8284234166056",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "675a1925e0cf46dd80b57152a400190f",
+            "title": "Довжина"
+          },
+          "value": 20000,
+          "id": "c66579419bf349f8914ea45de581204b",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c6672fa4fe6c4851836d78a096fcf851",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "6c0f739f5f0d48be8af6e0bfb4cea9dc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "64f8cc2fbfe84640b0148334558938f5",
+            "title": "Ширина"
+          },
+          "value": 15,
+          "id": "3918046135cc4b4fb4a4c8f829441084",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9a52e51ec9154a4798538dd744b95bec",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "db260243118241998a232cd447d00c18",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6b73f29d6fb44af697d1c91b20af30d2",
+            "title": "Довжина"
+          },
+          "value": 20000,
+          "id": "9b73c576848741b8a407df7f0377a2ac",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a1b75925b79b4ce7a2be90d3a3b6fa41",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "83e235c82b594e788a222e03a7d4ba3b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "be1ab6720cbc432ba161f933635c8327",
+            "title": "Ширина"
+          },
+          "value": 20,
+          "id": "c0a8083b6db94a0daeebe27361ed3e29",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f0f4379c663849cbb5880339c5a340ba",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "0ce0c641ca9c49f4bb8a1f423c1f80d9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "51d4955f46794788bd48b30e90bbecd4",
+            "title": "Довжина"
+          },
+          "value": 20000,
+          "id": "cdce12ec44c7489d8283fae5fa9143ec",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6ead6dbbb3fa440db2b9a6b970e4bf88",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "dd13164e6915443eaa9cbf11f1fa7fc4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "eb65a071410c491cbe091809e895281e",
+            "title": "Ширина"
+          },
+          "value": 25,
+          "id": "c520d0ddae6d40b888b1351f4b0e1f1c",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "66ec8a0d6e75488aaacdeba0397dd289",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "50fe68b1845c47fab2eee362dee4ecef",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "824460fcecb446d1a84019036b6318af",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "ff028154b47741129e6bcd1a7daba916",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e586fb0cd1624dd8b18822932c27a191",
+            "title": "Ширина"
+          },
+          "value": 40,
+          "id": "2f308517987e406180622c1b3213910e",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "08eac89839a84f5b9cb97ae6bc52fdef",
+            "title": "Довжина"
+          },
+          "value": 10000,
+          "id": "5375eae760f14d26a23856c3cb6bb799",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cd5920991298440894a049c65eb8826e",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "d8e472b20ea449c59ae02125c804144e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1b658cdc1224d30b539ffe66847fcf6",
+            "title": "Довжина"
+          },
+          "value": 10000,
+          "id": "60390e8c32154c25a4b7af44f4b79d81",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d48b67d339e1475a8870ce611765f4e2",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "ef6707239b2a43edb0f28810a1bbf7d1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "674b232ebfe84020bb3aec639a22625e",
+            "title": "Ширина"
+          },
+          "value": 15,
+          "id": "9dd5c060eb2b4883856b287a967cc473",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f741efaaf9614d0e924b4cd44c694112",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "db653a5e097448fbbebdebbd0e3ccc06",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fbc90eee439e459caf953dfc70a8a869",
+            "title": "Довжина"
+          },
+          "value": 20000,
+          "id": "18a3f41157fa4292882664f75d2ae59b",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d413f16ff6454b87adcd5fcc9f23badc",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "c45ca9d2a09b425da7188ca42f8e3667",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7041b2cc164e40ad9bfdef9b4c0b674f",
+            "title": "Ширина"
+          },
+          "value": 40,
+          "id": "addf0450ea7b4abd94e5b79cc55ee324",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "297199d3b10d4d308f54373e361b1e9e",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "7707fde0c7dd4aa3b8995a9588bb2bd1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f0abbdb9ebe64fd6b55b1b0617528829",
+            "title": "Довжина"
+          },
+          "value": 20000,
+          "id": "6b9fc92e4d6443fc9bae03ca307916f5",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0403e773261d4b6da02d39dc0c420dd7",
+            "title": "Матеріал"
+          },
+          "values": [
+            "Медичний папір"
+          ],
+          "id": "d5b4e133e2034ecfb5dd60b4ebdc1dc3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "838da897e9be4f1595bf6ae02a6fe18b",
+            "title": "Ширина"
+          },
+          "value": 30,
+          "id": "e52566eb22774a29a5416299786c84c7",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "974e08565f0b40f8b79c1f9372e2d6b3",
+            "title": "Вид пакування"
+          },
+          "values": [
+            "Рулон"
+          ],
+          "id": "d5d5578c459a45cc93f9b1ddfb8607c7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "ed5f1195f66342879c20bf1a60d90a24",
+          "description": "Рулони пласкі OPTIMALITY РПО 100Х200 (пар/етилен оксид)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 556.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "4705605e62c24cf4a2464d89088b1f15"
+        },
+        {
+          "id": "bfe2675141204eb7832bd4ddfaa42225",
+          "description": "Рулони пласкі OPTIMALITY РПО 150Х200 (пар/етилен оксид)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 775.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 30.0,
+          "product": "367fc19e44c6488ba282dc50bafbb8d5"
+        },
+        {
+          "id": "b0dd0f7f129a48e8a3349ebfc93d4ce4",
+          "description": "Рулони пласкі OPTIMALITY РПО 200Х200 (пар/етилен оксид)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1033.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "45de73133a884f3391f5c5002b773c2c"
+        },
+        {
+          "id": "95b3c6b900c444a18f7e70f59ca8778e",
+          "description": "Рулони пласкі OPTIMALITY РПО 250Х200 (пар/етилен оксид)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1250.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 45.0,
+          "product": "5f35c5be907746cc97fc9353e1c18f00"
+        },
+        {
+          "id": "40338fcc9cdd4bd9ae5b32882b9a224e",
+          "description": "Рулони пласкі OPTIMALITY РПО 300Х200 (пар/етилен оксид)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1800.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 30.0,
+          "product": "43d5609622994503b99556a915b8b855"
+        },
+        {
+          "id": "34404c09d4c84ce29e717e93adf29109",
+          "description": "Рулони пласкі OPTIMALITY РПО 400Х200 (пар/етилен оксид)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2400.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 20.0,
+          "product": "1576e6cfe4aa461e9db40c187465e7a2"
+        },
+        {
+          "id": "eeae859802d343b890cba05ccef8407d",
+          "description": "Рулони зі складкою OPTIMALITY РСО 150х50х100 (пар/формальдегід)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1000.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 15.0,
+          "product": "2f8eb1cd9f6049d8bc58cd658560a428"
+        },
+        {
+          "id": "d2a8cead5bb34a628584ad9bb3484538",
+          "description": "KMNHG-400100 Рулон зі складкою 400мм*100м",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2470.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "fe50e6380da944b096220e66b6e7b3d9"
+        }
+      ],
+      "submissionDate": "2026-05-29T18:11:36.875494+03:00",
+      "initialValue": {
+        "amount": 243023.75,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-01T00:00:12.218096+03:00",
+    "endDate": "2026-06-01T09:30:15.937684+03:00"
+  },
+  "awards": [
+    {
+      "id": "6702889031e14de9a3b8fe4f01fec565",
+      "status": "active",
+      "date": "2026-06-01T09:30:15.937684+03:00",
+      "value": {
+        "amount": 243023.75,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"Дезцентр плюс\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "36295719",
+            "legalName": "ТОВ \"Дезцентр плюс\"",
+            "uri": "http://dezmed.com.ua"
+          },
+          "address": {
+            "streetAddress": "вул. Шосе Запорізьке, буд 27",
+            "locality": "Днепропетровск",
+            "region": "Дніпропетровська область",
+            "postalCode": "49107",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Дмитрий Плахутін",
+            "email": "info@dezmed.com.ua",
+            "telephone": "+380676419292"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "9dbd406742304c65bc1f352cc8427caa",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "fe637c9d169c427c9b9014136564137c",
+          "datePublished": "2026-06-01T09:30:13.544079+03:00",
+          "hash": "md5:bae015d1daac856666737e6f1a3eac8b",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/dad15a3d8fd9465a9dbc7ea9c702ef1a?Signature=Gk3Yvp7%2B1aJH2tIYuwqjK9Ve60J8qHA0Rxh8m%2BT%2FTiL%2FaVO9vp%2BYch9fiK9sKxppt3t7uEko8NweOsLL9qajBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-01T09:30:13.544079+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-01T00:00:12.218096+03:00",
+        "endDate": "2026-06-04T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "e57691e74dff43899045910ebc386725",
+      "status": "pending",
+      "awardID": "6702889031e14de9a3b8fe4f01fec565",
+      "date": "2026-06-01T09:30:15.937684+03:00",
+      "contractID": "UA-2026-05-27-005747-a-a1",
+      "title": "Медичне обладнання та вироби медичного призначення різні, код 33190000-8 за ДК 021:2015 «Єдиний закупівельний словник»   (Паперові стерилізаційні пакети чи обгортки, код 33198200-6 за ДК 021:2015 «Єдиний закупівельний словник»; Паковання для стерилізування одноразового використання, код 13735 за НК 024:2023 «Класифікатор медичних виробів»; Стерилізаційні мішки, плоскі, паперові/з полімерної плівки, код S01010101 за НК 031:2024 «Національна номенклатура медичних виробів»)",
+      "title_en": null,
+      "description": null,
+      "description_en": null,
+      "value": {
+        "amount": 243023.75,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 227125.0
+      }
+    }
+  ],
+  "id": "a1c1fbbec25041c4818f10ba1f6b3046"
+}

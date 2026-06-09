@@ -1,0 +1,2708 @@
+{
+  "description": "Країною-походження товару не може бути Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран.\nУмови постачання - згідно умов Договору, проект додається.",
+  "date": "2026-06-09T11:33:39.741864+03:00",
+  "dateModified": "2026-06-09T11:38:21.649447+03:00",
+  "dateCreated": "2026-05-28T13:26:08.756279+03:00",
+  "tenderID": "UA-2026-05-28-006603-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:287f7c16481c8c120ba44803ee9d426e9da5db7e;SHA2-384:20f26d08710194c67d766ad82b58b1fdedd1f6c0a568328f6f272ffc61465e714e9c446f64a62521b956c3c6c9b1222a;Antivirus: ESET Antivirus",
+      "relatedItem": "23057f046e464212871c12f7bd1b4baa",
+      "id": "e3461a2481ee4d5591783d0152579432",
+      "datePublished": "2026-05-28T13:26:10.135744+03:00",
+      "hash": "md5:a2ebf8a69bf9181827df603ad2765c44",
+      "title": "ПРОЕКТ ДОГОВОРУ.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/85330a4225574fc9b4c1abcc3731aeb0?Signature=n1VVhkWByr%2F8z26psGsPi06bjqJ8wEOV1oX2Sz6P6VPdclvJNhLyYV5Yx%2BtO9uO8z%2FWQe7L742OKmf5lDpiICw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-28T13:26:10.135744+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:52b7446c065cdc957aaa6cb70f0fd2ca04c3e834;SHA2-384:f431fa9c886b12ec303afcec5801e42016464b0aefac6ac37bca6c3e49711be1226c70227dd60818404cd10994dfb261;Antivirus: ESET Antivirus",
+      "id": "916a1c833bbe4281819f79978db59ce1",
+      "datePublished": "2026-05-28T13:32:06.256013+03:00",
+      "hash": "md5:9ea54a45b9174b56a0e5616b98db977c",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/42da9a757af449d083f976d247011b6c?Signature=QhKJIGi2He9Y8WSqxD4dfFRXQpR%2FTscL7FKodojQq%2BMEX9EJb2h7RZ7YKvZDB5gjrQgFZnmRCejWbwjS9dWmBQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-28T13:32:06.614090+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Яйце куряче столове, категорія Перша (M)",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "9640e9f4a3f64f57bb29f634463b243e"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "a3578aa46cdb4387aaf0b220026b0172",
+      "title": "submissionDateOfApplications",
+      "description": "",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 1,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "8e3b081909064404bd36ef408f459cf1",
+      "title": "deliveryOfGoods",
+      "description": "",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "working"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "35485424274f4fb486b5a70f7b1fa4ff"
+  },
+  "value": {
+    "amount": 509400.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-05-28T13:32:06.972471+03:00",
+    "endDate": "2026-06-02T10:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Комунальне некомерційне підприємство \"Клінічний заклад з надання психіатричної допомоги \"ПСИХІАТРІЯ\" виконавчого органу Київської міської ради (Київської міської державної адміністрації)",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "01994072",
+      "legalName": "Комунальне некомерційне підприємство \"Клінічний заклад з надання психіатричної допомоги \"ПСИХІАТРІЯ\" виконавчого органу Київської міської ради (Київської міської державної адміністрації)",
+      "uri": "https://psychiatry-kyiv.itmed.org/"
+    },
+    "address": {
+      "streetAddress": "ВУЛИЦЯ КИРИЛІВСЬКА, будинок 103",
+      "locality": "місто Київ",
+      "region": "м. Київ",
+      "postalCode": "04080",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Наталія Могильна",
+      "email": "mogilnaya.nata@gmail.com",
+      "telephone": "+380442936441",
+      "url": "https://psychiatry-kyiv.itmed.org/"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "903111-03140000-031488-40996564",
+      "category": "03140000-031488-40996564",
+      "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+      "description": "Яйце куряче столове, категорія Перша (M)",
+      "quantity": 90000.0,
+      "classification": {
+        "description": "Продукція тваринництва та супутня продукція",
+        "scheme": "ДК021",
+        "id": "03140000-4"
+      },
+      "deliveryDate": {
+        "endDate": "2026-09-30T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Кирилівська,103",
+        "locality": "Київ",
+        "region": "м. Київ",
+        "postalCode": "04080",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "8fbcff973f4248f89c79e5031f7d8436",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "c21730d1f6d94886bf39cbec87f8a2f9",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "953f4d29824348f598c5d0a9d28cb6cc",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            },
+            {
+              "id": "7b744de4c2fd4983877b004f8f036675",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            },
+            {
+              "id": "c4e970b593f044d592fad35563390872",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6db91fe3a4d4c819c240b66e4f6a2be",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "063687c630374a038f594dcf418d1af2",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "1c2db46c09b3477c8de8158ade7c0770",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            }
+          ]
+        },
+        {
+          "id": "010fc59849b4468089b8132f9be98256",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "b556c718afd34c2a9e954cbf489735fe",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "eligibleEvidences": [
+                {
+                  "type": "document",
+                  "id": "184e36abe5c240c88bc2cab9206a3365"
+                }
+              ],
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f0b10984fd814b5ab422a29542cb7f4a",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "4688094874e8434f8f8b57f6edd43847",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "ba407841cab74095947e3b5db17be41e",
+              "title": "Категорія",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Перша (М)"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            },
+            {
+              "id": "771a6ebfd9af425398a06347192ffa7d",
+              "title": "Маса одного яйця",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "від 53 до 62,9 г"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            },
+            {
+              "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+              "title": "Відповідність ДСТУ 5028",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "292b999881754ac29fe425a1624ce873",
+      "description": "Забезпечення виконання договору про закупівлю повертається: 1) після виконання переможцем процедури закупівлі/спрощеної закупівлі договору про закупівлю; 2) за рішенням суду щодо повернення забезпечення договору у випадку визнання результатів процедури закупівлі/спрощеної закупівлі недійсними або договору про закупівлю нікчемним; 3) у випадках, передбачених статтею 43 цього Закону; 4) згідно з умовами, зазначеними в договорі про закупівлю, але не пізніше ніж протягом п’яти банківських днів з дня настання зазначених обставин",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+      },
+      "title": "Забезпечення виконання договору про закупівлю",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.16"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1483"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "27"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "447b58f8e7d04c2c87e26aa5ab3ddbc4",
+          "description": "При наданні забезпечення у іншій формі підтверджується, що",
+          "requirements": [
+            {
+              "id": "db1acf26c0644347a28fecf669d0d32a",
+              "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ",
+              "dataType": "boolean",
+              "eligibleEvidences": [
+                {
+                  "description": "З метою забезпечення належного виконання зобов’язань за цим Договором Постачальник надає Замовнику забезпечення виконання договору у розмірі  5% від загальної суми Договору.\nЗабезпечення виконання договору надається у формі грошових коштів.\nЗабезпечення виконання договору надається Постачальником до моменту підписання цього Договору.\nРеквізити для перерахування:\nОтримувач: Комунальне некомерційне підприємство «Клінічний заклад з надання психіатричної \nдопомоги «ПСИХІАТРІЯ» виконавчого органу Київської міської ради (Київської міської  держа      державної адміністрації).\nКод за ЄДРПОУ: 01994072\nЮридична адреса: 04080, м. Київ, р-н Подільський вул. Кирилівська, 103.\nБанківські реквізити: ІВАN UA 2132 0478 00000 2600 2924 8814 46 в  АБ «Укргазбанк».\nПризначення платежу: забезпечення виконання договору по запиту ціни пропозиції на закупівлю Яйце куряче столове, категорія Перша (M)  (ДК 021:2015: 03140000-4 Продукція тваринництва та супутня продукція), UA-******-**-******-а.\nПостачальник повинен надати Замовнику документ, що підтверджує внесення забезпечення виконання договору (платіжне доручення, тощо). Договір укладається тільки після отримання Замовником платіжного доручення тощо. \nСтрок дії забезпечення виконання договору має бути не менше ніж строк дії Договору, визначений в п.11.2 Договору.",
+                  "type": "document",
+                  "id": "c24725f0cfa6420daa5a6b0ece38355a"
+                }
+              ],
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            },
+            {
+              "id": "7079ddb98640406084d4862229f311ba",
+              "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "відсоток"
+              },
+              "expectedValue": 5,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            },
+            {
+              "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+              "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "DAY",
+                "name": "день"
+              },
+              "expectedValue": 5,
+              "datePublished": "2026-05-28T13:26:10.722049+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-05-28T13:32:06.972471+03:00",
+  "bids": [
+    {
+      "id": "d4ba1cd5fd834ec4b13cff38eb835bcf",
+      "date": "2026-05-28T16:11:48.760663+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:6cc5409b2a1601a16c94cd5e7e285463bd56443d;SHA2-384:8165a5750bbc8cc310738d1767bb8b781d91e654628b626b25163ef4b643b91dab055f2489c1512b4aff21611991070d;Antivirus: ESET Antivirus,fids:05c37947ff2e43d1b96c013511192b84:fide",
+          "id": "82c41636e68545a499d4bc23a7aa1373",
+          "datePublished": "2026-05-28T16:11:48.319016+03:00",
+          "hash": "md5:05ab9daeef93fb73acfd0cd1d6ccbbb6",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/e4e85a2c1e6042ea9d411d7c546b64f0?Signature=L48c1o24iHjqwAb1AWx5A3ZQ7a0QVbXmg6gfJLwGf62mHS1yuq%2F5EtEn2t8bnbP%2Fnkv9yD4C%2F2oD0HSI8YffDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-28T16:11:48.319016+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ЯСЕНСВІТ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "32619343",
+            "legalName": "ТОВ \"ЯСЕНСВІТ\""
+          },
+          "address": {
+            "streetAddress": "вулиця Покровська, будинок 22А",
+            "locality": "Білоцерківський район, село Ромашки",
+            "region": "Київська область",
+            "postalCode": "09623",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Роман Чижевський",
+            "email": "r.chizhevskii@trade.ovostar.ua",
+            "telephone": "+380504455887"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 432000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "d9e5a3e37868407c92395fd1c36c20f9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "1462999ca1ef4640bbcf3aa0953211b3",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5,
+          "id": "fb5d759dd27842ac82342c1fb2bb65eb",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "ab4614ced3244ee99b0447dcaf2520f9",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "142df33fc930446fb01d61ab456f7d32",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "523730d33f4b4f92a3d165acdc4f1f67",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "af05faaaaeae4bb2a023860b27ff54b8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "613bb456b2424efab8e21ad211a65e28",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "2e18906a923145f29e1690c97a3e8505",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "73855ee960eb4420ad93af44f045a989",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 4.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-05-28T16:11:48.760663+03:00",
+      "initialValue": {
+        "amount": 432000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "976f41a17f17406789d60216e723c3e3",
+      "date": "2026-05-29T08:06:11.052352+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:ce94fed3470f0fdf0ccb33a73a422a9de830f5c8;SHA2-384:8376ffe5faed2eb4f7156e4b3db04c872b1b11109b0a33eae256eca686750121cfab82fc41bc628ef63a8e24b2c0bc9d;Antivirus: ESET Antivirus,fids:a5f3c1b112db465baffe5fb5aee813c9:fide",
+          "id": "c7a0e30beee64b8faa1f698560ca004b",
+          "datePublished": "2026-05-29T08:06:10.597260+03:00",
+          "hash": "md5:50c90e0fcafb1106c3b532ba55e4a5ef",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/76b4772eb1bb41e9856839c43ad6a4d3?Signature=CckMWXvk8eCYZsntg%2F9%2BrPiY2MtDI4c%2FBH7eyI4TwCK3MMTxOHCNKIylcRpSM9DfH%2BtqMQNGzA1rHVbHhTDJBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-29T08:06:10.597260+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"СІЛЬВЕР ГРУПП СТАР\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43540758",
+            "legalName": "ТОВ \"СІЛЬВЕР ГРУПП СТАР\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ МИКОЛИ ПИМОНЕНКА, будинок 13",
+            "locality": "місто Київ",
+            "region": "м. Київ",
+            "postalCode": "04050",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Віталій Мазаний",
+            "email": "vitsliy2017@gmail.com",
+            "telephone": "+380993721014, +380671203440"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 486000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "add19d3afae34610923d4bacae160abb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "46df608adc2f472fbf83440162e5f386",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5,
+          "id": "07326d9b0fc1467fac9ef38ddd71c232",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "9b14164b0b3c47e586480c7e0346fe6d",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "8537672e171e4672afd2c651938f5ea1",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "3bcace4e932244e38760bb3cc977cd66",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "383da7d70b2f49f6b1cc8807bc21d647",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "9eddc5dc718744cab101d7e915229716",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "dc7f1811c2bb41e8bf6387fbb7dd032e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "4a05795b40dd4026aac2757552433768",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 5.4,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-05-29T08:06:11.052352+03:00",
+      "initialValue": {
+        "amount": 486000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "7e432765abd24d0ab256beba4bd24c1f",
+      "date": "2026-05-28T23:28:01.941595+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "e74fe1b3d8fb4580adad2c9a91a14e73",
+          "datePublished": "2026-05-28T23:28:01.660065+03:00",
+          "hash": "md5:309a0a2a58d9c74960045423329bf554",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/71ea773a40684182a0a4411456451d80?Signature=tEqbeSeeUfu6%2BBYITIJln9%2F%2FPPHiaL%2FrNTNlP9KSKzi8ek9kYJeueoVlZiQ%2FE4NvfE2hILR%2F1jgJcyjtG7iuDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-28T23:28:01.660065+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП Навроцька Ніна Федорівна",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2107505062",
+            "legalName": "ФОП Навроцька Ніна Федорівна"
+          },
+          "address": {
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ніна Навроцька",
+            "email": "valya020584d@ukr.net",
+            "telephone": "380960781668"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 505800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "e04ed80e10874aaaaf1c7c5a52b7af97",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "e4b50d5308df40f691d2c9ad71130a70",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "0d5f656f18d14511bf0c68ea48272f7c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "7872113f9d4e40e59a3a5bc584d8f639",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "8dcb781a298d47c5a9d2c49e1d24e13f",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5.0,
+          "id": "a8507d02e5fa4bfab68013817c2b0588",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "3a5378fb87b14ac78ff06d6deb5c1e75",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "c63b9a33af9440e8a7767f1e0d1476c7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "792ed8195fe041709090e435bc088f18",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "611d7c311bff439fbd619b9872cee56d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 5.62,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-05-28T23:28:01.941595+03:00",
+      "initialValue": {
+        "amount": 505800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "2b23e278ecb84766ad2259623e011f5b",
+      "date": "2026-05-29T16:32:42.580710+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "5fe134bfe61f4eefae2a7c2572898393",
+          "datePublished": "2026-05-29T16:32:42.191284+03:00",
+          "hash": "md5:bfab4fbc09713b3edf0a18af165bc46e",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/3ede2d5b8a4e456aa64050c7f1fcc455?Signature=lPB5Ha%2Bi1okd5xgWTfssKqi72B19rScl3hmkSy4FKxW4rWyHfpJo35ZFMs6Y4%2BjNbOLfGsWoQQrCuW%2Bz7LnDBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-29T16:32:42.191284+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю “Гранат”",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "21620913",
+            "legalName": "Товариство з обмеженою відповідальністю “Гранат”"
+          },
+          "address": {
+            "streetAddress": "вул. Краківська, будинок 18-А",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "02094",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Білокриницька Катерина Михайлівна",
+            "name_en": "Belokrinitskaya Catherine Mykhaylivna",
+            "email": "mgranat@ukr.net",
+            "telephone": "380503347798"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 405000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "27335124c9b64df097dcd4d65da5f926",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "69b4116f89dc40c7810e1940ce89673a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "f049853a234b4a469057288bf5eb6b01",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "84ce3b17523e4c99abcb2d374ef4225a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "5799d9c0d146404e83a3b6450202d38d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "663504e399214408806f2b3236e4ae6b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "224312ac8eff4d07a376eb8c0e73751c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5.0,
+          "id": "7076561620514a329a6b52ce00f1b1d6",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "e94501864f20491199b35f978b7a9e5c",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "6ea947a1f51e44b3a06a2d4fb0f65c15",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 3.75,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-05-29T16:32:42.580710+03:00",
+      "initialValue": {
+        "amount": 405000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "e3062447d5274514a509774faaec6a91",
+      "date": "2026-06-01T14:52:06.269163+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "be6632a547ad44c7a891a540ff8775c7",
+          "datePublished": "2026-06-01T14:52:05.841500+03:00",
+          "hash": "md5:73ebde27184f20d43cc198b6a62f5994",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/b01a0b87ddb446809b9eaf8b35331eb3?Signature=RMDp8I1Lmp8Pd949KsLb4f1nqUxebT2K6ezaKDQ59laT0pxBuTu1EJFDhxhSXBqij3Uzaj5N2AvW69UcdlMjAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-01T14:52:05.841500+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю \"Руол Стандарт\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "34200887",
+            "legalName": "Товариство з обмеженою відповідальністю \"Руол Стандарт\""
+          },
+          "address": {
+            "streetAddress": "вул. Гайдамацька буд. 7, кв.6",
+            "locality": "Благовіщенське",
+            "region": "Кіровоградська область",
+            "postalCode": "26400",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Світлана Назаренко",
+            "email": "NNN-SSS-VVV@UKR.NET",
+            "telephone": "380671842853"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 426600.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "17eb527841014dabac8bcaf93973cb4a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "e1c86f06b1204ca38abfeae5fb917a21",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "139883cc09334e14a59292cbd5a8325d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "c59522046a0e4fe28837be813bb58225",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "68fc21fee32c4601832829bcf483065c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5.0,
+          "id": "d04728d14b674c4881d43f47b4a3ab6f",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "c00237720881443f93213619f6bd350a",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "a5bbdbc782ec497189c2846036ad73d4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "97cebc2d4953403aa233d9d20be74371",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "332a1b31f910414b961965a07313dcc0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 3.95,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-06-01T14:52:06.269163+03:00",
+      "initialValue": {
+        "amount": 426600.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "b4f60a8d13674a208c867160bd41003d",
+      "date": "2026-06-01T15:14:44.509790+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "7595282a69924743924df8b47360b19e",
+          "datePublished": "2026-06-01T15:14:44.254466+03:00",
+          "hash": "md5:2be4932130e1e497985fa7ee28af3576",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/6e2133943b604f0ea64d54ca7a8d8eb8?Signature=dOJraPnkP7dUAhcLubhcMnTdD9UhE8CuY1t%2Ba2m%2BLxzFrWDihm0h7QQViDTyEr0oUpTC%2BlQQ%2Fj%2BkPM1QFU1BBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-01T15:14:44.254466+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЮТ КОМПАНІ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45351684",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ЮТ КОМПАНІ\""
+          },
+          "address": {
+            "streetAddress": "Україна, 49000, Дніпропетровська обл., місто Дніпро, пр.Поля Олександра, будинок 104А",
+            "locality": "Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49000",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Кашкарова Наталія Олександрівна",
+            "email": "n.kashkarova@ut-company.com.ua",
+            "telephone": "380502271332"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 507600.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "5d0d481ed9f44d318483a4a2a532a919",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "7c2a97a363604ef288052b72989c1c5d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "c5b6ae6ca0254e2c908d0d8e6675b349",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "728249decccb4ae894c961c44e7e4a00",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "536ffe059ac041bea83874aeeab9fe30",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5.0,
+          "id": "18f5af9e195b4ef9b808d35a86c25cd9",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "1178906ec54c43fdb50d3b78c3cabd80",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "1e15d32728fc43589a54f90becfc4bb4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "1470921f9b1742c4b8e1e2345c49b44b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "16b21e71ea3a4aea83120e4113292baa",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 4.7,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-06-01T15:14:44.509790+03:00",
+      "initialValue": {
+        "amount": 507600.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "6b1d360e49d4438c937bf890b0c67841",
+      "date": "2026-06-01T16:45:14.226801+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "386faf07c1ee4bde9e2d0901312dc87a",
+          "datePublished": "2026-06-01T16:44:45.061631+03:00",
+          "hash": "md5:f69f59d40c46126ee4f22cdb5c94291d",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/2ddbf2df85634ae09a0deb2a30bf4c84?Signature=ObeWAElA7qwhHQD3QmdcpXNaxptCZdBdklYIygrxVhL7j%2FRFsrUs5vWipkAJMcPyiYRScbrwSf9i2gqDN14UBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-01T16:44:45.061631+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАНТРІ-САЙД\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45057319",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КАНТРІ-САЙД\""
+          },
+          "address": {
+            "streetAddress": "вул. Джонса Ґарета, будинок 8, офіс 7",
+            "locality": "",
+            "region": "м. Київ",
+            "postalCode": "04119",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Касьянова Наталія Геннадіївна",
+            "email": "country-side@ukr.net",
+            "telephone": "380665856359"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 486000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "780ac78fad5f472bbb9b5bd11cb7d24a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "5c31fc05fe984de59b5c3aa042253dd9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "3da09fe859db4f419763854ca56cd071",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5.0,
+          "id": "3e2da1aa9ae644f0ae6ec6750c3f8c0a",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "eaa5bc0282f441a8bb986278c46006f4",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "9aa8357b8442473ba4c8699cedfbf875",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "cdc7868ca7b74dbc8aff8a1104635ea9",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "2cd4c3294e0443b28a7602ffddb4ed63",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "d98ece810cc445ec9cd819d4401c65ba",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "bf9711cee66446f7800964b033b8b9a0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 4.5,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-06-01T16:45:14.226801+03:00",
+      "initialValue": {
+        "amount": 486000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "fe98f84fb4454a4a95ec67dd7a58dac9",
+      "date": "2026-06-01T19:23:02.607593+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "bd8b10a3ba6d41baad77d3d47281a2db",
+          "datePublished": "2026-06-01T19:23:01.954411+03:00",
+          "hash": "md5:022947aa8ba9807105a58789117b3198",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/54ae3e6fe8bc409b825c73f4594db2c7?Signature=mEUfR72gDnSkwB6Tq%2BxrnzvbpkmAyYSw1rTl9jOcTDK%2B%2Ffl3BIGUC75C7LaaGIJGw8r375syk%2FSsJtAX8rPCCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-01T19:23:01.954411+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ПП \"Продфіш\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42784504",
+            "legalName": "ПП \"Продфіш\""
+          },
+          "address": {
+            "streetAddress": "вул.Східна, буд. 1А",
+            "locality": "БАХМАЧ",
+            "region": "Чернігівська область",
+            "postalCode": "16500",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "ПП \"Продфіш\"",
+            "email": "prodfish1@gmail.com",
+            "telephone": "0675033593"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 437400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "19cae0cac69a453e8da804f916b3ebb5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "09491c042bdc4c41bf172da3859307fb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "363be8d6aeec40e586e89f77d410565e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "47520d79767e48ab9e60c6b5a6c52a9b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "288a0cceb7424e1982a681ea46bb434e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "be6dcacafa24447c86ee5f399e86d62d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "17c4829b6b484ec3871e21b6c4cf0d0b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "9f0d494a72d848a8a3817ff727d9ae0c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5,
+          "id": "14bb47a8f21e4f74b8e94a44c3bec9aa",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "6381f9bafdcf42428914fff06954b388",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 4.05,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-06-01T19:23:02.607593+03:00",
+      "initialValue": {
+        "amount": 437400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "22e0406b40594384b57acfa29f0924a4",
+      "date": "2026-06-01T20:40:09.338710+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "8b3ae8e5f1e94f8faecdc0f41cacac00",
+          "datePublished": "2026-06-01T20:40:08.982773+03:00",
+          "hash": "md5:dc257bf1bea7866fd14b1aeac1f321bb",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/3d7cc4305bee4e4b8242621eda0d43b3?Signature=F1dmgvcHU7PJUGSiNY35%2FxWmzXnQxdoUOxxU9SYRfFVfeJPep58No%2FeYQ1VKYEwTLeMursEmqhhZzDGqw0GLBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-01T20:40:08.982773+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОВАЛ 97\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42593602",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОВАЛ 97\""
+          },
+          "address": {
+            "streetAddress": "вулиця Василенка Олександра, будинок 8",
+            "locality": "Білоцерківський р-н село Медвин",
+            "region": "Київська область",
+            "postalCode": "09751",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Романов Тарас",
+            "email": "dontehex@gmail.com",
+            "telephone": "380633790669"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 383400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "ba407841cab74095947e3b5db17be41e",
+            "title": "Категорія"
+          },
+          "values": [
+            "Перша (М)"
+          ],
+          "id": "0fe511fe3cb047159ded630435fb44ab",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "771a6ebfd9af425398a06347192ffa7d",
+            "title": "Маса одного яйця"
+          },
+          "values": [
+            "від 53 до 62,9 г"
+          ],
+          "id": "9d74b2601dd54b2483b7383b27e94f44",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db1acf26c0644347a28fecf669d0d32a",
+            "title": "ЗАБЕЗПЕЧЕННЯ ВИКОНАННЯ ЗОБОВ’ЯЗАНЬ ЗА ДОГОВОРОМ"
+          },
+          "value": true,
+          "id": "02f62e50796247f08ee04d21c2b9005c",
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7079ddb98640406084d4862229f311ba",
+            "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю"
+          },
+          "value": 5.0,
+          "id": "446f5a16d646457fab160b33a4a99753",
+          "unit": {
+            "code": "P1",
+            "name": "відсоток"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a70fac5c9e59499a8fa203302ee0fb8f",
+            "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на"
+          },
+          "value": 5,
+          "id": "e7d8c527b47f4a2e85aa4155275812fa",
+          "unit": {
+            "code": "DAY",
+            "name": "день"
+          },
+          "classification": {
+            "scheme": "LAW922",
+            "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1c2db46c09b3477c8de8158ade7c0770",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "c3a3614acda2496b91cd820c1e82c96f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c4e970b593f044d592fad35563390872",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "9f8dbcb58516431aa2a1e2199f70ae0a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7b744de4c2fd4983877b004f8f036675",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "a8972a6db08e4d12b12b0a70e06c6933",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "953f4d29824348f598c5d0a9d28cb6cc",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "197cd9c8b7ed4db2860bdc19ae554a18",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ad2a51900e4147ce9b5f5ef87fcdaf40",
+            "title": "Відповідність ДСТУ 5028"
+          },
+          "value": true,
+          "id": "30f4974c70ab40f18a2d809397244675",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "7a432767e6fe4eb6bd4f99d3da1f7d45",
+          "description": "Яйце куряче столове, категорія Перша (M), ДСТУ 5028, 1 шт.",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 4.26,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 90000.0,
+          "product": "728b6c33978142ee9487def44d2ac61b"
+        }
+      ],
+      "submissionDate": "2026-06-01T20:40:09.338710+03:00",
+      "initialValue": {
+        "amount": 383400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-02T10:00:05.686563+03:00"
+  },
+  "awards": [
+    {
+      "id": "1771ffa8245e4d798ab869160f5d7242",
+      "status": "cancelled",
+      "date": "2026-06-08T10:32:57.523721+03:00",
+      "value": {
+        "amount": 383400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОВАЛ 97\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42593602",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОВАЛ 97\""
+          },
+          "address": {
+            "streetAddress": "вулиця Василенка Олександра, будинок 8",
+            "locality": "Білоцерківський р-н село Медвин",
+            "region": "Київська область",
+            "postalCode": "09751",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Романов Тарас",
+            "email": "dontehex@gmail.com",
+            "telephone": "380633790669"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "22e0406b40594384b57acfa29f0924a4",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "22aa71c814df47c3b6b34563265ab817",
+          "datePublished": "2026-06-02T10:18:06.632191+03:00",
+          "hash": "md5:72b8650104b4af3abb5e479935f3a79d",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/d1310630cedc4980a6afa12dfad713ab?Signature=IFf67bVT7sgIDahnQoozNI1gM1CumMCOM4ax2v0dKM90b09il4ug5P8rwleqw7Af6M817CK7qRlGNAcLbW4sCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T10:18:06.632191+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-02T10:00:05.686563+03:00",
+        "endDate": "2026-06-05T00:00:00+03:00"
+      },
+      "qualified": true
+    },
+    {
+      "id": "5e6e925a4a6f49bbb2b12ca680fb170b",
+      "status": "unsuccessful",
+      "date": "2026-06-08T10:40:04.955086+03:00",
+      "value": {
+        "amount": 383400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОВАЛ 97\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42593602",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОВАЛ 97\""
+          },
+          "address": {
+            "streetAddress": "вулиця Василенка Олександра, будинок 8",
+            "locality": "Білоцерківський р-н село Медвин",
+            "region": "Київська область",
+            "postalCode": "09751",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Романов Тарас",
+            "email": "dontehex@gmail.com",
+            "telephone": "380633790669"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "22e0406b40594384b57acfa29f0924a4",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "description": "SHA1:d91123d50e3f7d2c02382cdaafcb7e679296b4fa;SHA2-384:574a33fc8146a56688791c9743586e59c857c6b5749fc06117b16f518b97550a4550efd8324eee145ad1dfd85f7d8ba2;Antivirus: ESET Antivirus",
+          "id": "446d97f33ce04cc0acafea77b0a503ea",
+          "datePublished": "2026-06-08T10:38:50.723813+03:00",
+          "hash": "md5:4022033186cf35ba6a23964e9ea657d9",
+          "title": "Протокол № 93 від 08.06.2026.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/9385292dce9b462e992fd663689f12e1?Signature=inLiht6b5pixK8jI2wZNMlpwc2kRnwrgxtb60SD9IjltlkUfnzVYw0%2B5cJ4gjuawjF8UFPb7bq8Uo5mkmGDBDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T10:38:51.246957+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "61eb9b628b7e4858ad1b235605cfa217",
+          "datePublished": "2026-06-08T10:40:04.584846+03:00",
+          "hash": "md5:06052f0fa806eb8282d82aab79011ccd",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/46ac348a9d514fe0a49937868fa35d57?Signature=jqfU4lv9%2FGyIrJ6EHfqvp8wj9CPdorUg5trxsLVg5m42W9%2FHsa9hyI9tNMpkDbddj6sl3rHtAahPUV0EjjIbBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T10:40:04.584846+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-08T10:32:57.523721+03:00",
+        "endDate": "2026-06-11T00:00:00+03:00"
+      },
+      "qualified": false,
+      "title": "не надав забезпечення виконання договору у строк, визначений пунктом 66 цього Порядку; не підписав договір, на умовах, визначених замовником у запиті пропозицій постачальників шляхом заповнення електронних форм із окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників у строк, визначений пунктом 66 цього Порядку",
+      "description": "Відхилити пропозицію переможця відбору у запиті ціни пропозицій щодо закупівлі  Яйце куряче столове, категорія Перша (M) за кодом  ДК 021:2015: 03140000-4 Продукція тваринництва та супутня продукція, ідентифікатор закупівлі № UA-2026-05-28-006603-a, Учасника ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"КОВАЛ 97\", ЄДРПОУ 42593602, так як  Учасник:\r\n1) не підписав договір на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями, та у проекті договору, що є складовою частиною запиту пропозицій постачальників у строк, визначений пунктом 66  Порядку;\r\n2) не надав забезпечення виконання договору у строк, визначений пунктом 66  Порядку.\r\n"
+    },
+    {
+      "id": "68b6aa2461b24231976d93046333718b",
+      "status": "cancelled",
+      "date": "2026-06-09T11:33:39.741864+03:00",
+      "value": {
+        "amount": 405000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю “Гранат”",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "21620913",
+            "legalName": "Товариство з обмеженою відповідальністю “Гранат”"
+          },
+          "address": {
+            "streetAddress": "вул. Краківська, будинок 18-А",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "02094",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Білокриницька Катерина Михайлівна",
+            "name_en": "Belokrinitskaya Catherine Mykhaylivna",
+            "email": "mgranat@ukr.net",
+            "telephone": "380503347798"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "2b23e278ecb84766ad2259623e011f5b",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "b9962e6899a94c36b2721e5f607bc9e6",
+          "datePublished": "2026-06-08T15:13:10.683899+03:00",
+          "hash": "md5:0eebfe2edaa2ea5adb373c91f54d1db4",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/43a26de8f61442e2af451f641d4191ef?Signature=7IMb2NsSCysQjo1SNRFBP0U3gzpqMeXGpW2FIhpywBmIPljenKCn%2FPmHKWH5JIXptyrNK8j%2Fl4G8jyRbg04aDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T15:13:10.683899+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-08T10:40:04.955086+03:00",
+        "endDate": "2026-06-11T00:00:00+03:00"
+      },
+      "qualified": true
+    },
+    {
+      "id": "e5535ec9b2834da7ae8c3bd8299475dc",
+      "status": "unsuccessful",
+      "date": "2026-06-09T11:36:20.976686+03:00",
+      "value": {
+        "amount": 405000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю “Гранат”",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "21620913",
+            "legalName": "Товариство з обмеженою відповідальністю “Гранат”"
+          },
+          "address": {
+            "streetAddress": "вул. Краківська, будинок 18-А",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "02094",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Білокриницька Катерина Михайлівна",
+            "name_en": "Belokrinitskaya Catherine Mykhaylivna",
+            "email": "mgranat@ukr.net",
+            "telephone": "380503347798"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "2b23e278ecb84766ad2259623e011f5b",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "description": "SHA1:43fe14aee780c301fd3da0debfd10b41282cacf5;SHA2-384:59e02a6445945cdcb2b4d0903efc84a7e334f5ad8f4459e35b959207f2cd7853e0f9bdb72af3a954d5179bb4e5a11ee6;Antivirus: ESET Antivirus",
+          "id": "d82d261054ed4785bf61275bba22388a",
+          "datePublished": "2026-06-09T11:35:15.255727+03:00",
+          "hash": "md5:51f288160207c81b80cd7388bb9e46fc",
+          "title": "Протокол № 97 від 09.06.2026 - відмова учасника 2.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/81933eb695414e0f87e4ec3596c1ed22?Signature=aKyfn3mIZs0bY3KLZiKN%2FImP07b9JiWdrEEccyafGuoYy%2B7fRfCrIdlRmQIbf21%2BUbx%2BQjTDqWiV49cK%2B5HOCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T11:35:15.641241+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "3c44ef973eb44af38715a69a717c92bd",
+          "datePublished": "2026-06-09T11:36:20.471590+03:00",
+          "hash": "md5:821283966ca5026409a48a10ab51defa",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/12e3adcf78b04c1389a1f99930110423?Signature=kWkwUiOQYevOIKO0Mc4VmSpPSMmwwBXu89KmOTVITXbBzqqoWMkxikcsbECmm3rWcgRCNgQDL1o3LdHgX6roBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T11:36:20.471590+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T11:33:39.741864+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": false,
+      "title": "письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників.",
+      "description": "Відхилити пропозицію переможця відбору у запиті ціни пропозицій щодо закупівлі  Яйце куряче столове, категорія Перша (M) за кодом  ДК 021:2015: 03140000-4 Продукція тваринництва та супутня продукція, ідентифікатор закупівлі UA-2026-05-28-006603-a, Учасника ТОВ \"Гранат\" ЄДРПОУ 21620913, так як  Учасник надав лист відмову від укладання договору від 09.06.2026 № 09/06-2."
+    },
+    {
+      "id": "91ac8e136a374f62858b9c7603789a7e",
+      "status": "pending",
+      "date": "2026-06-09T11:36:20.976686+03:00",
+      "value": {
+        "amount": 426600.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю \"Руол Стандарт\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "34200887",
+            "legalName": "Товариство з обмеженою відповідальністю \"Руол Стандарт\""
+          },
+          "address": {
+            "streetAddress": "вул. Гайдамацька буд. 7, кв.6",
+            "locality": "Благовіщенське",
+            "region": "Кіровоградська область",
+            "postalCode": "26400",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Світлана Назаренко",
+            "email": "NNN-SSS-VVV@UKR.NET",
+            "telephone": "380671842853"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "e3062447d5274514a509774faaec6a91",
+      "period": {
+        "startDate": "2026-06-09T11:36:20.976686+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "bb70976662a84368ab1c82e27a8a8a7d",
+      "status": "cancelled",
+      "awardID": "1771ffa8245e4d798ab869160f5d7242",
+      "date": "2026-06-08T10:32:57.523721+03:00",
+      "contractID": "UA-2026-05-28-006603-a-a1",
+      "title": "Яйце куряче столове, категорія Перша (M)",
+      "title_en": null,
+      "description": "Країною-походження товару не може бути Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран.\nУмови постачання - згідно умов Договору, проект додається.",
+      "description_en": null,
+      "value": {
+        "amount": 383400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 383400.0
+      }
+    },
+    {
+      "id": "f4d56e6b4785429a851eeb2f73512a2c",
+      "status": "cancelled",
+      "awardID": "68b6aa2461b24231976d93046333718b",
+      "date": "2026-06-09T11:33:39.741864+03:00",
+      "contractID": "UA-2026-05-28-006603-a-a2",
+      "title": "Яйце куряче столове, категорія Перша (M)",
+      "title_en": null,
+      "description": "Країною-походження товару не може бути Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран.\nУмови постачання - згідно умов Договору, проект додається.",
+      "description_en": null,
+      "value": {
+        "amount": 405000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 405000.0
+      }
+    }
+  ],
+  "id": "23057f046e464212871c12f7bd1b4baa"
+}

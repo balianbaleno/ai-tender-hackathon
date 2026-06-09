@@ -1,0 +1,3265 @@
+{
+  "description": "1.Товар, який поставляється Постачальником, не повинен бути походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран. \n2.Голки для ін'єкцій: Ін'єкційна, Стерильна, Одноразова, Призначення: Загальна, Кольорове маркування, Розмір 30 G, Довжина голки: 13 міліметр, Діаметр голки: 0.29 міліметр, Матеріал голки: Нержавіюча сталь, Кріплення голки: Луєр-Лок; Тип: Для шприцевих насосів, Стерильність +, Тип конектора: Luer Lock, Довжина трубки: 150 см., Тиск: Низький, Вид: Прямий, Внутрішній діаметр: 1.0 мм, Зовнішній діаметр: 2.0 мм",
+  "date": "2026-06-09T11:48:40.941243+03:00",
+  "dateModified": "2026-06-09T11:48:40.941243+03:00",
+  "dateCreated": "2026-05-28T13:57:15.571057+03:00",
+  "tenderID": "UA-2026-05-28-007183-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:96e74d2ebd9444cba4e5233b13ec3c3ff13ce97c;SHA2-384:d0c7376e7cda16b0d3a0ccc6cce3d681172c57f1df2faab6bb8318577e993a806e9c3fa42faac9708e26f62ed1dbd7fc;Antivirus: ESET Antivirus",
+      "relatedItem": "c96e53528e5c4600aaa6d607139ce1b3",
+      "id": "cae668410f3045f4b893602aca252069",
+      "datePublished": "2026-05-28T13:57:16.889345+03:00",
+      "hash": "md5:63613553ba74cbbab3b3ff29d92f5908",
+      "title": "проект Договору - Вироби.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/f4d9675837314ff5b6eee87b940905ed?Signature=ZKUVMnk2utt8h0DB50wPjSB9ObG4mnBKTW4lKhT50vjGclJl8vEVoEGcZmYcPOjdpjGC8RI8UhWl2J%2BKEoUcAQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-28T13:57:16.889345+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:9984dd814b3bf940e7d520fdca4d019c02c0da4c;SHA2-384:fa348b0e118362fdad079f6ef0dca7daaf7cfd44d9e53a3df5bec0173f49bb343993d84fe8b6ebc559705040edf5b486;Antivirus: ESET Antivirus",
+      "id": "6c0dac45ba814a5db22656c74063c69c",
+      "datePublished": "2026-05-28T13:59:50.875964+03:00",
+      "hash": "md5:bc529be6866526c2ec0c1c6e56e1fe21",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/da9f99a1e5a14de6b1b1bcac797d0819?Signature=U5zUzC%2FrwBWmwAYHPZrS5iIIipD9RGCEiazZs2F6J7cd7jOtm1CbrfKA7axP9DoOEAadvNcg3bXWOeqMoaW8Bg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-28T13:59:51.161579+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "59230 - Голка ін'єкційна одноразового використання стерильна (A01010101 - ГОЛКИ ДЛЯ ГІПОДЕРМАЛЬНИХ ШПРИЦІВ);12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ); 12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ); 12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ)",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "3daf6201eb4f454f8c804881d14a5e47"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "e0d30ec14f7c4f1e9ead3d5ffc27d5f1",
+      "title": "signingTheContract",
+      "description": "Строк  поставки Товару не пізніше 3 календарних днів з моменту отримання замовлення Товару, а у випадку нагальної потреби на вимогу  Замовника – строк поставки може становити до 1 (один) календарний день з моменту отримання заявки Замовника.",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 3,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "ecc54ee08a804453b5b6b1eff053b6dc",
+      "title": "deliveryOfGoods",
+      "description": "Розрахунки проводяться протягом 30 календарних днів з моменту отримання товару.",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 30,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "complete",
+  "agreement": {
+    "id": "13dc9e39071a4ff4a0084e2402fba60b"
+  },
+  "value": {
+    "amount": 210000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-05-28T13:59:51.723288+03:00",
+    "endDate": "2026-06-02T13:51:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ХМЕЛЬНИЦЬКА ОБЛАСНА ЛІКАРНЯ\" ХМЕЛЬНИЦЬКОЇ ОБЛАСНОЇ РАДИ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "02004717",
+      "legalName": "КОМУНАЛЬНЕ НЕКОМЕРЦІЙНЕ ПІДПРИЄМСТВО \"ХМЕЛЬНИЦЬКА ОБЛАСНА ЛІКАРНЯ\" ХМЕЛЬНИЦЬКОЇ ОБЛАСНОЇ РАДИ",
+      "uri": "http://hol.com.ua/"
+    },
+    "address": {
+      "streetAddress": "вулиця Пілотська, будинок 1",
+      "locality": "місто Хмельницький",
+      "region": "Хмельницька область",
+      "postalCode": "29000",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Алла Сурник",
+      "email": "ekon8@ukr.net",
+      "telephone": "+380382794575",
+      "url": "http://hol.com.ua/"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "100010-33140000-331083-42574629",
+      "category": "33140000-331083-42574629",
+      "id": "6a50442561334627ba0a66c293e75e3e",
+      "description": "Голки для ін'єкцій: Ін'єкційна, Стерильна, Одноразова, Призначення: Загальна, Кольорове маркування, Розмір 30 G, Довжина голки: 13 міліметр, Діаметр голки: 0.29 міліметр, Матеріал голки: Нержавіюча сталь, Кріплення голки: Луєр-Лок",
+      "quantity": 1000.0,
+      "classification": {
+        "description": "Приладдя для венепункції та забору крові",
+        "scheme": "ДК021",
+        "id": "33141300-3"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Пілотська, будинок 1",
+        "locality": "місто Хмельницький",
+        "region": "Хмельницька область",
+        "postalCode": "29000",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "category": "33190000-255387-425746299",
+      "id": "d21d4efa4bcd4ad7b12b375689fd2424",
+      "description": "Подовжувачі інфузійні",
+      "quantity": 1500.0,
+      "classification": {
+        "description": "Приладдя для венепункції та забору крові",
+        "scheme": "ДК021",
+        "id": "33141300-3"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Пілотська, будинок 1",
+        "locality": "місто Хмельницький",
+        "region": "Хмельницька область",
+        "postalCode": "29000",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "100005-33190000-255387-425746299",
+      "category": "33190000-255387-425746299",
+      "id": "89213ecf590149cf9d6ed62ddd207dc7",
+      "description": "Подовжувач інфузвйний для шприцевих насосів, прямий, тип конектора: Luer Lock, довжина трубки: 150 см., тиск: низький, внутрішній діаметр: 1.0 мм, зовнішній діаметр: 2.0 мм",
+      "quantity": 300.0,
+      "classification": {
+        "description": "Приладдя для венепункції та забору крові",
+        "scheme": "ДК021",
+        "id": "33141300-3"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Пілотська, будинок 1",
+        "locality": "місто Хмельницький",
+        "region": "Хмельницька область",
+        "postalCode": "29000",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    },
+    {
+      "profile": "987655-33190000-255387-425746299",
+      "category": "33190000-255387-425746299",
+      "id": "d2c6cc2047ed4ac29e0cdee14dd9a044",
+      "description": "Подовжувач інфузійний, Для шприцевих насосів, довжина 50 см, низького тиску, примий",
+      "quantity": 210.0,
+      "classification": {
+        "description": "Приладдя для венепункції та забору крові",
+        "scheme": "ДК021",
+        "id": "33141300-3"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вул. Пілотська, будинок 1",
+        "locality": "місто Хмельницький",
+        "region": "Хмельницька область",
+        "postalCode": "29000",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "92459fccdb3e462b9058ec59c1b099ab",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "a8a187e99ae54a5bac80b02264721b9a",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "6cb16692da684acd8c6d7cc73c0e936f",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "b4a5f25870b5425f86d5c6e1a2da6cf4",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "fc97f30a6cd14a859e8493d1b14aaa9e",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0cf5d8c24e5345af86e3da6a338536ac",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "8adc3aac80eb4254987f1b2094d69322",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "831b52ed95aa4e62a300d155e478ec5f",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            }
+          ]
+        },
+        {
+          "id": "3e768a45f2394bdbbeed392e750b2b47",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "406fcf3db64141a7866b78b8c08b527a",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fba63109c67b46d8b481d05799cce20e",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "6a50442561334627ba0a66c293e75e3e",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "8647e611c2e54f8189071fa03c2e9133",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "d3397212a85a48239043d16aeb9b4d44",
+              "title": "Вид голки",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Ін'єкційна"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "b733b24643fd4f358e957eae84854257",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "26abd92bec1f475c999c65833f4ea884",
+              "title": "Кількість використань",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Одноразова"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "b57969079cf1491785c04960154759ff",
+              "title": "Призначення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Загальна"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "cddf1da7c30e4997adec3ed27f77262f",
+              "title": "Кольорове маркування",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "35097435db584bd49c70b714a835f605",
+              "title": "Розмір, G",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "minValue": 30,
+              "maxValue": 30,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "9bd64fd8fd52438e9ffea33c50d172a1",
+              "title": "Довжина голки, мм",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 13,
+              "maxValue": 13,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "f28968bc1f774a18afb4f264c2e7bf8f",
+              "title": "Діаметр голки, мм",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 0.29,
+              "maxValue": 0.29,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "f92ea99afe48494cbdc0178b7024a1d2",
+              "title": "Матеріал голки",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Нержавіюча сталь"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "c058845876274fd89b56915b4d16943d",
+              "title": "Кріплення голки",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Луєр-Лок"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "93d4af7af23d42458ce512cb88e4593b",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "d21d4efa4bcd4ad7b12b375689fd2424",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "263f78deb64f44b496f9135cb1ad7217",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "4e0b870f7e824d94ae5677a7f2f3b250",
+              "title": "Тип",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Для шприцевих насосів"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "4068bb12f9b34c91855286dee156b32d",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "1d8f508315d34565a19594482989b0d1",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "ПВХ"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "51aa186e06674294b065e4d3876dca4e",
+              "title": "Тип конектора",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Luer Lock"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "13f1e778af6a4163873edc1fc6dfc3aa",
+              "title": "Довжина трубки",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 150.0,
+              "maxValue": 150.0,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "6b963ae371114eeeb7f4b4a9c92578d7",
+              "title": "Тиск",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Низький"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "dfa81a7fb4f6494ebf0034a11cb16cfb",
+              "title": "Кількість зворотніх клапанів",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 0,
+              "maxValue": 0,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "f44a1f45546f42e0ae399e3bf1400bd9",
+              "title": "Вид",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Прямий"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "69dafb004e844b1f9bfd21755972f867",
+              "title": "Внутрішній діаметр",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 1.5,
+              "maxValue": 1.5,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "4916c3a413c34e63bec6792a3f052aac",
+              "title": "Зовнішній діаметр",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 2.7,
+              "maxValue": 2.7,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dcf9c96b13314e2e8da7fb8613498e00",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "89213ecf590149cf9d6ed62ddd207dc7",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "cfdd57c7f9314c40b7f720b8cdce3c4e",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "7d605f49082f4d1fb73f62b2f8b3f9a3",
+              "title": "Тип",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Для шприцевих насосів"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "af85ef8abc42429b9f6a7abaa57aeed3",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "d616ab858c43462a85ef206bc0b11e19",
+              "title": "Тип конектора",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Luer Lock"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "30c4804b098e4cd09ed73fd92f9b58b9",
+              "title": "Довжина трубки",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "minValue": 150.0,
+              "maxValue": 150.0,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "467dca44c9c6443db5baf32aaab67fce",
+              "title": "Тиск",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Низький"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "42382b9141194536911b5d220f9ce652",
+              "title": "Вид",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Прямий"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "37e5eb89d2b0462d993c4f9611d59e49",
+              "title": "Внутрішній діаметр",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 1.0,
+              "maxValue": 1.0,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "da6698edb1fa431e8a4b7259d646a972",
+              "title": "Зовнішній діаметр",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MMT",
+                "name": "міліметр"
+              },
+              "minValue": 2.0,
+              "maxValue": 2.0,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "358a678194f54c3094ea79e8b5a977d7",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "d2c6cc2047ed4ac29e0cdee14dd9a044",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "d87aaf3fbe0b494fac9418b9570762cb",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "cc870194bc034cb09aacf2f0a4261449",
+              "title": "Тип",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Для шприцевих насосів"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "b6977b7f3a0e461dbb3f2422de7e3a8e",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "8ef0e9a14c4243a4a0fcccc91f961da5",
+              "title": "Матеріал",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Поліетилен",
+                "ПВХ"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "b616633741ea459aab056588f0158330",
+              "title": "Тип конектора",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Luer Lock"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "ed187e3e8ede466a98d6ea9a52965488",
+              "title": "Довжина трубки",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "CMT",
+                "name": "сантиметр"
+              },
+              "expectedValue": 50,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "be07751e22cf418c814690822827bc89",
+              "title": "Тиск",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Низький"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            },
+            {
+              "id": "93049d2d41794e73b20ba783ba00eeee",
+              "title": "Вид",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Прямий"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-05-28T13:57:17.649943+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-05-28T13:59:51.723288+03:00",
+  "bids": [
+    {
+      "id": "7c63427229db4b8d9f817c366a3048b4",
+      "date": "2026-05-28T18:47:20.567713+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:9ecdc772d2e58bf243a2bfb90e785807d7f083ea;SHA2-384:45826e4bab5bb0f457568ac48813177e8eb9806272c69351b3d43d83b0c7d24e15ea4362f3f2087efb9e2e7921eccaeb;Antivirus: ESET Antivirus,fids:250dca6fa02f4cc3ab8bd41907d9c5c2:fide",
+          "id": "3da6a5f40b9847e3b8e6e6090289efcd",
+          "datePublished": "2026-05-28T18:47:20.297490+03:00",
+          "hash": "md5:4658719edb18b2402dc7bb9e1ad46b3d",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/178a4f08f6f34ffd96da8e3eacea9267?Signature=dZ51mjf0X4yk59yI1CvLvi4CgiajgKQow5BGc884cxFRaUrsAt5irPaAngWOAX%2Fuzo%2B4kfq3FvP3fcuU79rYCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-28T18:47:20.297490+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ВОК - Медіка Груп\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45099150",
+            "legalName": "ТОВ \"ВОК - Медіка Груп\""
+          },
+          "address": {
+            "streetAddress": "вулиця Без Назви, будинок 241",
+            "locality": "Мукачівський район, село Солочин",
+            "region": "Закарпатська область",
+            "postalCode": "89321",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Сергій Кантемир",
+            "email": "vok.sergey349@gmail.com",
+            "telephone": "+380672233404, +380506482455"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 207473.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "831b52ed95aa4e62a300d155e478ec5f",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "a6d9cf55beb843e3bb246a89ec9dc7ca",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6cb16692da684acd8c6d7cc73c0e936f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "7bfc1487aed944159bd148495eca7f05",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b4a5f25870b5425f86d5c6e1a2da6cf4",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "0a6425ee570f454daff5d8c3a5eb1394",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fc97f30a6cd14a859e8493d1b14aaa9e",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "35a6ef20ccd74447ae582ae54ad511e2",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d3397212a85a48239043d16aeb9b4d44",
+            "title": "Вид голки"
+          },
+          "values": [
+            "Ін'єкційна"
+          ],
+          "id": "01a34b74eca94951878f642158d82fcc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b733b24643fd4f358e957eae84854257",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "dcf3eed8d6cd4176b7dcee9dab18e0e7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26abd92bec1f475c999c65833f4ea884",
+            "title": "Кількість використань"
+          },
+          "values": [
+            "Одноразова"
+          ],
+          "id": "3b32dd18e52b40fa8663840231755617",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b57969079cf1491785c04960154759ff",
+            "title": "Призначення"
+          },
+          "values": [
+            "Загальна"
+          ],
+          "id": "1e14411c38934305ab6c4a5892897a3b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cddf1da7c30e4997adec3ed27f77262f",
+            "title": "Кольорове маркування"
+          },
+          "value": true,
+          "id": "d8c9648cb2334fb986211cd660d47bc4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "35097435db584bd49c70b714a835f605",
+            "title": "Розмір, G"
+          },
+          "value": 30,
+          "id": "d4a1395613a94c54a0d091624f1ec3ca",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9bd64fd8fd52438e9ffea33c50d172a1",
+            "title": "Довжина голки, мм"
+          },
+          "value": 13,
+          "id": "f80ef1367e834a8fab8455e3536855c5",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f28968bc1f774a18afb4f264c2e7bf8f",
+            "title": "Діаметр голки, мм"
+          },
+          "value": 0.29,
+          "id": "28a2b95435a047078c46e6d911cc4366",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f92ea99afe48494cbdc0178b7024a1d2",
+            "title": "Матеріал голки"
+          },
+          "values": [
+            "Нержавіюча сталь"
+          ],
+          "id": "1623b76bd4e344ec895245e0255f355e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c058845876274fd89b56915b4d16943d",
+            "title": "Кріплення голки"
+          },
+          "values": [
+            "Луєр-Лок"
+          ],
+          "id": "7c465c00130b463aad2b3d34c02a8d9a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f44a1f45546f42e0ae399e3bf1400bd9",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "6edfa3affe2b47afb4bbd52592f52ad3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dfa81a7fb4f6494ebf0034a11cb16cfb",
+            "title": "Кількість зворотніх клапанів"
+          },
+          "value": 0,
+          "id": "9bd6cb10b18a42a6adee9a628f0e1164",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6b963ae371114eeeb7f4b4a9c92578d7",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "33e9835deab14de0955ab4500ee1e9eb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "13f1e778af6a4163873edc1fc6dfc3aa",
+            "title": "Довжина трубки"
+          },
+          "value": 150,
+          "id": "67739313c46940e5a4e74987b8d531cc",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "51aa186e06674294b065e4d3876dca4e",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "0c2dadc8f37f4f21b0533f4825a8c7f2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d8f508315d34565a19594482989b0d1",
+            "title": "Матеріал"
+          },
+          "values": [
+            "ПВХ"
+          ],
+          "id": "4b1f65e54f274148becbe84070d8d357",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4068bb12f9b34c91855286dee156b32d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "4e1775872f6743d09a6e918ec6df74a9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e0b870f7e824d94ae5677a7f2f3b250",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "fa847ff47848493a89eb5d24bb19c479",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "69dafb004e844b1f9bfd21755972f867",
+            "title": "Внутрішній діаметр"
+          },
+          "value": 1.5,
+          "id": "626cb7e4eb3240a0aee8e42f7efdfac8",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4916c3a413c34e63bec6792a3f052aac",
+            "title": "Зовнішній діаметр"
+          },
+          "value": 2.7,
+          "id": "4864933494dc4793baef77dc20aad9be",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "42382b9141194536911b5d220f9ce652",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "1f8d165407ec40479bd66c45dd048d0f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "467dca44c9c6443db5baf32aaab67fce",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "70f45e44ee1f45a9acb81c80c13e7819",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30c4804b098e4cd09ed73fd92f9b58b9",
+            "title": "Довжина трубки"
+          },
+          "value": 150,
+          "id": "b16858867ea7409a8254ec3c23eebefc",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d616ab858c43462a85ef206bc0b11e19",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "9f549dc3efcd47f7af3463a51d027ad3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "af85ef8abc42429b9f6a7abaa57aeed3",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "743459eea11a4b3e917ecd93b0b20164",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d605f49082f4d1fb73f62b2f8b3f9a3",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "5ebfb224367a45a885c7f733c8c6fb0b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37e5eb89d2b0462d993c4f9611d59e49",
+            "title": "Внутрішній діаметр"
+          },
+          "value": 1,
+          "id": "edf2bd2288a04a02980b9417e5935eb2",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da6698edb1fa431e8a4b7259d646a972",
+            "title": "Зовнішній діаметр"
+          },
+          "value": 2,
+          "id": "d6ed16fee57544c19efaf4687bfdee4b",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "93049d2d41794e73b20ba783ba00eeee",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "536d60066ed34c2488928104005eb61c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "be07751e22cf418c814690822827bc89",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "5f159fdc5de34ec8887e0cd7e8605f78",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ed187e3e8ede466a98d6ea9a52965488",
+            "title": "Довжина трубки"
+          },
+          "value": 50,
+          "id": "8300a807f73341b4bc39e24a6c043920",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b616633741ea459aab056588f0158330",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "1d596df4af0c4092b37b37afd0f1b06d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8ef0e9a14c4243a4a0fcccc91f961da5",
+            "title": "Матеріал"
+          },
+          "values": [
+            "ПВХ"
+          ],
+          "id": "7c9af0809b8b453f94c64ca1ea9bfe97",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b6977b7f3a0e461dbb3f2422de7e3a8e",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "339f0b1c4a1b43f08df01cf8a6668fa8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cc870194bc034cb09aacf2f0a4261449",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "d32998b1e3884dcf857e4d1c7238e706",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "d21d4efa4bcd4ad7b12b375689fd2424",
+          "description": "Оригінальна лінія Perfusor® N, 150 см, 1,5 х 2,7",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 97.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1500.0,
+          "product": "8d70fb0a74a5459fa6e070dfc4f755d2"
+        },
+        {
+          "id": "6a50442561334627ba0a66c293e75e3e",
+          "description": "Голка ін’єкційна, стерильна, 30G Mediprim",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1000.0,
+          "product": "788f57c103e84b6586527416b6e11973"
+        },
+        {
+          "id": "89213ecf590149cf9d6ed62ddd207dc7",
+          "description": "Оригінальна лінія Perfusor® 150 см, 1,0 x 2,0",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 95.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 300.0,
+          "product": "f05b623d03d24536b0e1f642e709d5b4"
+        },
+        {
+          "id": "d2c6cc2047ed4ac29e0cdee14dd9a044",
+          "description": "Оригінальна лінія Perfusor® L/L, 50 см, 1,5 х 2,7",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 90.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 210.0,
+          "product": "e0b16114d52943afa4dee3f12c950859"
+        }
+      ],
+      "submissionDate": "2026-05-28T18:47:20.567713+03:00",
+      "initialValue": {
+        "amount": 207473.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "c52eda96e15b4ad9949b1ed5d23d29cf",
+      "date": "2026-05-29T12:32:37.833120+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:1406a1d62a26c7892baa3ac98654ec6e88bf742c;SHA2-384:75a5ca5dd6efb66e85abb6845556d34ef73435ce43743f192ff35d6764d3cebdd24eaa42db257046487fc61a67d5261f;Antivirus: ESET Antivirus,fids:d848ace844d249eda31a7376c0915415:fide",
+          "id": "b833980f7dd94a7e92d9a87e610257b1",
+          "datePublished": "2026-05-29T12:32:37.534266+03:00",
+          "hash": "md5:4cfb8b6ca786a53715d207d982c19ee8",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/e04d51d4bbb549ac83dc8dc4b872ba82?Signature=50u4eIgKAuX8I7l7f%2BJ3YdqxcsAYaTkvqfz%2BX3gUlKkfr7HooYoYj4DoWDs3snUg5%2FmmA%2Fa3jdU3Zf0wOmleCA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-29T12:32:37.534266+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"РІВНЕМЕДТЕХНІКА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "30712311",
+            "legalName": "ТОВ \"РІВНЕМЕДТЕХНІКА\""
+          },
+          "address": {
+            "streetAddress": "Рівненський р-н місто Рівне вул.Замкова будинок 10 В",
+            "locality": "м. Рівне",
+            "region": "Рівненська область",
+            "postalCode": "33028",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олег Грушицький",
+            "email": "rmtinfo@rmt.in.ua",
+            "telephone": "+380503398603"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 162351.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "831b52ed95aa4e62a300d155e478ec5f",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "e01a7c47a0cf49bc8a80fde5d2d7700d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6cb16692da684acd8c6d7cc73c0e936f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "33ef1699e21344f6b50c622d4bbbb019",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b4a5f25870b5425f86d5c6e1a2da6cf4",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "c29f34690abf460293ff2a7f6e4ef379",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fc97f30a6cd14a859e8493d1b14aaa9e",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "9b4ebf0de9204b72bffa42e8b5a8838f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d3397212a85a48239043d16aeb9b4d44",
+            "title": "Вид голки"
+          },
+          "values": [
+            "Ін'єкційна"
+          ],
+          "id": "4282a1960a1e4f7eb91b6d6a466818ac",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b733b24643fd4f358e957eae84854257",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "3b711b2628c640738a65c5398ba90260",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26abd92bec1f475c999c65833f4ea884",
+            "title": "Кількість використань"
+          },
+          "values": [
+            "Одноразова"
+          ],
+          "id": "213a241b60ab433ca27d5c3c39858f75",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b57969079cf1491785c04960154759ff",
+            "title": "Призначення"
+          },
+          "values": [
+            "Загальна"
+          ],
+          "id": "03d0bc7ef1824c17b903012c159968a6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cddf1da7c30e4997adec3ed27f77262f",
+            "title": "Кольорове маркування"
+          },
+          "value": true,
+          "id": "e5b8fa07f27c48bc8a4138433dbe8b47",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "35097435db584bd49c70b714a835f605",
+            "title": "Розмір, G"
+          },
+          "value": 30,
+          "id": "feabb66899c347f99c77a3e5c12a2437",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9bd64fd8fd52438e9ffea33c50d172a1",
+            "title": "Довжина голки, мм"
+          },
+          "value": 13,
+          "id": "32f256f3ce384824b1e0b6c0cd809040",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f28968bc1f774a18afb4f264c2e7bf8f",
+            "title": "Діаметр голки, мм"
+          },
+          "value": 0.29,
+          "id": "2f2495b3e848489fb2d250451a60c28e",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f92ea99afe48494cbdc0178b7024a1d2",
+            "title": "Матеріал голки"
+          },
+          "values": [
+            "Нержавіюча сталь"
+          ],
+          "id": "85f0d261de9149cab37f51ca5c88badb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c058845876274fd89b56915b4d16943d",
+            "title": "Кріплення голки"
+          },
+          "values": [
+            "Луєр-Лок"
+          ],
+          "id": "134d2edb41fd4c548156e4ee8db71cb2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f44a1f45546f42e0ae399e3bf1400bd9",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "cddcfa1f715a43c28fa38ca1dd19b060",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dfa81a7fb4f6494ebf0034a11cb16cfb",
+            "title": "Кількість зворотніх клапанів"
+          },
+          "value": 0,
+          "id": "97e7169f45af4947945dad57a5d9d3cb",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6b963ae371114eeeb7f4b4a9c92578d7",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "fee84d57dbb84b5fb7c914751914ea87",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "13f1e778af6a4163873edc1fc6dfc3aa",
+            "title": "Довжина трубки"
+          },
+          "value": 150,
+          "id": "5dc35c9f6c8246aaa514f26d553fb141",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "51aa186e06674294b065e4d3876dca4e",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "2ac9a7641d17458d85848c83a8bcdd8a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d8f508315d34565a19594482989b0d1",
+            "title": "Матеріал"
+          },
+          "values": [
+            "ПВХ"
+          ],
+          "id": "f1f6c3a3493844b19a8eb164445c384a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4068bb12f9b34c91855286dee156b32d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "82fbb838a3744e9c8717ebd2ade6ad46",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e0b870f7e824d94ae5677a7f2f3b250",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "a51bd6bf9f89413ba5370a7d40de946a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "69dafb004e844b1f9bfd21755972f867",
+            "title": "Внутрішній діаметр"
+          },
+          "value": 1.5,
+          "id": "58f0f6c17e114303928657fd7f2ea715",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4916c3a413c34e63bec6792a3f052aac",
+            "title": "Зовнішній діаметр"
+          },
+          "value": 2.7,
+          "id": "7f02009665a94feeae43a483b57a8ad3",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "42382b9141194536911b5d220f9ce652",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "3d43d1067ffa43a3ab35d6cd8ce0e90b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "467dca44c9c6443db5baf32aaab67fce",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "3df39b0095bc4a9ca47af0944aa9e004",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30c4804b098e4cd09ed73fd92f9b58b9",
+            "title": "Довжина трубки"
+          },
+          "value": 150,
+          "id": "dfcfcd408a9d400aa1419f275a219bde",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d616ab858c43462a85ef206bc0b11e19",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "2d3134e4579641c3afa729ad82f23bac",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "af85ef8abc42429b9f6a7abaa57aeed3",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "94d5c747e9a54d04a8fda8538d75c1bf",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d605f49082f4d1fb73f62b2f8b3f9a3",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "44cce136a68c49dc8a40ac5d3036398a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37e5eb89d2b0462d993c4f9611d59e49",
+            "title": "Внутрішній діаметр"
+          },
+          "value": 1,
+          "id": "3468149210594a46b9ffea705ecd386f",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da6698edb1fa431e8a4b7259d646a972",
+            "title": "Зовнішній діаметр"
+          },
+          "value": 2,
+          "id": "240a2cb20a9c4cada586400639dedb09",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "93049d2d41794e73b20ba783ba00eeee",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "6d8216ea5d4646f398686a1e167709dc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "be07751e22cf418c814690822827bc89",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "3ce4e115518747868387e0fe432434e7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ed187e3e8ede466a98d6ea9a52965488",
+            "title": "Довжина трубки"
+          },
+          "value": 50,
+          "id": "406d47e4b58e43f9a7a92a708d60684a",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b616633741ea459aab056588f0158330",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "46fc846e78b744019677d1cf58a05ae9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8ef0e9a14c4243a4a0fcccc91f961da5",
+            "title": "Матеріал"
+          },
+          "values": [
+            "ПВХ"
+          ],
+          "id": "4947449b29714a4c843f036fdc922b35",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b6977b7f3a0e461dbb3f2422de7e3a8e",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "4b4ddd4325eb4facb48dbb00c458b6d7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cc870194bc034cb09aacf2f0a4261449",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "41697c9006714e058036a9a69169385e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "d21d4efa4bcd4ad7b12b375689fd2424",
+          "description": "Оригінальна лінія Perfusor® N, 150 см, 1,5 х 2,7",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 73.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1500.0,
+          "product": "8d70fb0a74a5459fa6e070dfc4f755d2"
+        },
+        {
+          "id": "6a50442561334627ba0a66c293e75e3e",
+          "description": "Голка ін’єкційна, стерильна, 30G Mediprim",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1000.0,
+          "product": "788f57c103e84b6586527416b6e11973"
+        },
+        {
+          "id": "89213ecf590149cf9d6ed62ddd207dc7",
+          "description": "Оригінальна лінія Perfusor® РЕ, бузкова 1,0 x 2,0  150 cm",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 90.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 300.0,
+          "product": "eac30cdc27ee4c2d9ff53b3386fb1ad2"
+        },
+        {
+          "id": "d2c6cc2047ed4ac29e0cdee14dd9a044",
+          "description": "Оригінальна лінія Perfusor® L/L, 50 см, 1,5 х 2,7",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 63.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 210.0,
+          "product": "e0b16114d52943afa4dee3f12c950859"
+        }
+      ],
+      "submissionDate": "2026-05-29T12:32:37.833120+03:00",
+      "initialValue": {
+        "amount": 162351.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "0963efdf1ed24790ad9f710496f39cb4",
+      "date": "2026-05-30T14:59:53.793536+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:a41e26aca2b83b0900804ad9deec70563ef66602;SHA2-384:6fe64a79d7ff87a986285ff3b4d68d99b697f1fb0390bca6b444add8c722dd73c5a1c3105d2857fbf03270f9d0d2be42;Antivirus: ESET Antivirus,fids:cec36e0909124bd997975476553bb310:fide",
+          "id": "ca769db1d00640a194101281e07ca953",
+          "datePublished": "2026-05-30T14:59:53.539305+03:00",
+          "hash": "md5:c48df332222e4d31af2c2f6b85af3b45",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/7230cc4154c24c6797d2a2e7392af745?Signature=Yx0ij29Hx1ZRBmUqXcs95kd919avVck89dBBBEioufCwIZBrPLyM0r4%2Fd1e8ZX7BnbVj3UHBJY%2F%2BnTKpuocSCA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-30T14:59:53.539305+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"ДРОЗДА ОЛЬГА ЛЮБОМИРІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3343905525",
+            "legalName": "ФОП \"ДРОЗДА ОЛЬГА ЛЮБОМИРІВНА\""
+          },
+          "address": {
+            "streetAddress": "Калуський р-н місто Калуш вул.Гуцульська будинок 63",
+            "locality": "Калуш",
+            "region": "Івано-Франківська область",
+            "postalCode": "77300",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ольга Дрозда",
+            "email": "odrozda.medtrade@gmail.com",
+            "telephone": "+380963696569"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 149440.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "831b52ed95aa4e62a300d155e478ec5f",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "aaebac2f50bb43bebdcbe7f5d6969940",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6cb16692da684acd8c6d7cc73c0e936f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "9fd25599a0d84f6389f3c90fe0453d50",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b4a5f25870b5425f86d5c6e1a2da6cf4",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "73307ba37e3044e6bce455910e0702f5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fc97f30a6cd14a859e8493d1b14aaa9e",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "e6c51478fe504a61bb411508c2794af5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f44a1f45546f42e0ae399e3bf1400bd9",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "4f8bb49074374a76aa728917c9404e1e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "dfa81a7fb4f6494ebf0034a11cb16cfb",
+            "title": "Кількість зворотніх клапанів"
+          },
+          "value": 0,
+          "id": "1432f45ad53142a7b767fa6d39d08abb",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6b963ae371114eeeb7f4b4a9c92578d7",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "eb95bfa06bae45b89d6419fdf659d62e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "13f1e778af6a4163873edc1fc6dfc3aa",
+            "title": "Довжина трубки"
+          },
+          "value": 150,
+          "id": "37c648d778f74e8891c271006687ec87",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "51aa186e06674294b065e4d3876dca4e",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "c2f1f61ba23c4fe79659efd9fd4b853b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1d8f508315d34565a19594482989b0d1",
+            "title": "Матеріал"
+          },
+          "values": [
+            "ПВХ"
+          ],
+          "id": "36e6d776e9fc4c93b2a3dc689fbca77a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4068bb12f9b34c91855286dee156b32d",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "f4fc169a40f94b87a7dfb8ac2520cfcf",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4e0b870f7e824d94ae5677a7f2f3b250",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "315f76937c9843c0ba5fe62aa782ba9e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "69dafb004e844b1f9bfd21755972f867",
+            "title": "Внутрішній діаметр"
+          },
+          "value": 1.5,
+          "id": "b9c2b8a6d4ba446598613d5adb0e2e7a",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4916c3a413c34e63bec6792a3f052aac",
+            "title": "Зовнішній діаметр"
+          },
+          "value": 2.7,
+          "id": "58508e2787ca47ed8df2e156e3bd0a7d",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d3397212a85a48239043d16aeb9b4d44",
+            "title": "Вид голки"
+          },
+          "values": [
+            "Ін'єкційна"
+          ],
+          "id": "0718b98eaaa94dfe9ff4969745b7b0c3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b733b24643fd4f358e957eae84854257",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "bfc24da6fb3044e0a46512846e6a1bb6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26abd92bec1f475c999c65833f4ea884",
+            "title": "Кількість використань"
+          },
+          "values": [
+            "Одноразова"
+          ],
+          "id": "9d2e27cfe07747b68783e1871348710d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b57969079cf1491785c04960154759ff",
+            "title": "Призначення"
+          },
+          "values": [
+            "Загальна"
+          ],
+          "id": "c71ccb7708a34418a8fd835bc70bfdef",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cddf1da7c30e4997adec3ed27f77262f",
+            "title": "Кольорове маркування"
+          },
+          "value": true,
+          "id": "08e35e2d7b5a42b9ab670a56f6c00b8b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "35097435db584bd49c70b714a835f605",
+            "title": "Розмір, G"
+          },
+          "value": 30,
+          "id": "3c7de7a39c3843849d7bf0c4679adb29",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9bd64fd8fd52438e9ffea33c50d172a1",
+            "title": "Довжина голки, мм"
+          },
+          "value": 13,
+          "id": "90bd0ea7e4674294b418482e8081aeb0",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f28968bc1f774a18afb4f264c2e7bf8f",
+            "title": "Діаметр голки, мм"
+          },
+          "value": 0.29,
+          "id": "b6b32567a5bb4a08914326be2ee9c389",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f92ea99afe48494cbdc0178b7024a1d2",
+            "title": "Матеріал голки"
+          },
+          "values": [
+            "Нержавіюча сталь"
+          ],
+          "id": "4b629056123c436bb2896b1dc1ee2006",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c058845876274fd89b56915b4d16943d",
+            "title": "Кріплення голки"
+          },
+          "values": [
+            "Луєр-Лок"
+          ],
+          "id": "81a6c5b5bba54c6dbb125825d9626b0c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "42382b9141194536911b5d220f9ce652",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "76d7d8c632f9498c8d9eb5bc8a4f0403",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "467dca44c9c6443db5baf32aaab67fce",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "711afc7495914e7781e83f3b044f4f02",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "30c4804b098e4cd09ed73fd92f9b58b9",
+            "title": "Довжина трубки"
+          },
+          "value": 150,
+          "id": "ffb14138a1a6412086fea56e535a5eb7",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d616ab858c43462a85ef206bc0b11e19",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "98402fe506f9469e8380d749a820b419",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "af85ef8abc42429b9f6a7abaa57aeed3",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "5ff3415aabda458cbd7ac1e3874a4803",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d605f49082f4d1fb73f62b2f8b3f9a3",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "8a74166b70a2449aba0dcb4687ad5656",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37e5eb89d2b0462d993c4f9611d59e49",
+            "title": "Внутрішній діаметр"
+          },
+          "value": 1,
+          "id": "c23a8dfe0b0945a2968c5f14944101b5",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da6698edb1fa431e8a4b7259d646a972",
+            "title": "Зовнішній діаметр"
+          },
+          "value": 2,
+          "id": "62456c7facb44ad1b3a5536399a044fa",
+          "unit": {
+            "code": "MMT",
+            "name": "міліметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "93049d2d41794e73b20ba783ba00eeee",
+            "title": "Вид"
+          },
+          "values": [
+            "Прямий"
+          ],
+          "id": "1b5f787785ec4454893ee0a964ce7176",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "be07751e22cf418c814690822827bc89",
+            "title": "Тиск"
+          },
+          "values": [
+            "Низький"
+          ],
+          "id": "28996d62de4e4fd0b2d7bba50a7de721",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ed187e3e8ede466a98d6ea9a52965488",
+            "title": "Довжина трубки"
+          },
+          "value": 50,
+          "id": "a268dd16cfa84712b5e55d0d5746a09d",
+          "unit": {
+            "code": "CMT",
+            "name": "сантиметр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b616633741ea459aab056588f0158330",
+            "title": "Тип конектора"
+          },
+          "values": [
+            "Luer Lock"
+          ],
+          "id": "894fdb3fa01d435f9bf4fc9c3e6a5f0b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8ef0e9a14c4243a4a0fcccc91f961da5",
+            "title": "Матеріал"
+          },
+          "values": [
+            "ПВХ"
+          ],
+          "id": "e42a1bb0adc140049b8f39536df6be6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b6977b7f3a0e461dbb3f2422de7e3a8e",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "9028acb8d1cf4836b20b6d5afe2010f1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cc870194bc034cb09aacf2f0a4261449",
+            "title": "Тип"
+          },
+          "values": [
+            "Для шприцевих насосів"
+          ],
+          "id": "3053a5fc056242d9a37161200d2a5d3a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "d21d4efa4bcd4ad7b12b375689fd2424",
+          "description": "Оригінальна лінія Perfusor® N, 150 см, 1,5 х 2,7",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 79.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1500.0,
+          "product": "8d70fb0a74a5459fa6e070dfc4f755d2"
+        },
+        {
+          "id": "6a50442561334627ba0a66c293e75e3e",
+          "description": "Голка ін’єкційна, стерильна, 30G Mediprim",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 1000.0,
+          "product": "788f57c103e84b6586527416b6e11973"
+        },
+        {
+          "id": "89213ecf590149cf9d6ed62ddd207dc7",
+          "description": "Оригінальна лінія Perfusor® 150 см, 1,0 x 2,0",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 69.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 300.0,
+          "product": "f05b623d03d24536b0e1f642e709d5b4"
+        },
+        {
+          "id": "d2c6cc2047ed4ac29e0cdee14dd9a044",
+          "description": "Оригінальна лінія Perfusor® L/L, 50 см, 1,5 х 2,7",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 44.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 210.0,
+          "product": "e0b16114d52943afa4dee3f12c950859"
+        }
+      ],
+      "submissionDate": "2026-05-30T14:59:53.793536+03:00",
+      "initialValue": {
+        "amount": 149440.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-02T13:51:00.123792+03:00",
+    "endDate": "2026-06-05T09:16:00.147924+03:00"
+  },
+  "awards": [
+    {
+      "id": "7de48d8753594bbc985bfecf5e883df7",
+      "status": "cancelled",
+      "date": "2026-06-05T09:08:53.786748+03:00",
+      "value": {
+        "amount": 149440.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ФОП \"ДРОЗДА ОЛЬГА ЛЮБОМИРІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3343905525",
+            "legalName": "ФОП \"ДРОЗДА ОЛЬГА ЛЮБОМИРІВНА\""
+          },
+          "address": {
+            "streetAddress": "Калуський р-н місто Калуш вул.Гуцульська будинок 63",
+            "locality": "Калуш",
+            "region": "Івано-Франківська область",
+            "postalCode": "77300",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ольга Дрозда",
+            "email": "odrozda.medtrade@gmail.com",
+            "telephone": "+380963696569"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "0963efdf1ed24790ad9f710496f39cb4",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "e51b94bd48ed466b9f748fd67a655ba5",
+          "datePublished": "2026-06-02T15:56:56.621389+03:00",
+          "hash": "md5:177f541116679d6f4c034267107d570b",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/1f5a3a99b6d84f70a7ee8d212a0b8dbd?Signature=h5qgEIl2%2FB2NFOtH24pFiuMuTlDVuZj6Ye%2Fr3YlwxPnlCi8lw3mhlVjXZTaJ0FHWoIC57X4TF7EKTfgDEZoFDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-02T15:56:56.621389+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-02T13:51:00.123792+03:00",
+        "endDate": "2026-06-05T00:00:00+03:00"
+      },
+      "qualified": true
+    },
+    {
+      "id": "90ede77a7d93486c8e031afaa9fe149a",
+      "status": "unsuccessful",
+      "date": "2026-06-05T09:14:59.550544+03:00",
+      "value": {
+        "amount": 149440.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ФОП \"ДРОЗДА ОЛЬГА ЛЮБОМИРІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3343905525",
+            "legalName": "ФОП \"ДРОЗДА ОЛЬГА ЛЮБОМИРІВНА\""
+          },
+          "address": {
+            "streetAddress": "Калуський р-н місто Калуш вул.Гуцульська будинок 63",
+            "locality": "Калуш",
+            "region": "Івано-Франківська область",
+            "postalCode": "77300",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ольга Дрозда",
+            "email": "odrozda.medtrade@gmail.com",
+            "telephone": "+380963696569"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "0963efdf1ed24790ad9f710496f39cb4",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "description": "SHA1:85c48114114d3a081dd2d809a18725d55d7cd463;SHA2-384:f2abdbf7c7bef1dd62cddcf9541a83a467f4f3be2d4871fb02cce13cbb4940aa16c41531a96465644b30473da743b118;Antivirus: ESET Antivirus",
+          "id": "630ac3ec812244ff9b8896ef3d8d91b5",
+          "datePublished": "2026-06-05T09:14:01.707503+03:00",
+          "hash": "md5:6d60f78ed005ff910d50adf0d3b5028c",
+          "title": "Рішення 422 від 05.06.26р..pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/162be504d7524edaa8a18d7e0e071c19?Signature=qeigM3eZiGF%2F%2BV1tP2qhvsbIS68PDNa5ulQlkTEqbxG%2FZJDGVeCAJFpQK7xoJkR%2BfhGqy26GVjOY1HX6xC0tDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T09:14:01.961381+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "78e7fb9fff114d089194e9441b2ee659",
+          "datePublished": "2026-06-05T09:14:59.297895+03:00",
+          "hash": "md5:2ca7d929daa461b4123c0471fe883952",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/1261a625ce6b4234a5ee555012527742?Signature=3pg2Lz3RrAXr4RhC%2BvA423xnKg6OxxPCQqjOH0LFd03WgwWDhzguDkkFPHnRnhM1Woc0bCHtiZmr6S7LH3puBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T09:14:59.297895+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-05T09:08:53.786748+03:00",
+        "endDate": "2026-06-10T00:00:00+03:00"
+      },
+      "qualified": false,
+      "title": "не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "description": "за письмовим зверненням від 04.06.26р.  ФОП \"ДРОЗДА ОЛЬГА ЛЮБОМИРІВНА\"(3343905525) відмовляється від підписання договору"
+    },
+    {
+      "id": "9562ec1ee95e4ed1bf0b999fab95fbcc",
+      "status": "active",
+      "date": "2026-06-05T09:16:00.147924+03:00",
+      "value": {
+        "amount": 162351.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"РІВНЕМЕДТЕХНІКА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "30712311",
+            "legalName": "ТОВ \"РІВНЕМЕДТЕХНІКА\""
+          },
+          "address": {
+            "streetAddress": "Рівненський р-н місто Рівне вул.Замкова будинок 10 В",
+            "locality": "м. Рівне",
+            "region": "Рівненська область",
+            "postalCode": "33028",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олег Грушицький",
+            "email": "rmtinfo@rmt.in.ua",
+            "telephone": "+380503398603"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "c52eda96e15b4ad9949b1ed5d23d29cf",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "643bda34924e4b08a04a43097a73fce5",
+          "datePublished": "2026-06-05T09:15:59.915290+03:00",
+          "hash": "md5:476abd7544b7a292a2d2dc41a013d093",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/d0c6addfd2074a2dbd4da1b1e5a6953c?Signature=2uUYaUu3gEo9WxJjv71FHYLmF%2B3QUNmfvFCOPE%2FD%2BXVc7zw4euxQSCFpwlIz5ewB%2Fm5tJfjciPmAAjJXwlCPBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T09:15:59.915290+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-05T09:14:59.550544+03:00",
+        "endDate": "2026-06-10T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "92967514d77d49088a98078b3752e884",
+      "status": "cancelled",
+      "awardID": "7de48d8753594bbc985bfecf5e883df7",
+      "date": "2026-06-05T09:08:53.786748+03:00",
+      "contractID": "UA-2026-05-28-007183-a-a1",
+      "title": "59230 - Голка ін'єкційна одноразового використання стерильна (A01010101 - ГОЛКИ ДЛЯ ГІПОДЕРМАЛЬНИХ ШПРИЦІВ);12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ); 12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ); 12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ)",
+      "title_en": null,
+      "description": "1.Товар, який поставляється Постачальником, не повинен бути походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран. \n2.Голки для ін'єкцій: Ін'єкційна, Стерильна, Одноразова, Призначення: Загальна, Кольорове маркування, Розмір 30 G, Довжина голки: 13 міліметр, Діаметр голки: 0.29 міліметр, Матеріал голки: Нержавіюча сталь, Кріплення голки: Луєр-Лок; Тип: Для шприцевих насосів, Стерильність +, Тип конектора: Luer Lock, Довжина трубки: 150 см., Тиск: Низький, Вид: Прямий, Внутрішній діаметр: 1.0 мм, Зовнішній діаметр: 2.0 мм",
+      "description_en": null,
+      "value": {
+        "amount": 149440.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 149440.0
+      }
+    },
+    {
+      "id": "35a2604456d1446e86a75c25d3af84d8",
+      "status": "active",
+      "awardID": "9562ec1ee95e4ed1bf0b999fab95fbcc",
+      "date": "2026-06-09T11:48:40.941243+03:00",
+      "contractID": "UA-2026-05-28-007183-a-a2",
+      "title": "59230 - Голка ін'єкційна одноразового використання стерильна (A01010101 - ГОЛКИ ДЛЯ ГІПОДЕРМАЛЬНИХ ШПРИЦІВ);12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ); 12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ); 12170 -  Набір для подовження магістралі для внутрішньовенних вливань(A03020101 ПОДОВЖУВАЛЬНІ ТРУБКИ НИЗЬКОГО ТИСКУ)",
+      "title_en": null,
+      "description": "1.Товар, який поставляється Постачальником, не повинен бути походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран. \n2.Голки для ін'єкцій: Ін'єкційна, Стерильна, Одноразова, Призначення: Загальна, Кольорове маркування, Розмір 30 G, Довжина голки: 13 міліметр, Діаметр голки: 0.29 міліметр, Матеріал голки: Нержавіюча сталь, Кріплення голки: Луєр-Лок; Тип: Для шприцевих насосів, Стерильність +, Тип конектора: Luer Lock, Довжина трубки: 150 см., Тиск: Низький, Вид: Прямий, Внутрішній діаметр: 1.0 мм, Зовнішній діаметр: 2.0 мм",
+      "description_en": null,
+      "value": {
+        "amount": 162351.1,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 151730.0
+      }
+    }
+  ],
+  "id": "c96e53528e5c4600aaa6d607139ce1b3"
+}

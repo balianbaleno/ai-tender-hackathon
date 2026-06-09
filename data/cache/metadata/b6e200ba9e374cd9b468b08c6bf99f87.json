@@ -1,0 +1,324 @@
+{
+  "criteria": [
+    {
+      "id": "1ec95bed56884bd6b1eafdc1a1f79c25",
+      "description": "Забезпечення виконання договору про закупівлю повертається: 1) після виконання переможцем процедури закупівлі/спрощеної закупівлі договору про закупівлю; 2) за рішенням суду щодо повернення забезпечення договору у випадку визнання результатів процедури закупівлі/спрощеної закупівлі недійсними або договору про закупівлю нікчемним; 3) у випадках, передбачених статтею 43 цього Закону; 4) згідно з умовами, зазначеними в договорі про закупівлю, але не пізніше ніж протягом п’яти банківських днів з дня настання зазначених обставин",
+      "source": "winner",
+      "relatesTo": "lot",
+      "relatedItem": "0722b93a6a15461b94307ebca6237c2c",
+      "classification": {
+        "scheme": "LAW922",
+        "id": "CRITERION.OTHER.CONTRACT.GUARANTEE"
+      },
+      "title": "Забезпечення виконання договору про закупівлю",
+      "legislation": [
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.16"
+        },
+        {
+          "version": "2025-10-31",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1483"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "27"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "1ae050f4c09f4325a87ed1212ac0e771",
+          "description": "При наданні забезпечення у формі банківської гарантії підтверджується, що",
+          "requirements": [
+            {
+              "id": "01826da5d9184d3cb376723fad7d090d",
+              "title": "Сума забезпечення виконання Договору про закупівлю становить % від ціни цього Договору про закупівлю",
+              "dataType": "number",
+              "eligibleEvidences": [
+                {
+                  "title": "Банківська гарантія забезпечення договору",
+                  "description": "Банківська гарантія забезпечення договору , Банківська гарантія забезпечення договору , Банківська гарантія забезпечення договору , Банківська гарантія забезпечення договору , Банківська гарантія забезпечення договору , Банківська гарантія забезпечення договору , 1. З метою забезпечення належного та своєчасного виконання зобов’язань за договором Продавець до моменту підписання Договору надає Покупцю забезпечення виконання договору у вигляді банківської гарантії. 2. Розмір забезпечення виконання договору становить 3 (три) % від ціни Договору. 3. Форма забезпечення виконання договору — банківська гарантія. 4. Банківська гарантія повинна бути: - безвідкличною; - такою, що передбачає сплату коштів на першу письмову вимогу Покупця; - виданою банком, який має чинну банківську ліцензію Національного банку України; - строк дії гарантії повинен перевищувати строк дії Договору не менше ніж на 30 (тридцять) календарних днів. 5. У разі ненадання Продавцем забезпечення виконання договору у спосіб та строки, визначені цим Договором, Покупець має право відмовитися від укладення Договору без будь-яких негативних наслідків для себе. 6. Забезпечення виконання договору повертається Продавцю протягом 10 (десяти) банківських днів з дати повного та належного виконання ним зобов’язань за цим Договором. 7. Забезпечення виконання договору не повертається Продавцю у разі: - невиконання або неналежного виконання зобов’язань за Договором; - односторонньої відмови Продавця від виконання Договору; - розірвання Договору з вини Продавця. 8. Сума забезпечення договору визначається після аукціону.",
+                  "type": "document",
+                  "id": "2a272dbb333649caa79fbca0f613d073"
+                }
+              ],
+              "status": "active",
+              "unit": {
+                "code": "P1",
+                "name": "percent"
+              },
+              "expectedValue": 3.0,
+              "datePublished": "2026-06-09T11:41:14.996487+03:00"
+            },
+            {
+              "id": "195d45c18d4948cda67141d8de55ef76",
+              "title": "Строк дії гарантії перевищує строк дії Договору про закупівлю на",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "DAY",
+                "name": "day"
+              },
+              "expectedValue": 30,
+              "datePublished": "2026-06-09T11:41:14.996487+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "date": "2026-06-09T11:41:26.697071+03:00",
+  "dateModified": "2026-06-09T11:41:26.697071+03:00",
+  "dateCreated": "2026-06-09T11:39:45.066868+03:00",
+  "tenderID": "UA-2026-06-09-004918-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "5749328418dc4b29a05b9a9a541ab637",
+      "datePublished": "2026-06-09T11:40:22.103166+03:00",
+      "hash": "md5:94f2d720f5689f73d630d1a46951bf9b",
+      "title": "Проєкт договору із забезпеченням А7381.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/98f696df722f4b0a945a3db7dbb6b8c0?Signature=NqIp7C6PVN7yF1scfDgDWrP0iFpRF8F3LiQOTkPCJpWUBSdoURMJ4RlktDS%2Be2eO7%2FcinH8QEp9IczuVtGB7Dg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-09T11:40:22.103166+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "93b3c5fb1c794062b73732b6884275a6",
+      "datePublished": "2026-06-09T11:40:22.103166+03:00",
+      "hash": "md5:3deb2a629d93a0408b2297df06df724a",
+      "title": "Оголошення_на_закупівлю_Батареї Вампір із забезпеченям.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/c20210da831e45518c387c868e862ad8?Signature=qBvAU165gHmOSzRyyRoa3k6Nm8gFfA%2FV85GPq0a87%2F9NBzR%2FpGZ1muxgJ1lxhQE%2BM5nlB5DHT1i8lL3ujY7wAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-09T11:40:22.103166+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "ce4d16e2ce404007a0c0c02e75f26329",
+      "datePublished": "2026-06-09T11:40:22.103166+03:00",
+      "hash": "md5:01f6033d6fe79fe8121510f03478edba",
+      "title": "Додаток 2 до Оголошення про закупівлю.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/1b9676b11dfb48c1ba6439cd653e76c9?Signature=PSU24bhfqTtW1c9prnStC%2FnwCkqmO4OC1muAwsL1BpcYxMEgABoAOIEIhRm6FZwdxkriHPcPFehdRnJlX96zAw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-09T11:40:22.103166+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "f13940e39ce64225a282d3d177349e6a",
+      "datePublished": "2026-06-09T11:41:22.745166+03:00",
+      "hash": "md5:54b0dce65bccf775dd2f4ec2cd5d4bf2",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/9ade45ba0139465a892f71b348f1aef5?Signature=qAFmx2khhrRVWGn2eSjv32Es2ONMNxuXH3CHW9nDobl5nxMEU5aD6Mmudf3dDGeypAK%2F%2BJDtTGdFP0xB1JZKAg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-09T11:41:22.745166+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.enquiries",
+  "owner": "e-tender.biz",
+  "title": "Батареї для БпАК Вампір (Vampire) Solid State ємністю 66000 мАг",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "plans": [
+    {
+      "id": "63916aaa3e8a4c9691ed9f71a1f994c3"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "9f57dd396fe54f179a066103aab1a532",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "banking"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "0722b93a6a15461b94307ebca6237c2c"
+    },
+    {
+      "id": "be612ae0fb28405096d3b4bfa8e039ef",
+      "title": "signingTheContract",
+      "type": "delivery",
+      "code": "recurring",
+      "percentage": 100.0,
+      "duration": {
+        "days": 20,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "0722b93a6a15461b94307ebca6237c2c"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "Військова частина А7381",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "26630559",
+      "legalName": "Військова частина А7381"
+    },
+    "address": {
+      "streetAddress": "UA46060250010015970",
+      "locality": "Львів",
+      "region": "Львівська область",
+      "postalCode": "79000",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Коврижко Александр ",
+      "email": "alex_keper@ukr.net",
+      "telephone": "380937082000"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 1320000.0
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-15T00:00:00+03:00",
+    "endDate": "2026-06-19T00:00:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Батареї для БпАК Вампір (Vampire) Solid State ємністю 66000 мАг",
+      "status": "active",
+      "id": "0722b93a6a15461b94307ebca6237c2c",
+      "date": "2026-06-09T11:39:45.066868+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 1320000.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 13200.0
+      },
+      "auctionPeriod": {
+        "startDate": "2026-06-19T11:23:16.897000+03:00",
+        "shouldStartAfter": "2026-06-19T00:00:00+03:00"
+      }
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-06-09T11:39:45.066868+03:00",
+    "clarificationsUntil": "2026-06-16T00:00:00+03:00",
+    "endDate": "2026-06-15T00:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "71b12548dd5549be9d84016d15820198",
+      "description": "Батареї для БпАК Вампір (Vampire) Solid State ємністю 66000 мАг",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 30.0,
+      "classification": {
+        "description": "Електричні акумулятори",
+        "scheme": "ДК021",
+        "id": "31430000-9"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-06T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "",
+        "locality": "Харків",
+        "region": "Харківська область",
+        "postalCode": "",
+        "countryName": "Україна"
+      },
+      "relatedLot": "0722b93a6a15461b94307ebca6237c2c"
+    }
+  ],
+  "noticePublicationDate": "2026-06-09T11:41:26.697071+03:00",
+  "next_check": "2026-06-15T00:00:00+03:00",
+  "id": "b6e200ba9e374cd9b468b08c6bf99f87"
+}

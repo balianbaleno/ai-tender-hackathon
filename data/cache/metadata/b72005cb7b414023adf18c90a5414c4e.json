@@ -1,0 +1,4586 @@
+{
+  "description": "Постачальник гарантує, що товар, який пропонується, не має походження з Російської Федерації / Республіки Білорусь / Ісламської Республіки Іран та підтверджує країну походження і зобов’язується надати документи, що підтверджують країну походження товару",
+  "date": "2026-06-08T12:00:02.733582+03:00",
+  "dateModified": "2026-06-09T11:48:11.360555+03:00",
+  "dateCreated": "2026-06-03T17:26:33.119615+03:00",
+  "tenderID": "UA-2026-06-03-013518-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "title_en": "Проєкт договору.docx",
+      "title_ru": "Проєкт договору.docx",
+      "description": "SHA1: 2d49c1fd54e0812d0584a97e5d82047928712764",
+      "id": "333540842c25496e944998c22634c08b",
+      "datePublished": "2026-06-03T17:38:29.705126+03:00",
+      "hash": "md5:01054d34273d132453d37d1880b64d00",
+      "title": "Проєкт договору.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/b38f418fce0e4766bc5cc1b0ee9c9f60?Signature=zJ6qoABpvMQEskFZTJSRWI6VxHANWZnwfI3oXg0YkRnoznhE6tTo%2Bhs1JadBbJ9w8YPQauRsrCIrt%2BelZDCvBg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T17:38:29.705126+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "title_en": "sign.p7s",
+      "title_ru": "sign.p7s",
+      "description": "SHA1: dea972af778312968d21240fd80d3332b2f4af8a",
+      "id": "b32226626f274da891f2bb7ef27fa12d",
+      "datePublished": "2026-06-03T17:41:12.679358+03:00",
+      "hash": "md5:6b5672b7ca8f6615ab2774ca8838ef12",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/e9608a023fc8495cb2b1fbe894b5cae1?Signature=NbJllKiz8lNOsF1OoPjTdJQ89SlHN0iCcj8Jpg%2FxrswCcqZ4iwsJ%2BMKj6Qx7F0BD1SYiwToahqeFl4G5cY7wDw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T17:41:12.679358+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "netcast.com.ua",
+  "title": "Машини для обробки даних (апаратна частина) (Ноутбуки)",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "d4af720c4cb149aa9a20b10fa45efc6c"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "4b3b466c86044e97bec3793ff1e8c3d5",
+      "title": "deliveryOfGoods",
+      "description": "Поставка Товару за договором здійснюється у повному обсязі згідно з видатковою накладною з моменту підписання договору за рахунок Продавця до 31.07.2026 року. До ціни Договору входять усі витрати Постачальника пов’язані з поставкою Товару, у тому числі на транспортування, збирання, пакування, страхування, навантаження, розвантаження, монтування, встановлення, вартість тари, маркування, сплату податків, та інших обов’язкових платежів і зборів, що сплачуються або мають бути сплачені в зв’язку з виконанням Договору, також витрати, які несуть треті особи в зв’язку зі здійсненням поставки Товару",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 15,
+        "type": "working"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "984c7ecaf1e043a7ada6e99fb99e977f",
+      "title": "signingTheContract",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 15,
+        "type": "working"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "7573085075c547c9be2fc9d567d8a51e"
+  },
+  "value": {
+    "amount": 111000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-03T17:41:14.843666+03:00",
+    "endDate": "2026-06-08T12:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Радехівський відділ Державної казначейської служби України  Львівської області",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "37976988",
+      "legalName": "Радехівський відділ Державної казначейської служби України  Львівської області"
+    },
+    "address": {
+      "streetAddress": "вулиця Львівська, 14 А",
+      "locality": "місто Радехів",
+      "region": "Львівська область",
+      "postalCode": "80200",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Палащук Галина Євгенівна",
+      "name_en": "  ",
+      "name_ru": "  ",
+      "email": "hp170502@gmail.com",
+      "telephone": "+380325521930",
+      "faxNumber": "+380325521930"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "category": "30210000-689325-32348248",
+      "id": "42eaf2fa564298c137a3d1c44cd050ca",
+      "description": "Ноутбуки",
+      "quantity": 3.0,
+      "classification": {
+        "description": "Машини для обробки даних (апаратна частина)",
+        "scheme": "ДК021",
+        "id": "30210000-4"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-31T17:31:31+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Львівська, 14 А",
+        "locality": "місто Радехів",
+        "region": "Львівська область",
+        "postalCode": "80200",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "766d90dbf996c30b54d2c53b95fcd6a3",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "42eaf2fa564298c137a3d1c44cd050ca",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "1210ed4aaf0907672ba498d49c559f0f",
+          "description": "Технічні характеристики",
+          "requirements": [
+            {
+              "id": "7df08ae58dee2bd8de3d391b4c81f2bf",
+              "title": "Бренд",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "LENOVO"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "d73f96e215a1f07d7b0320f29ead6b2f",
+              "title": "Діагональ екрану",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "INH",
+                "name": "дюйм"
+              },
+              "expectedValue": 15.6,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "787a8f35f2799da90f7591895e638aec",
+              "title": "Роздільна здатність екрану",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "FHD (1920x1080)"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "6550393eea1c0a0c329258d8cb3974ab",
+              "title": "Частота оновлення екрану",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "HTZ",
+                "name": "герц"
+              },
+              "expectedValue": 60,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "58f89e464b32515f37fd1c71ffb9c838",
+              "title": "Технологія матриці",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "IPS"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "fb6d7758fcc4a28bbb1e8d66a7f8bc22",
+              "title": "Покриття екрану",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "антиблікове"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "26ad45e16c38db3d721d88b6b9c93d3d",
+              "title": "Яскравість екрану",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "A24",
+                "name": "кандела на квадратний метр"
+              },
+              "expectedValue": 300,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "c3f737f0e2343e76f12c4e071732397e",
+              "title": "Серія процесору",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Intel Core i5 12 Gen"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "86a9bd4f5d4b20cc289bb047b32a170e",
+              "title": "Процесор",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Intel Core i5-1235U"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "73edf2f9401b30486aadd2214ca81384",
+              "title": "Об'єм оперативної пам'яті",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "E34",
+                "name": "гігабайт"
+              },
+              "expectedValue": 16,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "8f3d43326e241771aae2812b64ce729e",
+              "title": "Тип оперативної пам'яті",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "DDR4"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "17e0d24124da473e770714df603376ce",
+              "title": "Пропускна здатність шини пам'яті",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "3200 MT/s"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "227eccd07ebb562b3e34e4cf02886bfb",
+              "title": "Об'єм накопичувача SSD",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "E34",
+                "name": "гігабайт"
+              },
+              "expectedValue": 512,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "8e618e83b8f257ae43581abfabe36283",
+              "title": "Тип відеокарти",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "інтегрована графіка"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "4bd5acded31497ae8abfcbfc2d06c00e",
+              "title": "Графічний адаптер",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Intel Iris Xe Graphics"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "410bd1adbd46dddbc2b582b001025274",
+              "title": "Оптичний привод",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "e6e40ed71ccc2aab57c5e4da57309d24",
+              "title": "Стандарт Wi-Fi",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Wi-Fi 6 (802.11ax)"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "d1a7aa5bb94ca3c754beaa1454631545",
+              "title": "Стандарт Bluetooth",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "5.2"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "6f6e39bfcd8c223d5b34e9ea6d37432b",
+              "title": "Мова розкладки клавіатури",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "англійська",
+                "українська",
+                "російська"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "ee20c83266a260d58edc4b17e75c498b",
+              "title": "USB 2.0 Type-A",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "expectedValue": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "ac3941caeaad43f17ddb86822213e837",
+              "title": "USB 3.2 Gen 1 Type-A",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "expectedValue": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "37aad15aac7a719813aa0913591b116a",
+              "title": "USB 3.2 Gen 1 Type-C",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "expectedValue": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "c86ad4c00ed393a7502a8cfc5dd649cd",
+              "title": "Gigabit Ethernet (RJ45)",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "b0e8891647d90eaf545df7925c7f6556",
+              "title": "Слот для карт пам'яті",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "28740f80b64d25bf3810d21e717d1875",
+              "title": "HDMI",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "7c40915141ffa8259cc744137365b39a",
+              "title": "Сканер відбитка пальців",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "ee4181dfebcd9a14a33f9417faa7b2a6",
+              "title": "Підсвітка клавіатури",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "616654537178e4a85c0362f7bfb56f3f",
+              "title": "Модем 3G/4G",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "8dc07aafc8d8f9d6e6d2120eccd5ea81",
+              "title": "Web - камера",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "HD 720p with Privacy Shutter"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "98715bcf63f66db6aea44c2c9d93364e",
+              "title": "Ємність батареї",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "WHR",
+                "name": "ват-година"
+              },
+              "expectedValue": 45,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "230ebc974b33b504f0ed18690903bbc9",
+              "title": "Живлення",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "65W AC Adapter"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "940ced464c416bd524147eb18ba3c796",
+              "title": "Вага",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "1.51 - 2.0 кг"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "353d162d33f6a5974ab0cb8ba2ef266e",
+              "title": "Операційна система",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "без ОС"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "7d2eb2423d1fb1f2aa183e834d5b8b66",
+              "title": "Гарантійний термін",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MON",
+                "name": "місяць"
+              },
+              "expectedValue": 12,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "482282170db2fc0bf4c4bd5ce11b6f18",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "8a0d29c1fb5d2627a68140650078bf19",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "4b80e5252abcbb15c64a0c004445049e",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "1e4b9555d897501e6ec2b3426658d01d",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            },
+            {
+              "id": "ae1bba23251a16bbe5eaa9c382ec7092",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d65a0973c8276bf1f805d6d0ee605a24",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "6d86e4ff97d22911e07f7a8b8502f9dc",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "a07aa4814f82bd0d467f50f08f36e893",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            }
+          ]
+        },
+        {
+          "id": "f4484111a7f325bd321083c8fbc21da1",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "6f76d31ba2d691d6f9b6fd5acf879e53",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T17:26:40.423227+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-03T17:41:14.843666+03:00",
+  "bids": [
+    {
+      "id": "5a32dccfd2f94763805ef76e507fc8f4",
+      "date": "2026-06-05T08:42:54.788859+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:6f9c9958de2e7f5a2208750be215f6befe05100b;SHA2-384:b991e71d61cc68309041b3ad0084c752abf56951d24cc52fffe63bdc8960768354ead9749695aae24de764ced7b5fda0;Antivirus: ESET Antivirus,fids:784fa29b18884a0e8058ebbcd9decc01:fide",
+          "id": "4749d76870da49178fd7aefcc183ff47",
+          "datePublished": "2026-06-05T08:42:54.445603+03:00",
+          "hash": "md5:36ebffd120bcda8d13ff80e92e4b8e0c",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/527a809e6e91401f9f36d277011558fb?Signature=YGs%2F4homwFrehK5rjYki%2FwlUJQ3STuEAU%2FZpV4CsUPmcY%2BMI4LwqHIk5W8pwxEz%2FuMaCi%2FehSNNGiBt3FRTkDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T08:42:54.445603+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ОСТРІВ 1\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "44996712",
+            "legalName": "ТОВ \"ОСТРІВ 1\""
+          },
+          "address": {
+            "streetAddress": "Бульв. Шевченка, будинок 266, офіс 198",
+            "locality": "місто Черкаси",
+            "region": "Черкаська область",
+            "postalCode": "18002",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Острів 1 ТОВ",
+            "email": "ib@ostriv.net",
+            "telephone": "+380674721566"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 107523.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "a07aa4814f82bd0d467f50f08f36e893",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "50ae5378f1db437f9bc5163ebd56891b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4b80e5252abcbb15c64a0c004445049e",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "1bd23bc69e7849538be8987bca5526d0",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1e4b9555d897501e6ec2b3426658d01d",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "85cf86c5fa45463087d801d68c95c3a2",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ae1bba23251a16bbe5eaa9c382ec7092",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "bf885b76d7a84f9b87e24894a6dde3c4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7df08ae58dee2bd8de3d391b4c81f2bf",
+            "title": "Бренд"
+          },
+          "values": [
+            "LENOVO"
+          ],
+          "id": "75725d4d0eea4427a9f79e69d1638b05",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d73f96e215a1f07d7b0320f29ead6b2f",
+            "title": "Діагональ екрану"
+          },
+          "value": 15.6,
+          "id": "7822d99fde754954801c17d22be65d3b",
+          "unit": {
+            "code": "INH",
+            "name": "дюйм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "787a8f35f2799da90f7591895e638aec",
+            "title": "Роздільна здатність екрану"
+          },
+          "values": [
+            "FHD (1920x1080)"
+          ],
+          "id": "d15160e54cf54020b37f9304c0fed69d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6550393eea1c0a0c329258d8cb3974ab",
+            "title": "Частота оновлення екрану"
+          },
+          "value": 60,
+          "id": "750fc2058792445db0e23e267c2aae6c",
+          "unit": {
+            "code": "HTZ",
+            "name": "герц"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "58f89e464b32515f37fd1c71ffb9c838",
+            "title": "Технологія матриці"
+          },
+          "values": [
+            "IPS"
+          ],
+          "id": "da825907bd8b4ff88f4c5b0a1c3a25c4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fb6d7758fcc4a28bbb1e8d66a7f8bc22",
+            "title": "Покриття екрану"
+          },
+          "values": [
+            "антиблікове"
+          ],
+          "id": "4a2d8454a7b44444b119b1c20194e919",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26ad45e16c38db3d721d88b6b9c93d3d",
+            "title": "Яскравість екрану"
+          },
+          "value": 300,
+          "id": "082d138cfdf14dd5891fc1360ef50576",
+          "unit": {
+            "code": "A24",
+            "name": "кандела на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c3f737f0e2343e76f12c4e071732397e",
+            "title": "Серія процесору"
+          },
+          "values": [
+            "Intel Core i5 12 Gen"
+          ],
+          "id": "7039731d3aa64ea9a78ca67ddc09f149",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86a9bd4f5d4b20cc289bb047b32a170e",
+            "title": "Процесор"
+          },
+          "values": [
+            "Intel Core i5-1235U"
+          ],
+          "id": "667a2a13b5914e37bff307c127e56fc8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "73edf2f9401b30486aadd2214ca81384",
+            "title": "Об'єм оперативної пам'яті"
+          },
+          "value": 16,
+          "id": "823cb0ac37314d39b5313a709642b648",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8f3d43326e241771aae2812b64ce729e",
+            "title": "Тип оперативної пам'яті"
+          },
+          "values": [
+            "DDR4"
+          ],
+          "id": "a6e838492fc84a569ba58da8949d8f9b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "17e0d24124da473e770714df603376ce",
+            "title": "Пропускна здатність шини пам'яті"
+          },
+          "values": [
+            "3200 MT/s"
+          ],
+          "id": "775d235a5cfd4646a6a04ba01d26bf10",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "227eccd07ebb562b3e34e4cf02886bfb",
+            "title": "Об'єм накопичувача SSD"
+          },
+          "value": 512,
+          "id": "b21fe2deba78417484d0e42aba68c585",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8e618e83b8f257ae43581abfabe36283",
+            "title": "Тип відеокарти"
+          },
+          "values": [
+            "інтегрована графіка"
+          ],
+          "id": "9b3316e8e81840098f8e9dfd487a9046",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4bd5acded31497ae8abfcbfc2d06c00e",
+            "title": "Графічний адаптер"
+          },
+          "values": [
+            "Intel Iris Xe Graphics"
+          ],
+          "id": "8bf1511105df4a0d99a5b6fe12457bf8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "410bd1adbd46dddbc2b582b001025274",
+            "title": "Оптичний привод"
+          },
+          "value": false,
+          "id": "db65c6ec4148480cb6f5498780aaa77c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e40ed71ccc2aab57c5e4da57309d24",
+            "title": "Стандарт Wi-Fi"
+          },
+          "values": [
+            "Wi-Fi 6 (802.11ax)"
+          ],
+          "id": "3075226f83ce4182a194cd9ea96347e7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1a7aa5bb94ca3c754beaa1454631545",
+            "title": "Стандарт Bluetooth"
+          },
+          "values": [
+            "5.2"
+          ],
+          "id": "f02913ee8e104a0e96326a503dbd9742",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6e39bfcd8c223d5b34e9ea6d37432b",
+            "title": "Мова розкладки клавіатури"
+          },
+          "values": [
+            "англійська",
+            "українська",
+            "російська"
+          ],
+          "id": "45413c4b8ec84e34a22faeaacd0be0be",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee20c83266a260d58edc4b17e75c498b",
+            "title": "USB 2.0 Type-A"
+          },
+          "value": 1,
+          "id": "906f9c0a43da4d53b4efca41f4c31cba",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac3941caeaad43f17ddb86822213e837",
+            "title": "USB 3.2 Gen 1 Type-A"
+          },
+          "value": 1,
+          "id": "077cbc9017194476962d828918b4a776",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37aad15aac7a719813aa0913591b116a",
+            "title": "USB 3.2 Gen 1 Type-C"
+          },
+          "value": 1,
+          "id": "d6c08513bbc548e199a83730ba26a72d",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c86ad4c00ed393a7502a8cfc5dd649cd",
+            "title": "Gigabit Ethernet (RJ45)"
+          },
+          "value": false,
+          "id": "3d9c7f5cdb224ac7b73674c0bfaf1839",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e8891647d90eaf545df7925c7f6556",
+            "title": "Слот для карт пам'яті"
+          },
+          "value": true,
+          "id": "b986f3b8a8274cd3af1cfe72174223a0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "28740f80b64d25bf3810d21e717d1875",
+            "title": "HDMI"
+          },
+          "value": true,
+          "id": "54c659212d4f47ffbfcab91b746c75c6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7c40915141ffa8259cc744137365b39a",
+            "title": "Сканер відбитка пальців"
+          },
+          "value": false,
+          "id": "41db859c73994fe6b9c1d4d95f6dbb62",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee4181dfebcd9a14a33f9417faa7b2a6",
+            "title": "Підсвітка клавіатури"
+          },
+          "value": true,
+          "id": "cce7184f9d83447ea05c8c32fde517a4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "616654537178e4a85c0362f7bfb56f3f",
+            "title": "Модем 3G/4G"
+          },
+          "value": false,
+          "id": "f01eb9f482da46eca26616a9c1332bb3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8dc07aafc8d8f9d6e6d2120eccd5ea81",
+            "title": "Web - камера"
+          },
+          "values": [
+            "HD 720p with Privacy Shutter"
+          ],
+          "id": "ef655ec2290b497aa8db7404916bd45d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98715bcf63f66db6aea44c2c9d93364e",
+            "title": "Ємність батареї"
+          },
+          "value": 45,
+          "id": "78ab1c8dc6d8465ea120d7fe48480826",
+          "unit": {
+            "code": "WHR",
+            "name": "ват-година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "230ebc974b33b504f0ed18690903bbc9",
+            "title": "Живлення"
+          },
+          "values": [
+            "65W AC Adapter"
+          ],
+          "id": "4a6f9fa62e6644879a4062a644a38930",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "940ced464c416bd524147eb18ba3c796",
+            "title": "Вага"
+          },
+          "values": [
+            "1.51 - 2.0 кг"
+          ],
+          "id": "e83c4ff1d5744d74a17a2c6a7bfbbf18",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "353d162d33f6a5974ab0cb8ba2ef266e",
+            "title": "Операційна система"
+          },
+          "values": [
+            "без ОС"
+          ],
+          "id": "4be8bca3567a43d9b928154cdde45683",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d2eb2423d1fb1f2aa183e834d5b8b66",
+            "title": "Гарантійний термін"
+          },
+          "value": 12,
+          "id": "b6f94880d4b244a8bbe351e027f1a1bd",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "42eaf2fa564298c137a3d1c44cd050ca",
+          "description": "Ноутбук Lenovo ideapad 3 15IAU7 Arctic Grey (82RK018WRA)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 29867.5,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "7cc994fc86574486b5c381cef7e2aecb"
+        }
+      ],
+      "submissionDate": "2026-06-05T08:42:54.788859+03:00",
+      "initialValue": {
+        "amount": 107523.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "ef33e2bd9a5b40349d44f3d0c0528f6d",
+      "date": "2026-06-05T13:54:33.481515+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "62bcd738307b4010b504ce8c2d23ca86",
+          "datePublished": "2026-06-05T13:54:33.363089+03:00",
+          "hash": "md5:92dfc7a2de2c91a940d88bdf4ce89806",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/5c368a79f81f4c24b0883c2fdcc87a6a?Signature=FYR0qF6Xls%2FHLbQDeCAiFEmZhBX7dvX9ch2TJLmX7NlVwsu337VSMmSZMK2lSolQQSkLnPyyKn%2BV6SF4%2BCEWAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T13:54:33.363089+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"КОМПАКОМ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45596933",
+            "legalName": "Товариство з обмеженою відповідальністю \"КОМПАКОМ\""
+          },
+          "address": {
+            "streetAddress": "проспект Миру, 49, приміщення 3",
+            "locality": "м. Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49000",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Віталій Шульц",
+            "email": "vit6922@gmail.com",
+            "telephone": "0633695642"
+          },
+          "scale": "sme",
+          "signerInfo": {
+            "name": "Віталій Шульц",
+            "email": "vit6922@gmail.com",
+            "telephone": "0633695642",
+            "iban": "UA723052990000026006050603119",
+            "position": "Директор",
+            "authorizedBy": "Статуту"
+          }
+        }
+      ],
+      "value": {
+        "amount": 110400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "4b80e5252abcbb15c64a0c004445049e",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "b479e4c437684f9f8a40458a72010c56",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1e4b9555d897501e6ec2b3426658d01d",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "d0df16c518a64c4783b7379376bf5ae8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ae1bba23251a16bbe5eaa9c382ec7092",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "8134840918f944b2986c0d8ca2d964e2",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a07aa4814f82bd0d467f50f08f36e893",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "7d9f47d62b9f4740a5563aba4b68a083",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7df08ae58dee2bd8de3d391b4c81f2bf",
+            "title": "Бренд"
+          },
+          "values": [
+            "LENOVO"
+          ],
+          "id": "cc0ebd501ed14ac88e77ea6ef411ec88",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d73f96e215a1f07d7b0320f29ead6b2f",
+            "title": "Діагональ екрану"
+          },
+          "value": 15.6,
+          "id": "94ec1881bc1f4170943f2ed576e22402",
+          "unit": {
+            "code": "INH",
+            "name": "дюйм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "787a8f35f2799da90f7591895e638aec",
+            "title": "Роздільна здатність екрану"
+          },
+          "values": [
+            "FHD (1920x1080)"
+          ],
+          "id": "8a1ac1c726d74e8f99c052c42dd77db0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6550393eea1c0a0c329258d8cb3974ab",
+            "title": "Частота оновлення екрану"
+          },
+          "value": 60,
+          "id": "cea20521134b4e9aa2cb4a9a724e932a",
+          "unit": {
+            "code": "HTZ",
+            "name": "герц"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "58f89e464b32515f37fd1c71ffb9c838",
+            "title": "Технологія матриці"
+          },
+          "values": [
+            "IPS"
+          ],
+          "id": "30f8353658004b80b15b790c636a0b40",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fb6d7758fcc4a28bbb1e8d66a7f8bc22",
+            "title": "Покриття екрану"
+          },
+          "values": [
+            "антиблікове"
+          ],
+          "id": "72d78854a3974249959e4e4192999a19",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26ad45e16c38db3d721d88b6b9c93d3d",
+            "title": "Яскравість екрану"
+          },
+          "value": 300,
+          "id": "92e096b772f349a994f160e1a81be8c9",
+          "unit": {
+            "code": "A24",
+            "name": "кандела на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c3f737f0e2343e76f12c4e071732397e",
+            "title": "Серія процесору"
+          },
+          "values": [
+            "Intel Core i5 12 Gen"
+          ],
+          "id": "6558ae09b1a440a6a51fa8ead06ac09b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86a9bd4f5d4b20cc289bb047b32a170e",
+            "title": "Процесор"
+          },
+          "values": [
+            "Intel Core i5-1235U"
+          ],
+          "id": "bdd3f19a5deb4fa5b22447215dbc9cc5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "73edf2f9401b30486aadd2214ca81384",
+            "title": "Об'єм оперативної пам'яті"
+          },
+          "value": 16,
+          "id": "2b42f9a848b1453bb1790b89f2d7e6b3",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8f3d43326e241771aae2812b64ce729e",
+            "title": "Тип оперативної пам'яті"
+          },
+          "values": [
+            "DDR4"
+          ],
+          "id": "4f285dcec870400ebf10492bcafbc4b2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "17e0d24124da473e770714df603376ce",
+            "title": "Пропускна здатність шини пам'яті"
+          },
+          "values": [
+            "3200 MT/s"
+          ],
+          "id": "4b17132181f74ef5a280e455487f56d7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "227eccd07ebb562b3e34e4cf02886bfb",
+            "title": "Об'єм накопичувача SSD"
+          },
+          "value": 512,
+          "id": "624370c0e5914b94bf4a7ff01804e3d3",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8e618e83b8f257ae43581abfabe36283",
+            "title": "Тип відеокарти"
+          },
+          "values": [
+            "інтегрована графіка"
+          ],
+          "id": "ba6c4f0baf664c7eadf6f81e4f5cbe45",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4bd5acded31497ae8abfcbfc2d06c00e",
+            "title": "Графічний адаптер"
+          },
+          "values": [
+            "Intel Iris Xe Graphics"
+          ],
+          "id": "b78c52bbb02b406394097029d0a28296",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "410bd1adbd46dddbc2b582b001025274",
+            "title": "Оптичний привод"
+          },
+          "value": false,
+          "id": "8daa8813c0764be0831c785cd12785e9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e40ed71ccc2aab57c5e4da57309d24",
+            "title": "Стандарт Wi-Fi"
+          },
+          "values": [
+            "Wi-Fi 6 (802.11ax)"
+          ],
+          "id": "3fe70dec2ad649d6ab33c9d7da80a242",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1a7aa5bb94ca3c754beaa1454631545",
+            "title": "Стандарт Bluetooth"
+          },
+          "values": [
+            "5.2"
+          ],
+          "id": "5b912b7cac0d4f6d8fa110cc6545ddc6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6e39bfcd8c223d5b34e9ea6d37432b",
+            "title": "Мова розкладки клавіатури"
+          },
+          "values": [
+            "англійська",
+            "українська",
+            "російська"
+          ],
+          "id": "679e506fcba34161a66bb592bf3e3f57",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee20c83266a260d58edc4b17e75c498b",
+            "title": "USB 2.0 Type-A"
+          },
+          "value": 1,
+          "id": "70c252b9cf314ea69a177b3b392aa7ee",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac3941caeaad43f17ddb86822213e837",
+            "title": "USB 3.2 Gen 1 Type-A"
+          },
+          "value": 1,
+          "id": "3049aef09f564208a1afd953515aff8e",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37aad15aac7a719813aa0913591b116a",
+            "title": "USB 3.2 Gen 1 Type-C"
+          },
+          "value": 1,
+          "id": "024ce071f812433a9496ce430766280a",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c86ad4c00ed393a7502a8cfc5dd649cd",
+            "title": "Gigabit Ethernet (RJ45)"
+          },
+          "value": false,
+          "id": "4e39daf7d5ec429598e66256956795c8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e8891647d90eaf545df7925c7f6556",
+            "title": "Слот для карт пам'яті"
+          },
+          "value": true,
+          "id": "dd1d1759420c4bb19cad6eec0a5aa243",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "28740f80b64d25bf3810d21e717d1875",
+            "title": "HDMI"
+          },
+          "value": true,
+          "id": "c0cd5d4b82c74f04a70dac27164f92ac",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7c40915141ffa8259cc744137365b39a",
+            "title": "Сканер відбитка пальців"
+          },
+          "value": false,
+          "id": "f646f4d718d64dc79a0ab4c621987c01",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee4181dfebcd9a14a33f9417faa7b2a6",
+            "title": "Підсвітка клавіатури"
+          },
+          "value": true,
+          "id": "ea6815a0934e46acbd7f3759d3b2386c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "616654537178e4a85c0362f7bfb56f3f",
+            "title": "Модем 3G/4G"
+          },
+          "value": false,
+          "id": "70daf4a0ec864faa9e1a04b3826a3820",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8dc07aafc8d8f9d6e6d2120eccd5ea81",
+            "title": "Web - камера"
+          },
+          "values": [
+            "HD 720p with Privacy Shutter"
+          ],
+          "id": "412a9c6cbb024df0817db1e95444dc36",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98715bcf63f66db6aea44c2c9d93364e",
+            "title": "Ємність батареї"
+          },
+          "value": 45,
+          "id": "6d95242f7779408289117d622759d54b",
+          "unit": {
+            "code": "WHR",
+            "name": "ват-година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "230ebc974b33b504f0ed18690903bbc9",
+            "title": "Живлення"
+          },
+          "values": [
+            "65W AC Adapter"
+          ],
+          "id": "7797868864534d4bafd8ce4245278dff",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "940ced464c416bd524147eb18ba3c796",
+            "title": "Вага"
+          },
+          "values": [
+            "1.51 - 2.0 кг"
+          ],
+          "id": "4d1e0ed549bd42deae4d1a311771309f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "353d162d33f6a5974ab0cb8ba2ef266e",
+            "title": "Операційна система"
+          },
+          "values": [
+            "без ОС"
+          ],
+          "id": "4137edbbe710425bb85f3eafa445b6c3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d2eb2423d1fb1f2aa183e834d5b8b66",
+            "title": "Гарантійний термін"
+          },
+          "value": 12,
+          "id": "14818488ed544e75a85ac3cfa7186bbb",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "42eaf2fa564298c137a3d1c44cd050ca",
+          "description": "Ноутбук Lenovo ideapad 3 15IAU7 Arctic Grey (82RK018WRA)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 36800.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "7cc994fc86574486b5c381cef7e2aecb"
+        }
+      ],
+      "submissionDate": "2026-06-05T13:54:33.481515+03:00",
+      "initialValue": {
+        "amount": 110400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "44a4cd5c3aff4a4bb11cb027dc019621",
+      "date": "2026-06-07T15:49:35.347804+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:c3537405f8ea96d49e7dd732363c6c7b36f2b190;SHA2-384:c4ba0bd65f67a2682f917f4995df38830cd2373327fc72171ecf2f93f5592d6a7fedd55bf52b8f678dc8bb2ce59dbddf;Antivirus: ESET Antivirus,fids:f201b954655c4ff99a3d41068d697552:fide",
+          "id": "21125c60c6df4a3c8033f9fa9ec3b5ba",
+          "datePublished": "2026-06-07T15:49:35.017059+03:00",
+          "hash": "md5:23d9410ad47613e763dbae623f66123b",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/5c2b61e155324d5c926db0c7c42d87ff?Signature=hIMXSF8F9eKDwnbzU0hg6ujPydThkHWVRUeZ%2BrCQAV1hVcSV8NZEJE6M3W6J6oPrSVlhmqScODCmxTJLW7cSDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-07T15:49:35.017059+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"Гріпіч Тетяна Борисівна\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2850105825",
+            "legalName": "ФОП \"Гріпіч Тетяна Борисівна\""
+          },
+          "address": {
+            "streetAddress": "пр. Відродження 5/41",
+            "locality": "Кам'янське",
+            "region": "Дніпропетровська область",
+            "postalCode": "51922",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Тетяна Гріпіч",
+            "email": "fopgtb@gmail.com",
+            "telephone": "+380930600801"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 91800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "a07aa4814f82bd0d467f50f08f36e893",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "042e964df3c74f83baebf1697d76dac7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4b80e5252abcbb15c64a0c004445049e",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "82c4cc2e903f4b5e8be20dd39130b5e5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1e4b9555d897501e6ec2b3426658d01d",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "666ad22c97ea4037847a2ff56916d484",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ae1bba23251a16bbe5eaa9c382ec7092",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "1dcdf4031351411ba4b422711aac650e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7df08ae58dee2bd8de3d391b4c81f2bf",
+            "title": "Бренд"
+          },
+          "values": [
+            "LENOVO"
+          ],
+          "id": "54e1d885d7554cdc852e15bef972a58c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d73f96e215a1f07d7b0320f29ead6b2f",
+            "title": "Діагональ екрану"
+          },
+          "value": 15.6,
+          "id": "3af5e80f18784e839a5fb02acf74daba",
+          "unit": {
+            "code": "INH",
+            "name": "дюйм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "787a8f35f2799da90f7591895e638aec",
+            "title": "Роздільна здатність екрану"
+          },
+          "values": [
+            "FHD (1920x1080)"
+          ],
+          "id": "3cd3ec6dce424712ab3c7f47cc87a993",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6550393eea1c0a0c329258d8cb3974ab",
+            "title": "Частота оновлення екрану"
+          },
+          "value": 60,
+          "id": "cc3cd2e45b5645a4aa2c53a054d5eec4",
+          "unit": {
+            "code": "HTZ",
+            "name": "герц"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "58f89e464b32515f37fd1c71ffb9c838",
+            "title": "Технологія матриці"
+          },
+          "values": [
+            "IPS"
+          ],
+          "id": "98e16fa00e7a4561bddde1132fa7f0d3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fb6d7758fcc4a28bbb1e8d66a7f8bc22",
+            "title": "Покриття екрану"
+          },
+          "values": [
+            "антиблікове"
+          ],
+          "id": "207c257a22434b6d9069fea1bb48974e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26ad45e16c38db3d721d88b6b9c93d3d",
+            "title": "Яскравість екрану"
+          },
+          "value": 300,
+          "id": "e08989bbe9594ff6b2ccf663806cd4b3",
+          "unit": {
+            "code": "A24",
+            "name": "кандела на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c3f737f0e2343e76f12c4e071732397e",
+            "title": "Серія процесору"
+          },
+          "values": [
+            "Intel Core i5 12 Gen"
+          ],
+          "id": "55d65c8cb56545b38bf0d884266e02d2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86a9bd4f5d4b20cc289bb047b32a170e",
+            "title": "Процесор"
+          },
+          "values": [
+            "Intel Core i5-1235U"
+          ],
+          "id": "e90a5280ea0547e38257d99314d694fc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "73edf2f9401b30486aadd2214ca81384",
+            "title": "Об'єм оперативної пам'яті"
+          },
+          "value": 16,
+          "id": "7e9df7fd19bd44879f90df6df4234bdd",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8f3d43326e241771aae2812b64ce729e",
+            "title": "Тип оперативної пам'яті"
+          },
+          "values": [
+            "DDR4"
+          ],
+          "id": "78f8588179a5460aa1f41c4f27ea32d4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "17e0d24124da473e770714df603376ce",
+            "title": "Пропускна здатність шини пам'яті"
+          },
+          "values": [
+            "3200 MT/s"
+          ],
+          "id": "70bd411a98bb4355801fe93ee28c2878",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "227eccd07ebb562b3e34e4cf02886bfb",
+            "title": "Об'єм накопичувача SSD"
+          },
+          "value": 512,
+          "id": "26affc89cecf4fafb4ce6ccfaac93963",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8e618e83b8f257ae43581abfabe36283",
+            "title": "Тип відеокарти"
+          },
+          "values": [
+            "інтегрована графіка"
+          ],
+          "id": "38133e28b803481ab96272557483c647",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4bd5acded31497ae8abfcbfc2d06c00e",
+            "title": "Графічний адаптер"
+          },
+          "values": [
+            "Intel Iris Xe Graphics"
+          ],
+          "id": "e21f4a66ecde4922945bc25e7d9474ab",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "410bd1adbd46dddbc2b582b001025274",
+            "title": "Оптичний привод"
+          },
+          "value": false,
+          "id": "07c633e834e84d5586c00f4b4e4c64cf",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e40ed71ccc2aab57c5e4da57309d24",
+            "title": "Стандарт Wi-Fi"
+          },
+          "values": [
+            "Wi-Fi 6 (802.11ax)"
+          ],
+          "id": "d859096344e34ec09ba9809f3bdcf8ff",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1a7aa5bb94ca3c754beaa1454631545",
+            "title": "Стандарт Bluetooth"
+          },
+          "values": [
+            "5.2"
+          ],
+          "id": "c3274d3039fc4ac9a138bb285835c15f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6e39bfcd8c223d5b34e9ea6d37432b",
+            "title": "Мова розкладки клавіатури"
+          },
+          "values": [
+            "англійська",
+            "українська",
+            "російська"
+          ],
+          "id": "2fc9148fcf3246779af27787a93edac8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee20c83266a260d58edc4b17e75c498b",
+            "title": "USB 2.0 Type-A"
+          },
+          "value": 1,
+          "id": "19e82dc2dfac40c6aa0d3a12d8f6d1ef",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac3941caeaad43f17ddb86822213e837",
+            "title": "USB 3.2 Gen 1 Type-A"
+          },
+          "value": 1,
+          "id": "d6460a90b99749318323101f70583268",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37aad15aac7a719813aa0913591b116a",
+            "title": "USB 3.2 Gen 1 Type-C"
+          },
+          "value": 1,
+          "id": "14611a6e2b224e9a90d828326932bf09",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c86ad4c00ed393a7502a8cfc5dd649cd",
+            "title": "Gigabit Ethernet (RJ45)"
+          },
+          "value": false,
+          "id": "0a7f8f8336384c89ac59d2419cb65dee",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e8891647d90eaf545df7925c7f6556",
+            "title": "Слот для карт пам'яті"
+          },
+          "value": true,
+          "id": "11366a90b861483e9e76179fe56a0d82",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "28740f80b64d25bf3810d21e717d1875",
+            "title": "HDMI"
+          },
+          "value": true,
+          "id": "9f80717e051c46da980f25298910e897",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7c40915141ffa8259cc744137365b39a",
+            "title": "Сканер відбитка пальців"
+          },
+          "value": false,
+          "id": "17792e08c08a40dc8ee6807640f29e39",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee4181dfebcd9a14a33f9417faa7b2a6",
+            "title": "Підсвітка клавіатури"
+          },
+          "value": true,
+          "id": "8ef18b0971ce440ca230b535232a0d7c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "616654537178e4a85c0362f7bfb56f3f",
+            "title": "Модем 3G/4G"
+          },
+          "value": false,
+          "id": "d27cb69b743d4ad1863269443de46280",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8dc07aafc8d8f9d6e6d2120eccd5ea81",
+            "title": "Web - камера"
+          },
+          "values": [
+            "HD 720p with Privacy Shutter"
+          ],
+          "id": "913b9846230944c48ec24bb5e3447cdb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98715bcf63f66db6aea44c2c9d93364e",
+            "title": "Ємність батареї"
+          },
+          "value": 45,
+          "id": "3072d79d522f4b329bed2b0ca1a3b425",
+          "unit": {
+            "code": "WHR",
+            "name": "ват-година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "230ebc974b33b504f0ed18690903bbc9",
+            "title": "Живлення"
+          },
+          "values": [
+            "65W AC Adapter"
+          ],
+          "id": "d58873ff554743d4bba1debfd5349a23",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "940ced464c416bd524147eb18ba3c796",
+            "title": "Вага"
+          },
+          "values": [
+            "1.51 - 2.0 кг"
+          ],
+          "id": "eaab541e1b2b45928b2a0017ad55dd20",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "353d162d33f6a5974ab0cb8ba2ef266e",
+            "title": "Операційна система"
+          },
+          "values": [
+            "без ОС"
+          ],
+          "id": "6d343b26d1df4ea1bd82d82bf1a211b2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d2eb2423d1fb1f2aa183e834d5b8b66",
+            "title": "Гарантійний термін"
+          },
+          "value": 12,
+          "id": "9bc6e21e70d4445eaea9ef9b4b12e0c7",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "42eaf2fa564298c137a3d1c44cd050ca",
+          "description": "Ноутбук Lenovo ideapad 3 15IAU7 Arctic Grey (82RK018WRA)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 30600.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "7cc994fc86574486b5c381cef7e2aecb"
+        }
+      ],
+      "submissionDate": "2026-06-07T15:49:35.347804+03:00",
+      "initialValue": {
+        "amount": 91800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "bd0910e3881d461ab7ced71049cbcef3",
+      "date": "2026-06-07T22:52:18.850010+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:afbf1182464d42ebca90820e57bf0a5eb649b7a0;SHA2-384:dce921ebcb1324e77160b7863146429119c784501f2f1c348c55db081c0390a4d1cb409e16d266ce7134a54c64e933fc;Antivirus: ESET Antivirus,fids:ae4285df5fab4688b5de951c5f6b091e:fide",
+          "id": "0e2f22dd3fe24f6c9daa8e9a3643f022",
+          "datePublished": "2026-06-07T22:52:18.568484+03:00",
+          "hash": "md5:09fc3671f2de64855c8b7bb61207c78e",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/78c62ff7b0d84d338a9da5d59aec153b?Signature=EC9p6ArQ6egwvvy%2B2kzoFV6Fxt6Yr2UEVdgDysFJtoKYXTR8tteqw6BQIYMMXv8Gwq3lcnJ0EPbXga0sXlPlDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-07T22:52:18.568484+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"Слободенюк Катерина Леонідівна\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3145508140",
+            "legalName": "ФОП \"Слободенюк Катерина Леонідівна\""
+          },
+          "address": {
+            "streetAddress": "Кам'янець-Подільський р-н місто Кам'янець-Подільський вул. Гунська будинок 36",
+            "locality": "Кам'янець-Подільський",
+            "region": "Хмельницька область",
+            "postalCode": "32300",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Катерина Слободенюк",
+            "email": "skl_fop@pm.me",
+            "telephone": "+380986873014"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 92400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "a07aa4814f82bd0d467f50f08f36e893",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "1afdf8ab1bdc479fa19f03bb5c2365e4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4b80e5252abcbb15c64a0c004445049e",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "70a7723bb8ac4a3e84dfb8737d77180b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1e4b9555d897501e6ec2b3426658d01d",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "d067d06b8c6d4a78a9eea693e85f2300",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ae1bba23251a16bbe5eaa9c382ec7092",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "a6cfac1c8f9d4db7ae341dafa4c0cecb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7df08ae58dee2bd8de3d391b4c81f2bf",
+            "title": "Бренд"
+          },
+          "values": [
+            "LENOVO"
+          ],
+          "id": "9cc624410d1a4be788f56da09e429e94",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d73f96e215a1f07d7b0320f29ead6b2f",
+            "title": "Діагональ екрану"
+          },
+          "value": 15.6,
+          "id": "e6bccb5fe3264bcb9c2bc9bb186d3993",
+          "unit": {
+            "code": "INH",
+            "name": "дюйм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "787a8f35f2799da90f7591895e638aec",
+            "title": "Роздільна здатність екрану"
+          },
+          "values": [
+            "FHD (1920x1080)"
+          ],
+          "id": "12635fba36a24b13895888eb66df3217",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6550393eea1c0a0c329258d8cb3974ab",
+            "title": "Частота оновлення екрану"
+          },
+          "value": 60,
+          "id": "eaaa7cc6d58540a69bc4394a20397d14",
+          "unit": {
+            "code": "HTZ",
+            "name": "герц"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "58f89e464b32515f37fd1c71ffb9c838",
+            "title": "Технологія матриці"
+          },
+          "values": [
+            "IPS"
+          ],
+          "id": "3511926f45364c28bf4af775491d8597",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fb6d7758fcc4a28bbb1e8d66a7f8bc22",
+            "title": "Покриття екрану"
+          },
+          "values": [
+            "антиблікове"
+          ],
+          "id": "0b017df953fb42a8a3bb9e20b737aa48",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26ad45e16c38db3d721d88b6b9c93d3d",
+            "title": "Яскравість екрану"
+          },
+          "value": 300,
+          "id": "cc675d02b3dd471592f185e1d9c7b9f7",
+          "unit": {
+            "code": "A24",
+            "name": "кандела на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c3f737f0e2343e76f12c4e071732397e",
+            "title": "Серія процесору"
+          },
+          "values": [
+            "Intel Core i5 12 Gen"
+          ],
+          "id": "d2f67b621359418ca647f7337241f87d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86a9bd4f5d4b20cc289bb047b32a170e",
+            "title": "Процесор"
+          },
+          "values": [
+            "Intel Core i5-1235U"
+          ],
+          "id": "d85769c194b54e11a92b3a1627cfa9dc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "73edf2f9401b30486aadd2214ca81384",
+            "title": "Об'єм оперативної пам'яті"
+          },
+          "value": 16,
+          "id": "ebf3a051c29144dcb4c9223813855099",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8f3d43326e241771aae2812b64ce729e",
+            "title": "Тип оперативної пам'яті"
+          },
+          "values": [
+            "DDR4"
+          ],
+          "id": "e2d56501cbb04cda9990548457ed1c89",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "17e0d24124da473e770714df603376ce",
+            "title": "Пропускна здатність шини пам'яті"
+          },
+          "values": [
+            "3200 MT/s"
+          ],
+          "id": "e63bd8d452fa434fb7018db423e98047",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "227eccd07ebb562b3e34e4cf02886bfb",
+            "title": "Об'єм накопичувача SSD"
+          },
+          "value": 512,
+          "id": "8b754ea765a1441b905c907bcfc94010",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8e618e83b8f257ae43581abfabe36283",
+            "title": "Тип відеокарти"
+          },
+          "values": [
+            "інтегрована графіка"
+          ],
+          "id": "939f4fd1e3ff4b64b44f0ae5b90c072e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4bd5acded31497ae8abfcbfc2d06c00e",
+            "title": "Графічний адаптер"
+          },
+          "values": [
+            "Intel Iris Xe Graphics"
+          ],
+          "id": "2a877faf911745099a6ca8148f3af27c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "410bd1adbd46dddbc2b582b001025274",
+            "title": "Оптичний привод"
+          },
+          "value": false,
+          "id": "f3aa5f47510542d38e27db1519c78857",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e40ed71ccc2aab57c5e4da57309d24",
+            "title": "Стандарт Wi-Fi"
+          },
+          "values": [
+            "Wi-Fi 6 (802.11ax)"
+          ],
+          "id": "a45210b1548744428ca475ca877f9e56",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1a7aa5bb94ca3c754beaa1454631545",
+            "title": "Стандарт Bluetooth"
+          },
+          "values": [
+            "5.2"
+          ],
+          "id": "b72c70e492b54e9ba8797759b7979e87",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6e39bfcd8c223d5b34e9ea6d37432b",
+            "title": "Мова розкладки клавіатури"
+          },
+          "values": [
+            "англійська",
+            "українська",
+            "російська"
+          ],
+          "id": "0f01e2cef6a44965bf009bc8b68f7130",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee20c83266a260d58edc4b17e75c498b",
+            "title": "USB 2.0 Type-A"
+          },
+          "value": 1,
+          "id": "a7d18cbe493747b0b8a46038d3344435",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac3941caeaad43f17ddb86822213e837",
+            "title": "USB 3.2 Gen 1 Type-A"
+          },
+          "value": 1,
+          "id": "475a7de6db2a41d3b4f5e0a54c367363",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37aad15aac7a719813aa0913591b116a",
+            "title": "USB 3.2 Gen 1 Type-C"
+          },
+          "value": 1,
+          "id": "48b5706cbc7e405db6f720b8f55b9d6a",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c86ad4c00ed393a7502a8cfc5dd649cd",
+            "title": "Gigabit Ethernet (RJ45)"
+          },
+          "value": false,
+          "id": "b11a604410134b7b967d205827de593c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e8891647d90eaf545df7925c7f6556",
+            "title": "Слот для карт пам'яті"
+          },
+          "value": true,
+          "id": "4c5530bb1d3c48db8bf4e59cacbb515a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "28740f80b64d25bf3810d21e717d1875",
+            "title": "HDMI"
+          },
+          "value": true,
+          "id": "2a71127072954a829ad78c278cf1f548",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7c40915141ffa8259cc744137365b39a",
+            "title": "Сканер відбитка пальців"
+          },
+          "value": false,
+          "id": "f99aa86a337943bab7ab2ca2cd89e427",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee4181dfebcd9a14a33f9417faa7b2a6",
+            "title": "Підсвітка клавіатури"
+          },
+          "value": true,
+          "id": "7195b82ae2fc4e259be56363d71d170d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "616654537178e4a85c0362f7bfb56f3f",
+            "title": "Модем 3G/4G"
+          },
+          "value": false,
+          "id": "aa17d1aa8911481aaff138565516c037",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8dc07aafc8d8f9d6e6d2120eccd5ea81",
+            "title": "Web - камера"
+          },
+          "values": [
+            "HD 720p with Privacy Shutter"
+          ],
+          "id": "7e5c6ee83ed64871b0fc945a98c02d36",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98715bcf63f66db6aea44c2c9d93364e",
+            "title": "Ємність батареї"
+          },
+          "value": 45,
+          "id": "a3222219d5c649a8960be6015c6903d7",
+          "unit": {
+            "code": "WHR",
+            "name": "ват-година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "230ebc974b33b504f0ed18690903bbc9",
+            "title": "Живлення"
+          },
+          "values": [
+            "65W AC Adapter"
+          ],
+          "id": "c07f03d6a09a4e0c90f3f6bd5b2060ef",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "940ced464c416bd524147eb18ba3c796",
+            "title": "Вага"
+          },
+          "values": [
+            "1.51 - 2.0 кг"
+          ],
+          "id": "e58f39676b0e40ca9835a0e5de377bfe",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "353d162d33f6a5974ab0cb8ba2ef266e",
+            "title": "Операційна система"
+          },
+          "values": [
+            "без ОС"
+          ],
+          "id": "e9feb16e8ba7467fa47334dd649d30f7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d2eb2423d1fb1f2aa183e834d5b8b66",
+            "title": "Гарантійний термін"
+          },
+          "value": 12,
+          "id": "41772671e22c4221ad1cbe2bf46d6a30",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "42eaf2fa564298c137a3d1c44cd050ca",
+          "description": "Ноутбук Lenovo ideapad 3 15IAU7 Arctic Grey (82RK018WRA)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 30800.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "7cc994fc86574486b5c381cef7e2aecb"
+        }
+      ],
+      "submissionDate": "2026-06-07T22:52:18.850010+03:00",
+      "initialValue": {
+        "amount": 92400.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "4540106393e1463b867d1b50cf259f8b",
+      "date": "2026-06-08T10:58:19.514281+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:c61f4194e93bfbf5c6824abb9a531e1ad9d7d859;SHA2-384:aa8ad9250b239e494bcb96fec340488480ff590754dc732445de2fe58648fdcc794bc62b9ed1c7662d4840778280b15e;Antivirus: ESET Antivirus,fids:aeb1e87bc4894198a2666813c2980265:fide",
+          "id": "c3324df6bcbf45e8b3779bc8321f34f7",
+          "datePublished": "2026-06-08T10:58:19.182804+03:00",
+          "hash": "md5:f2ae5ba9a74d16e94ebe5c9b1430ab4a",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/9c32a37f5a974a91b16805247a230a63?Signature=6GlQO9JyJ0LI4Oe05vu8mjEWIWJ4S2GcEMKL0JK5lgD8qY4qpnZrXGRedMCmGZ6g4LsD1dkeLc%2FKDGanHs%2B4Ag%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T10:58:19.182804+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ТІНОС-Д\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42289645",
+            "legalName": "ТОВ \"ТІНОС-Д\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ВАСИЛЯ МАКУХА, будинок 1",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49087",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Малієнко Олександр",
+            "email": "tinosten@ukr.net",
+            "telephone": "+380663353839"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 88992.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "a07aa4814f82bd0d467f50f08f36e893",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "4d85f37de2c1468492e5b85eb3de8609",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4b80e5252abcbb15c64a0c004445049e",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "0022a529a40b430fb4caa91992d2b12f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1e4b9555d897501e6ec2b3426658d01d",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "acd26f5ab207424c923dacaaa927513d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ae1bba23251a16bbe5eaa9c382ec7092",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "c22c128a82ba4ef199f7129014a4a8c7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7df08ae58dee2bd8de3d391b4c81f2bf",
+            "title": "Бренд"
+          },
+          "values": [
+            "LENOVO"
+          ],
+          "id": "6137c1e771944474a85101e5520073f4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d73f96e215a1f07d7b0320f29ead6b2f",
+            "title": "Діагональ екрану"
+          },
+          "value": 15.6,
+          "id": "f74df41d9ffb401f9955dcac4d66031a",
+          "unit": {
+            "code": "INH",
+            "name": "дюйм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "787a8f35f2799da90f7591895e638aec",
+            "title": "Роздільна здатність екрану"
+          },
+          "values": [
+            "FHD (1920x1080)"
+          ],
+          "id": "a414c10ae49d4de986f70922c95b815c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6550393eea1c0a0c329258d8cb3974ab",
+            "title": "Частота оновлення екрану"
+          },
+          "value": 60,
+          "id": "4cdc7054cc3245dda9891c16ea5e77c9",
+          "unit": {
+            "code": "HTZ",
+            "name": "герц"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "58f89e464b32515f37fd1c71ffb9c838",
+            "title": "Технологія матриці"
+          },
+          "values": [
+            "IPS"
+          ],
+          "id": "6ba12f9760d144e0acaec36be8386a4f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fb6d7758fcc4a28bbb1e8d66a7f8bc22",
+            "title": "Покриття екрану"
+          },
+          "values": [
+            "антиблікове"
+          ],
+          "id": "87f80fb25a6b45c786bb4152623e5c3c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26ad45e16c38db3d721d88b6b9c93d3d",
+            "title": "Яскравість екрану"
+          },
+          "value": 300,
+          "id": "3be7e041a6064ab78993707437a0e2f5",
+          "unit": {
+            "code": "A24",
+            "name": "кандела на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c3f737f0e2343e76f12c4e071732397e",
+            "title": "Серія процесору"
+          },
+          "values": [
+            "Intel Core i5 12 Gen"
+          ],
+          "id": "84531c92cb0f47c1a2c29acd985f4b4b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86a9bd4f5d4b20cc289bb047b32a170e",
+            "title": "Процесор"
+          },
+          "values": [
+            "Intel Core i5-1235U"
+          ],
+          "id": "2c532c30743f4c9ea09394dfb8bdf59a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "73edf2f9401b30486aadd2214ca81384",
+            "title": "Об'єм оперативної пам'яті"
+          },
+          "value": 16,
+          "id": "4706445c25fd44ad9a3dbb56ed88feb1",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8f3d43326e241771aae2812b64ce729e",
+            "title": "Тип оперативної пам'яті"
+          },
+          "values": [
+            "DDR4"
+          ],
+          "id": "dff5a2271c1f4d51b891a047544d12ee",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "17e0d24124da473e770714df603376ce",
+            "title": "Пропускна здатність шини пам'яті"
+          },
+          "values": [
+            "3200 MT/s"
+          ],
+          "id": "6d0b4e981d764f87a33d1c0ba6b54c71",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "227eccd07ebb562b3e34e4cf02886bfb",
+            "title": "Об'єм накопичувача SSD"
+          },
+          "value": 512,
+          "id": "5c4997be70b7429699e563488a2894cb",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8e618e83b8f257ae43581abfabe36283",
+            "title": "Тип відеокарти"
+          },
+          "values": [
+            "інтегрована графіка"
+          ],
+          "id": "b6dbcf84ef3c456a8ae7630a0bbc7653",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4bd5acded31497ae8abfcbfc2d06c00e",
+            "title": "Графічний адаптер"
+          },
+          "values": [
+            "Intel Iris Xe Graphics"
+          ],
+          "id": "b0347c59b09447239bd7ce6e261bb036",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "410bd1adbd46dddbc2b582b001025274",
+            "title": "Оптичний привод"
+          },
+          "value": false,
+          "id": "b144e01611654b96a1535a20b3976371",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e40ed71ccc2aab57c5e4da57309d24",
+            "title": "Стандарт Wi-Fi"
+          },
+          "values": [
+            "Wi-Fi 6 (802.11ax)"
+          ],
+          "id": "49569cdee3eb4eb393d358b62fd86b52",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1a7aa5bb94ca3c754beaa1454631545",
+            "title": "Стандарт Bluetooth"
+          },
+          "values": [
+            "5.2"
+          ],
+          "id": "c06fda59d4d84c53a3b876283b45ee24",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6e39bfcd8c223d5b34e9ea6d37432b",
+            "title": "Мова розкладки клавіатури"
+          },
+          "values": [
+            "англійська",
+            "українська",
+            "російська"
+          ],
+          "id": "bbb9c56a4626471dbe80448443b0710c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee20c83266a260d58edc4b17e75c498b",
+            "title": "USB 2.0 Type-A"
+          },
+          "value": 1,
+          "id": "7c2b01236def41268e41ac5a06cbf4a1",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac3941caeaad43f17ddb86822213e837",
+            "title": "USB 3.2 Gen 1 Type-A"
+          },
+          "value": 1,
+          "id": "625276ec927b4205aa677844c325dcef",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37aad15aac7a719813aa0913591b116a",
+            "title": "USB 3.2 Gen 1 Type-C"
+          },
+          "value": 1,
+          "id": "c2d96998f2d04841b4c018fc6915eba0",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c86ad4c00ed393a7502a8cfc5dd649cd",
+            "title": "Gigabit Ethernet (RJ45)"
+          },
+          "value": false,
+          "id": "1829ddafdb6a4605aa7f544f7fe1f8f6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e8891647d90eaf545df7925c7f6556",
+            "title": "Слот для карт пам'яті"
+          },
+          "value": true,
+          "id": "f9e374e8ec22492ca51395a7ec230d27",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "28740f80b64d25bf3810d21e717d1875",
+            "title": "HDMI"
+          },
+          "value": true,
+          "id": "d9bf83b5f0db4af5a3a58affcaedfd41",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7c40915141ffa8259cc744137365b39a",
+            "title": "Сканер відбитка пальців"
+          },
+          "value": false,
+          "id": "8279d2f605654d7184f435f31d3c5b51",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee4181dfebcd9a14a33f9417faa7b2a6",
+            "title": "Підсвітка клавіатури"
+          },
+          "value": true,
+          "id": "7470d312dd864934b9218ec80f46576e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "616654537178e4a85c0362f7bfb56f3f",
+            "title": "Модем 3G/4G"
+          },
+          "value": false,
+          "id": "ddd29f9bd6a34ea8827deb14fc3c9af4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8dc07aafc8d8f9d6e6d2120eccd5ea81",
+            "title": "Web - камера"
+          },
+          "values": [
+            "HD 720p with Privacy Shutter"
+          ],
+          "id": "8f8e53ea208944e2856b27eca6b74f02",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98715bcf63f66db6aea44c2c9d93364e",
+            "title": "Ємність батареї"
+          },
+          "value": 45,
+          "id": "9e8d34799c614ce9b01ac8306a13ca04",
+          "unit": {
+            "code": "WHR",
+            "name": "ват-година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "230ebc974b33b504f0ed18690903bbc9",
+            "title": "Живлення"
+          },
+          "values": [
+            "65W AC Adapter"
+          ],
+          "id": "8186727685504de187bee163df8bd113",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "940ced464c416bd524147eb18ba3c796",
+            "title": "Вага"
+          },
+          "values": [
+            "1.51 - 2.0 кг"
+          ],
+          "id": "7e439b4d17954ff78b0ff455ba484bb8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "353d162d33f6a5974ab0cb8ba2ef266e",
+            "title": "Операційна система"
+          },
+          "values": [
+            "без ОС"
+          ],
+          "id": "e23ae7fb539e4001a657c5dd2b810d01",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d2eb2423d1fb1f2aa183e834d5b8b66",
+            "title": "Гарантійний термін"
+          },
+          "value": 12,
+          "id": "5f36d95004b34ff29eaba2aca07a6241",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "42eaf2fa564298c137a3d1c44cd050ca",
+          "description": "Ноутбук Lenovo ideapad 3 15IAU7 Arctic Grey (82RK018WRA)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 24720.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "7cc994fc86574486b5c381cef7e2aecb"
+        }
+      ],
+      "submissionDate": "2026-06-08T10:58:19.514281+03:00",
+      "initialValue": {
+        "amount": 88992.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "08119c51648d43eb98667481344c7d15",
+      "date": "2026-06-08T11:40:18.222203+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "47de1051c16f4c3f91feba5726d3b7f6",
+          "datePublished": "2026-06-08T11:40:17.946624+03:00",
+          "hash": "md5:fb5b506ec467c0864ce7ff59d77e362e",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/af0ae4c94f334f059757a5607e9fa81f?Signature=s8q7wxnMKbW2cSdNjvup7yxFX%2BKoVcMtBLPFgIgumd0uIjpm0Jnp1YeOEqmS69g6CblWgNLFmK8DYBUheycXDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T11:40:17.946624+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП Кофан Дмитро Юрійович",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3467108376",
+            "legalName": "ФОП Кофан Дмитро Юрійович"
+          },
+          "address": {
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Кофан Дмитро",
+            "email": "INFO.DKU2020@GMAIL.COM",
+            "telephone": "380731540513"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 106998.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "4b80e5252abcbb15c64a0c004445049e",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "dcaffc45910847799db8417b14b99beb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "1e4b9555d897501e6ec2b3426658d01d",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "4a33c3a62bb540d8bd47b2cea154e0e3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ae1bba23251a16bbe5eaa9c382ec7092",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "9cbdb71ae2084449a6edff7c55583646",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "a07aa4814f82bd0d467f50f08f36e893",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "bd38ec0977554faa8c1d39f0f8723f1f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7df08ae58dee2bd8de3d391b4c81f2bf",
+            "title": "Бренд"
+          },
+          "values": [
+            "LENOVO"
+          ],
+          "id": "b064a8f95b414e8faac11fba927c6bd7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d73f96e215a1f07d7b0320f29ead6b2f",
+            "title": "Діагональ екрану"
+          },
+          "value": 15.6,
+          "id": "19161691a91c41628e26218e9e6e18c4",
+          "unit": {
+            "code": "INH",
+            "name": "дюйм"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "787a8f35f2799da90f7591895e638aec",
+            "title": "Роздільна здатність екрану"
+          },
+          "values": [
+            "FHD (1920x1080)"
+          ],
+          "id": "55036dd8e57040d9a6e2aa2bb5399ae1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6550393eea1c0a0c329258d8cb3974ab",
+            "title": "Частота оновлення екрану"
+          },
+          "value": 60,
+          "id": "94cb0558e0604abf94b3d8c3a8a950db",
+          "unit": {
+            "code": "HTZ",
+            "name": "герц"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "58f89e464b32515f37fd1c71ffb9c838",
+            "title": "Технологія матриці"
+          },
+          "values": [
+            "IPS"
+          ],
+          "id": "765fe020eb124cbe9f01b27438261d46",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fb6d7758fcc4a28bbb1e8d66a7f8bc22",
+            "title": "Покриття екрану"
+          },
+          "values": [
+            "антиблікове"
+          ],
+          "id": "0a5a1424d33e45849dc787bfe7f27e99",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "26ad45e16c38db3d721d88b6b9c93d3d",
+            "title": "Яскравість екрану"
+          },
+          "value": 300,
+          "id": "9e5994e9b86b445fb7f1bdafefbd40c5",
+          "unit": {
+            "code": "A24",
+            "name": "кандела на квадратний метр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c3f737f0e2343e76f12c4e071732397e",
+            "title": "Серія процесору"
+          },
+          "values": [
+            "Intel Core i5 12 Gen"
+          ],
+          "id": "061e563a28364766b7d92fe936b81353",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "86a9bd4f5d4b20cc289bb047b32a170e",
+            "title": "Процесор"
+          },
+          "values": [
+            "Intel Core i5-1235U"
+          ],
+          "id": "12329688877447b589d6ce86631aa39a",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "73edf2f9401b30486aadd2214ca81384",
+            "title": "Об'єм оперативної пам'яті"
+          },
+          "value": 16,
+          "id": "96eb6b99951f4ef1853204d4cc218398",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8f3d43326e241771aae2812b64ce729e",
+            "title": "Тип оперативної пам'яті"
+          },
+          "values": [
+            "DDR4"
+          ],
+          "id": "ae8dcd51fb95477fa1a451c15ecb9bd9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "17e0d24124da473e770714df603376ce",
+            "title": "Пропускна здатність шини пам'яті"
+          },
+          "values": [
+            "3200 MT/s"
+          ],
+          "id": "d8547cdfca404b6082faaa11013583ae",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "227eccd07ebb562b3e34e4cf02886bfb",
+            "title": "Об'єм накопичувача SSD"
+          },
+          "value": 512,
+          "id": "5abf4cb9e9a04ae8b8bc80e7b1ffefd7",
+          "unit": {
+            "code": "E34",
+            "name": "гігабайт"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8e618e83b8f257ae43581abfabe36283",
+            "title": "Тип відеокарти"
+          },
+          "values": [
+            "інтегрована графіка"
+          ],
+          "id": "86a06fce14c348348ab5ef7d0e0a6975",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4bd5acded31497ae8abfcbfc2d06c00e",
+            "title": "Графічний адаптер"
+          },
+          "values": [
+            "Intel Iris Xe Graphics"
+          ],
+          "id": "4ea7b0c31c8f41fbaa1fdc0908ea74cc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "410bd1adbd46dddbc2b582b001025274",
+            "title": "Оптичний привод"
+          },
+          "value": false,
+          "id": "e49ad9cae3fa44f3a0397ba9e7eb3deb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e6e40ed71ccc2aab57c5e4da57309d24",
+            "title": "Стандарт Wi-Fi"
+          },
+          "values": [
+            "Wi-Fi 6 (802.11ax)"
+          ],
+          "id": "aa0fd51bd8c54d3cb9c227a87a937128",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d1a7aa5bb94ca3c754beaa1454631545",
+            "title": "Стандарт Bluetooth"
+          },
+          "values": [
+            "5.2"
+          ],
+          "id": "15045ee76a20447887ceaacb17d84cac",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6e39bfcd8c223d5b34e9ea6d37432b",
+            "title": "Мова розкладки клавіатури"
+          },
+          "values": [
+            "англійська",
+            "російська",
+            "українська"
+          ],
+          "id": "1e9a57983a0b42fb9226bc8ab980c9b2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee20c83266a260d58edc4b17e75c498b",
+            "title": "USB 2.0 Type-A"
+          },
+          "value": 1,
+          "id": "ea123a8d315748e2ad0ee659bc2ebb3f",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ac3941caeaad43f17ddb86822213e837",
+            "title": "USB 3.2 Gen 1 Type-A"
+          },
+          "value": 1,
+          "id": "83351317527a4a01ba07fcabbc1c3b93",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "37aad15aac7a719813aa0913591b116a",
+            "title": "USB 3.2 Gen 1 Type-C"
+          },
+          "value": 1,
+          "id": "f26e8b8ed81d445aaa5ec74a271dcd44",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "c86ad4c00ed393a7502a8cfc5dd649cd",
+            "title": "Gigabit Ethernet (RJ45)"
+          },
+          "value": false,
+          "id": "0cc47aa2812247be94e49ac6aec6f740",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b0e8891647d90eaf545df7925c7f6556",
+            "title": "Слот для карт пам'яті"
+          },
+          "value": true,
+          "id": "340bb2fff75449afb45fd1d9ee646a7c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "28740f80b64d25bf3810d21e717d1875",
+            "title": "HDMI"
+          },
+          "value": true,
+          "id": "a87e70a7c6484557936d018314619d32",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7c40915141ffa8259cc744137365b39a",
+            "title": "Сканер відбитка пальців"
+          },
+          "value": false,
+          "id": "bfc567eca4144f07b7152842b8f7f019",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "ee4181dfebcd9a14a33f9417faa7b2a6",
+            "title": "Підсвітка клавіатури"
+          },
+          "value": true,
+          "id": "77e8c33d39d94b5391eeb1c616d0313b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "616654537178e4a85c0362f7bfb56f3f",
+            "title": "Модем 3G/4G"
+          },
+          "value": false,
+          "id": "470066b8449a41348ad48acf93d2dda3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "8dc07aafc8d8f9d6e6d2120eccd5ea81",
+            "title": "Web - камера"
+          },
+          "values": [
+            "HD 720p with Privacy Shutter"
+          ],
+          "id": "d40982104e0c48f588915d93d0da6848",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "98715bcf63f66db6aea44c2c9d93364e",
+            "title": "Ємність батареї"
+          },
+          "value": 45,
+          "id": "5495bfd0b62848e3b84861e68cc79421",
+          "unit": {
+            "code": "WHR",
+            "name": "ват-година"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "230ebc974b33b504f0ed18690903bbc9",
+            "title": "Живлення"
+          },
+          "values": [
+            "65W AC Adapter"
+          ],
+          "id": "24c03a2eaa0f4ee79f27d0f56da9e164",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "940ced464c416bd524147eb18ba3c796",
+            "title": "Вага"
+          },
+          "values": [
+            "1.51 - 2.0 кг"
+          ],
+          "id": "5d1cc85fca974f608afd8285ee0fc461",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "353d162d33f6a5974ab0cb8ba2ef266e",
+            "title": "Операційна система"
+          },
+          "values": [
+            "без ОС"
+          ],
+          "id": "9533ec02fa054647a408ac6a78b90a55",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7d2eb2423d1fb1f2aa183e834d5b8b66",
+            "title": "Гарантійний термін"
+          },
+          "value": 12,
+          "id": "5e80a4ecc7f94fcdb4dd4560b98ec235",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "42eaf2fa564298c137a3d1c44cd050ca",
+          "description": "Ноутбук Lenovo ideapad 3 15IAU7 Arctic Grey (82RK018WRA)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 35666.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 3.0,
+          "product": "7cc994fc86574486b5c381cef7e2aecb"
+        }
+      ],
+      "submissionDate": "2026-06-08T11:40:18.222203+03:00",
+      "initialValue": {
+        "amount": 106998.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-08T12:00:02.733582+03:00"
+  },
+  "awards": [
+    {
+      "id": "de6cad23cc114a90bec7e55ced399eff",
+      "status": "unsuccessful",
+      "date": "2026-06-09T10:37:36.269261+03:00",
+      "value": {
+        "amount": 88992.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"ТІНОС-Д\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42289645",
+            "legalName": "ТОВ \"ТІНОС-Д\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ВАСИЛЯ МАКУХА, будинок 1",
+            "locality": "місто Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49087",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Малієнко Олександр",
+            "email": "tinosten@ukr.net",
+            "telephone": "+380663353839"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "4540106393e1463b867d1b50cf259f8b",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "winningBid",
+          "title_en": "Відмова.pdf",
+          "title_ru": "Відмова.pdf",
+          "description": "SHA1: 443ca37674917706f509a4beb27f64c8294bf164",
+          "id": "1cbf50b3709145a88d9f8bb9c97e88ac",
+          "datePublished": "2026-06-09T10:34:54.876089+03:00",
+          "hash": "md5:307a1e52de35c32ff4d2f93c89bdbd8b",
+          "title": "Відмова.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/b761bb15dcc44bac9c63dfa0235db81e?Signature=e97frOj8R2ZEVS%2FDSm%2F6Z2594Tk3vtljZLeWxNFrs6lhFBg0ik2NqEuFVosApLfLFvCwsjlIeFc0uhZa63OdDw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T10:34:54.876089+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "title_en": "sign.p7s",
+          "title_ru": "sign.p7s",
+          "description": "SHA1: a6a08dfb9f10dea064cf2491f931205502cf2498",
+          "id": "db9a38c0237a4dad9b9eea98bf5e2812",
+          "datePublished": "2026-06-09T10:37:17.934812+03:00",
+          "hash": "md5:81dbc7a2ec5ec19ee0ef8ab931ef1f10",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/1a3929b2c49348f3b957a107b618acdc?Signature=DAy9%2BprIufwM1FnfPxWPnY6eQt5rF8mhKe4XsbF5YEWxS%2BIaW6oCIBxye%2FzdEnF%2B43vBAaGxsfAuS7GNIk9%2FBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T10:37:17.934812+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-08T12:00:02.733582+03:00",
+        "endDate": "2026-06-11T00:00:00+03:00"
+      },
+      "qualified": false,
+      "title": "Переможець письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників",
+      "title_en": "",
+      "title_ru": "",
+      "description": "Переможець письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників",
+      "description_en": "",
+      "description_ru": ""
+    },
+    {
+      "id": "7c178763d91a45f8a7beaae418f0d335",
+      "status": "pending",
+      "date": "2026-06-09T10:37:36.269261+03:00",
+      "value": {
+        "amount": 91800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ФОП \"Гріпіч Тетяна Борисівна\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2850105825",
+            "legalName": "ФОП \"Гріпіч Тетяна Борисівна\""
+          },
+          "address": {
+            "streetAddress": "пр. Відродження 5/41",
+            "locality": "Кам'янське",
+            "region": "Дніпропетровська область",
+            "postalCode": "51922",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Тетяна Гріпіч",
+            "email": "fopgtb@gmail.com",
+            "telephone": "+380930600801"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "44a4cd5c3aff4a4bb11cb027dc019621",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "winningBid",
+          "title_en": "UA-2026-06-03-013518-a.pdf",
+          "title_ru": "UA-2026-06-03-013518-a.pdf",
+          "description": "SHA1: af78873582414262a255cf80f5cbc6796cfa0405",
+          "id": "4e66ef0b884a4f9baec11c3b3b3921a3",
+          "datePublished": "2026-06-09T11:48:02.485493+03:00",
+          "hash": "md5:13a7e937618c1060c4cb4f678b54269e",
+          "title": "UA-2026-06-03-013518-a.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/cabd25bcf04d4e878ce4bf714c83da6e?Signature=B5ooO5bT70KZHlEDCiRLQkOp2XsCzK97Qr1%2BAka01%2B4AuOIEK76gKcUJOesrgTfMlp%2BQ2N6gSzVm%2BenTX2phBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T11:48:02.485493+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T10:37:36.269261+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": false,
+      "title": "Переможець письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників",
+      "title_en": "",
+      "title_ru": "",
+      "description": "Переможець письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників",
+      "description_en": "",
+      "description_ru": ""
+    }
+  ],
+  "id": "b72005cb7b414023adf18c90a5414c4e"
+}

@@ -1,9 +1,10 @@
 from __future__ import annotations
 
 import csv
-import zipfile
 import shutil
 import subprocess
+import tempfile
+import zipfile
 from pathlib import Path
 from xml.etree import ElementTree
 
@@ -48,6 +49,8 @@ class DocumentParser:
                 text = read_html(path)
             elif suffix in {".txt", ".csv"}:
                 text = read_text_or_csv(path, suffix)
+            elif suffix == ".zip":
+                text = read_zip_archive(path, self.settings.max_document_bytes)
             else:
                 document.status = "не підтримується"
                 document.limitation = (
@@ -209,6 +212,54 @@ def read_text_or_csv(path: Path, suffix: str) -> str:
         if values:
             rows.append(" | ".join(values))
     return "\n".join(rows)
+
+
+def read_zip_archive(path: Path, max_member_bytes: int) -> str:
+    supported = {".pdf", ".docx", ".doc", ".xlsx", ".xls", ".rtf", ".html", ".htm", ".txt", ".csv"}
+    parts: list[str] = []
+    with tempfile.TemporaryDirectory() as tmp_dir:
+        tmp_path = Path(tmp_dir)
+        with zipfile.ZipFile(path) as archive:
+            for info in archive.infolist()[:30]:
+                if info.is_dir() or info.file_size > max_member_bytes:
+                    continue
+                member_name = info.filename
+                if member_name.startswith("__MACOSX/"):
+                    continue
+                suffix = Path(member_name).suffix.lower()
+                if suffix not in supported:
+                    continue
+                target = tmp_path / f"{len(parts)}{suffix}"
+                with archive.open(info) as source, target.open("wb") as destination:
+                    shutil.copyfileobj(source, destination)
+                try:
+                    member_text = read_supported_file(target, suffix)
+                except Exception:
+                    continue
+                member_text = normalize_text(member_text)
+                if member_text:
+                    parts.append(f"Документ в архіві: {Path(member_name).name}\n{member_text}")
+    return "\n\n".join(parts)
+
+
+def read_supported_file(path: Path, suffix: str) -> str:
+    if suffix == ".pdf":
+        return extract_pdf_text(str(path)) or ""
+    if suffix == ".docx":
+        return read_docx(path)
+    if suffix == ".doc":
+        return read_legacy_doc(path)
+    if suffix == ".xlsx":
+        return read_xlsx(path)
+    if suffix == ".xls":
+        return read_xls(path)
+    if suffix == ".rtf":
+        return read_rtf(path)
+    if suffix in {".html", ".htm"}:
+        return read_html(path)
+    if suffix in {".txt", ".csv"}:
+        return read_text_or_csv(path, suffix)
+    return ""
 
 
 def normalize_text(text: str) -> str:

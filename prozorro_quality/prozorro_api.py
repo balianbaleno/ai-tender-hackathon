@@ -68,7 +68,11 @@ PARSEABLE_FORMAT_HINTS = (
     "excel",
     "sheet",
     "csv",
+    "zip",
+    "archive",
 )
+
+SUPPORTED_SUFFIXES = (".docx", ".doc", ".pdf", ".xlsx", ".xls", ".csv", ".txt", ".html", ".htm", ".rtf", ".zip")
 
 
 class ProzorroClient:
@@ -157,12 +161,17 @@ class ProzorroClient:
 
         results: list[DocumentResult] = []
         for doc in docs[: self.settings.documents_per_tender]:
+            title = clean_space(doc.get("title") or "Документ без назви")
+            fmt = clean_space(doc.get("format") or "")
+            url = str(doc.get("url") or "")
+            if is_auxiliary_document_info(title, fmt, url):
+                continue
             results.append(
                 DocumentResult(
                     id=str(doc.get("id") or ""),
-                    title=clean_space(doc.get("title") or "Документ без назви"),
-                    format=clean_space(doc.get("format") or ""),
-                    url=str(doc.get("url") or ""),
+                    title=title,
+                    format=fmt,
+                    url=url,
                 )
             )
         return results
@@ -311,12 +320,27 @@ def is_signature_document(document: DocumentResult) -> bool:
     return "pkcs7" in text or text.endswith(".p7s") or "signature" in text or "sign.p7s" in text
 
 
+def is_auxiliary_document_info(title: str, fmt: str, url: str = "") -> bool:
+    text = f"{title} {fmt} {url}".lower()
+    return (
+        "audit_" in text
+        or text.endswith(".yaml")
+        or text.endswith(".yml")
+        or "application/x-yaml" in text
+        or "application/yaml" in text
+    )
+
+
 def suffix_for_document(document: DocumentResult) -> str:
     title = document.title.lower()
     parsed = urlparse(document.url)
     url_path = Path(parsed.path)
+    for source in (url_path.name.lower(), title, document.format.lower()):
+        suffix = Path(source).suffix.lower()
+        if suffix in SUPPORTED_SUFFIXES:
+            return suffix
     for source in (title, url_path.name.lower(), document.format.lower()):
-        for suffix in (".docx", ".doc", ".pdf", ".xlsx", ".xls", ".csv", ".txt", ".html", ".htm", ".rtf"):
+        for suffix in SUPPORTED_SUFFIXES:
             if suffix in source:
                 return suffix
     fmt = document.format.lower()

@@ -1,0 +1,248 @@
+{
+  "date": "2026-06-08T13:33:24.059424+03:00",
+  "dateModified": "2026-06-09T11:41:46.944820+03:00",
+  "dateCreated": "2026-05-28T13:28:25.480028+03:00",
+  "tenderID": "UA-2026-05-28-006635-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "title_en": "Оголошення та документація спрощеної закупівлі  старлінки.docx",
+      "title_ru": "Оголошення та документація спрощеної закупівлі  старлінки.docx",
+      "description": "SHA1: 6504098ad32b9e3603ec19e4c34efd2b53116d9a",
+      "id": "4204a2e8b7014ce48485e6bb452027fa",
+      "datePublished": "2026-05-28T13:28:33.690375+03:00",
+      "hash": "md5:919a4aedb9637c21427693047c279f41",
+      "title": "Оголошення та документація спрощеної закупівлі  старлінки.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/bd758eab88024833992bbffa4b8bc065?Signature=PwPAcmZgUvmWrNSWotUDTqiKSWqVR5MTAA4vCvqlvvGdtItR6QeLqTRjjgIJdnsayN6XD%2BE6vGZZXSDnCXTVCQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-28T13:28:33.690375+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "title_en": "Новий типовий договір на закупівлю А4689 .doc",
+      "title_ru": "Новий типовий договір на закупівлю А4689 .doc",
+      "description": "SHA1: 13f6a7adb78f1adc46eb45d834b8752bdd66622a",
+      "id": "755a81248b124865b2f4a208db8c9ba3",
+      "datePublished": "2026-05-28T13:28:33.690375+03:00",
+      "hash": "md5:bc669ebb45e4dfd0e967a75c17039498",
+      "title": "Новий типовий договір на закупівлю А4689 .doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/1f9445e912ab48d6916775120f3e24ed?Signature=tTW03JMFXsvlx4FL%2B%2FZ5nQrtk0DdFj4E5ctEff8%2B8xqb4bVGlC8KyiUJ3I%2BqIYfnKWXSnK084ba6CHfOsyJNAQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-28T13:28:33.690375+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "title_en": "sign.p7s",
+      "title_ru": "sign.p7s",
+      "description": "SHA1: 26cf1bb39843949e8e7a1587f04d6ccf9ff34f6f",
+      "id": "552d277daaf747ccbac8d11871f730ad",
+      "datePublished": "2026-05-28T13:30:10.588290+03:00",
+      "hash": "md5:0de27f1a7494289a98ff8b761c404228",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/d9c990ca533b4a45afa979e8a9a28ede?Signature=z82Jm1cRZ78l6hWKecD7F2TeZRos%2FOjTITbcGTjERoUjFXtUswM7Sxj3m4dPZ6p9LHG%2Fdte5GJjIbA2gCkphAQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-28T13:30:10.588290+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "active.auction",
+  "owner": "netcast.com.ua",
+  "title": "32530000-7 — Телекомунікаційне супутникове обладнання(ББС)",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "ce9abac59f064a169b2493b98aecba8a",
+      "title": "deliveryOfGoods",
+      "description": "Розрахунки за фактично поставлений Товар проводяться шляхом поетапної оплати замовником поставлених йому партій товарів протягом 10 банківських днів після пред’явлення постачальником рахунку на їх оплату",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "banking"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "dc0414e27708b2b393bab27e9d2b4e6c"
+    },
+    {
+      "id": "fb0baf9a88904cbf8729d6e662bfc91f",
+      "title": "signingTheContract",
+      "description": "Місце поставки товарів, виконання робіт чи надання послуг: м. Суми / Сумська обл., або інше місце, повідомлене Замовником, не пізніше 3 (трьох) робочих днів до моменту відвантаження Товару зі складу Постачальника",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 7,
+        "type": "working"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "dc0414e27708b2b393bab27e9d2b4e6c"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "Військова частина А4689",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "26637172",
+      "legalName": "Військова частина А4689"
+    },
+    "address": {
+      "streetAddress": "вулиця",
+      "locality": "Подільськ",
+      "region": "Одеська область",
+      "postalCode": "66300",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Дорофєєв Віталій Владиславович",
+      "name_en": "  ",
+      "name_ru": "  ",
+      "email": "a4689.uo@proton.me",
+      "telephone": "+380997519993"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 115731.0
+  },
+  "guarantee": {
+    "amount": 0.0,
+    "currency": "UAH"
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-03T13:33:24+03:00",
+    "endDate": "2026-06-08T13:33:24+03:00"
+  },
+  "lots": [
+    {
+      "title": "Супутникова система старлінк, STARLINK Kit Gen3 REV4",
+      "status": "active",
+      "id": "dc0414e27708b2b393bab27e9d2b4e6c",
+      "date": "2026-05-28T13:28:25.480028+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 115731.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 1157.31
+      },
+      "guarantee": {
+        "amount": 0.0,
+        "currency": "UAH"
+      },
+      "auctionPeriod": {
+        "startDate": "2026-06-09T11:41:46.907000+03:00",
+        "shouldStartAfter": "2026-06-09T00:00:00+03:00"
+      },
+      "auctionUrl": "https://auctions.prozorro.gov.ua/tenders/8e396ddf20734da7973251ee8f2c552c_dc0414e27708b2b393bab27e9d2b4e6c"
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-05-28T13:28:25.480028+03:00",
+    "clarificationsUntil": "2026-06-05T00:00:00+03:00",
+    "endDate": "2026-06-03T13:33:24+03:00"
+  },
+  "items": [
+    {
+      "id": "236ea8d48da284424c368c3844775c78",
+      "description": "Супутникова система старлінк, STARLINK Kit Gen3 REV4",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 5.0,
+      "classification": {
+        "description": "Телекомунікаційне супутникове обладнання",
+        "scheme": "ДК021",
+        "id": "32530000-7"
+      },
+      "deliveryDate": {
+        "endDate": "2026-06-30T13:33:24+03:00"
+      },
+      "deliveryAddress": {
+        "region": "Сумська область",
+        "countryName": "Україна"
+      },
+      "relatedLot": "dc0414e27708b2b393bab27e9d2b4e6c"
+    }
+  ],
+  "noticePublicationDate": "2026-05-28T13:30:17.277129+03:00",
+  "next_check": "2026-06-09T13:17:46.907000+03:00",
+  "id": "8e396ddf20734da7973251ee8f2c552c"
+}

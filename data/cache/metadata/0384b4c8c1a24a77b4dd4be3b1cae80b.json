@@ -1,0 +1,3535 @@
+{
+  "description": "3.2.\tДоставка здійснюється транспортом Постачальника. Вантажно-розвантажувальні роботи; монтажні роботи з врахуванням встановлення кондиціонера на 3-поверх та вентильованого фасаду, здійснюються силами та/або за рахунок Постачальника.\n3.3.\tПоставка Товару здійснюється до 16 червня 2026 року.",
+  "date": "2026-06-09T11:14:15.880003+03:00",
+  "dateModified": "2026-06-09T11:38:24.154478+03:00",
+  "dateCreated": "2026-06-04T15:30:20.540202+03:00",
+  "tenderID": "UA-2026-06-04-011001-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "description": "SHA1:59e341c8fa00146f8b1bdc776fd6392fde9dffe1;SHA2-384:c1c13b9c447f343e24e7ea9bd765ca7273c796f9901052090853cc5cf48c56edce9751a481a65d3214c2fc2df26e8e4b;Antivirus: ESET Antivirus",
+      "relatedItem": "0384b4c8c1a24a77b4dd4be3b1cae80b",
+      "id": "e75513595c8c4462942036acafce5c78",
+      "datePublished": "2026-06-04T15:30:21.652951+03:00",
+      "hash": "md5:53255c015079589e2b3ed7589b0b43a6",
+      "title": "Проєкт_Договір (інверторні кондиціонери).docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/ab9ffb6ca182485789b964d5821be27d?Signature=CaepcETBnWNWnLgcO9zJ1uQV6NNIwO3ZS0Fy1euaS6BwEe%2Bafh6whtXSGo6Iy7rBqkcyt68jw5Eig4lsz%2FZvDQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T15:30:21.652951+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "description": "SHA1:cb48fa7091300491be5863b81c77015bce322eed;SHA2-384:e69d4cbaaf05eb98e0de8f5dbe983b6b14b66830377524c14c12d037cdf5edd2eeee8d8b62542b94fdcdea059e71199a;Antivirus: ESET Antivirus",
+      "id": "9edc94f1073648fd9fa3af8bf1e4726f",
+      "datePublished": "2026-06-04T15:32:15.448989+03:00",
+      "hash": "md5:f7dcaf12f6eb6b1f2127bb1efe5910fe",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/04c2e21dded249cc86a703a187eb9eb1?Signature=3j7luPny7ITfagAJ%2Bh8rN2PNO19sNx4CASVCaZX6Tzlq8LXae8xDm3O9GHBHhYWmLjIpzKLEu9NpsRqkPVIIDQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-04T15:32:15.667800+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "prom.ua",
+  "title": "Кондиціонер настінний інверторний 24000 BTU",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "d280944a691a4e1388228fc61c5556f8"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "96f5c2542dd9462bb6138767226a4bc1",
+      "title": "signingTheContract",
+      "description": "Поставка Товару здійснюється до 16 червня 2026 року.",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 7,
+        "type": "calendar"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "aaef0bad827a459c929e990e5b8ccd10",
+      "title": "deliveryOfGoods",
+      "description": "Розрахунки за поставлений Товар проводяться Покупцем відповідно статті 49 Бюджетного кодексу України, на підставі видаткової накладної, у безготівковій формі, національною грошовою одиницею України – гривнею, шляхом перерахування коштів на поточний рахунок Постачальника, за наявності грантових коштів на реєстраційному рахунку, впродовж 10 (десяти) робочих днів з дати підписання Сторонами видаткової накладної. ",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "working"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "237c419ad25e4421b16b82c2543def8d"
+  },
+  "value": {
+    "amount": 275000.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-04T15:32:15.889677+03:00",
+    "endDate": "2026-06-09T09:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "УПРАВЛІННЯ ОСВІТИ КРАСНОСІЛЬСЬКОЇ СІЛЬСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "40212110",
+      "legalName": "УПРАВЛІННЯ ОСВІТИ КРАСНОСІЛЬСЬКОЇ СІЛЬСЬКОЇ РАДИ ОДЕСЬКОГО РАЙОНУ ОДЕСЬКОЇ ОБЛАСТІ"
+    },
+    "address": {
+      "streetAddress": "вул. Шкільна, 1В",
+      "locality": "с. Красносілка",
+      "region": "Одеська область",
+      "postalCode": "67560",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Ірина Дьяковська",
+      "email": "diakovska_osvita@ukr.net",
+      "telephone": "+380487717263"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "629880-39710000-638946-40996564",
+      "category": "39710000-638946-40996564",
+      "id": "45f551524fab40b78286db052f68d168",
+      "description": "Кондиціонер настінний інверторний 24000 BTU",
+      "quantity": 5.0,
+      "classification": {
+        "description": "Електричні побутові прилади",
+        "scheme": "ДК021",
+        "id": "39710000-2"
+      },
+      "deliveryDate": {
+        "endDate": "2026-06-16T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "вулиця Шкільна, 1-А.; вул. Центральна,  37",
+        "locality": "Одеський район, с. Красносілка; с. Павлинка",
+        "region": "Одеська область",
+        "postalCode": "67000",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "c2ff89112c6741859e9acfd79f9a2672",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "963eff5bf145442480db9ecdef0e251b",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "deeccf85a46740698d50311664af2d1f",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "81089fa13e3e403a8b2ec4337ededd64",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fea17151b2444a739d414123238683d6",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "3739fe592e3b492bb61e699459465fd7",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "2033000cb3364376b77e4976ceaa909d",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            }
+          ]
+        },
+        {
+          "id": "4a4b4781dc514196ae20db8ee4a21d60",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "fd06ac93595d4fd382e6b8bd58acdbc2",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d4af92d73ba42a8b32f8b4017b6b292",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "45f551524fab40b78286db052f68d168",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "0d03203f722e4ac381fb2e30b6a880aa",
+              "title": "Тип пристрою",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "спліт-система"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+              "title": "Тип установки",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "настінний"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "fa1cd928b10a4770846f97827e557702",
+              "title": "Тип компресора",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "інверторний"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "da87b54ac2ee4068851e75353bd10c9a",
+              "title": "Максимальна кількість внутрішніх блоків",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "H87",
+                "name": "штука"
+              },
+              "minValue": 1,
+              "maxValue": 1,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "e77307f3b1804e339934b4562f8939ca",
+              "title": "Маркування кондиціонера, BTU",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "E50",
+                "name": "одиниця"
+              },
+              "minValue": 24000,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "d689ef23bf03415e89335baa58124604",
+              "title": "Продуктивність охолодження",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "KWT",
+                "name": "кіловат"
+              },
+              "minValue": 6.5,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "f27aed32064e4ecbbb248953a2345cde",
+              "title": "Продуктивність обігріву",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "KWT",
+                "name": "кіловат"
+              },
+              "minValue": 6.7,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "e4152379c20d41c8af29b012b6f8b7f8",
+              "title": "Макс. площа приміщення",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MTK",
+                "name": "метр квадратний"
+              },
+              "minValue": 65.0,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "9d17893887ee4aa892171ac20e46b197",
+              "title": "Споживана потужність охолодження",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "KWT",
+                "name": "кіловат"
+              },
+              "minValue": 0.0,
+              "maxValue": 2.4,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+              "title": "Рівень шуму внутрішнього блоку",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "2N",
+                "name": "децибел"
+              },
+              "minValue": 0.0,
+              "maxValue": 46.0,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+              "title": "Гарантія",
+              "dataType": "integer",
+              "status": "active",
+              "unit": {
+                "code": "MON",
+                "name": "місяць"
+              },
+              "minValue": 12,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            },
+            {
+              "id": "75866be54bc344ff8c2a766eb19f8c7d",
+              "title": "Тип холодоагенту",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "R410А",
+                "R290",
+                "R32"
+              ],
+              "expectedMinItems": 1,
+              "expectedMaxItems": 1,
+              "datePublished": "2026-06-04T15:30:22.214912+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-04T15:32:15.889677+03:00",
+  "bids": [
+    {
+      "id": "958dca76e371497e8fd7bbe79986a491",
+      "date": "2026-06-04T16:48:51.079386+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:9a7e47097fabd1d43931d3dcd80354e8211710a5;SHA2-384:c25a15d141bf29543bdf5cbd0b96cb59c4957349af38ff323bc57e9c08fe3f413cfcaeb0c3db011ba477cbe47c1ed5fd;Antivirus: ESET Antivirus,fids:c1f5dce93c404eaca995fda24607608a:fide",
+          "id": "c61f3901915e43c98d4552537ebcf31d",
+          "datePublished": "2026-06-04T16:48:50.825883+03:00",
+          "hash": "md5:1a6b9a48d586a6a0ec4653dba6f96084",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/f97a0557e41e4642bfa311819ee2afcf?Signature=5%2FrmB6%2BviN6N9x%2BstpZ13Cil98z%2B7DonL5zACUQjjSnPtDBpDvzE%2BKHAEnQ4Ot%2Bqjw%2BpGlZgPkVwhqFUQ8oDAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T16:48:50.825883+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"Шапошник Аліна Олександрівна\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2845708221",
+            "legalName": "ФОП \"Шапошник Аліна Олександрівна\""
+          },
+          "address": {
+            "streetAddress": "287 квартал, будинок 16, квартира 36",
+            "locality": "місто Кременчук",
+            "region": "Полтавська область",
+            "postalCode": "39600",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Аліна Шапошник",
+            "email": "shalina19777@gmail.com",
+            "telephone": "+380973218929"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 248550.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "a9e2d40117af48c59611ceec1d3045d3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "17b59e9eca534f41bc955b58f787501c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "962787e22058425894b42df44dab6996",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "bea4b0d72b8e46bbb2cf4e2b5e780bfe",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "67f01931069a4440ade080a9e7a19cfb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "36d5b53ea06b4e11a44dd23c619e582c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "64997695578043bfadf24d10551b914e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R32"
+          ],
+          "id": "6285e125972b4d9ba57e4f5ddb1ea565",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "1c243bde1d0644618e81df9716dac055",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "88e74bb14ad34c5a8c487c4bbb17ed19",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7.03,
+          "id": "1ae506f3701a4f7db2502e4e79b35d3e",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.03,
+          "id": "872824d9668e45e8a9c137fb471c296a",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70,
+          "id": "03368635e9f348eba87659506066bf34",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 32,
+          "id": "ca9a34a7a09b4327ac84bf508077049a",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 60,
+          "id": "aaa0c87bbbee4dd9a6b00fa69c62f20d",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 1.98,
+          "id": "b63bf1ef70104bf8aa27a76470611337",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер Osaka STVP-24HH3",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 49710.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "edf87f6062484a9d87de06228c9b9574"
+        }
+      ],
+      "submissionDate": "2026-06-04T16:48:51.079386+03:00",
+      "initialValue": {
+        "amount": 248550.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "0e4d243873074b2eb4700e9fde874bdd",
+      "date": "2026-06-05T08:54:52.837860+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:0ae21a74c3e279b5716515fb82848877608a207d;SHA2-384:e21045e90cc1d1d1db4cc5dddfec351928a66a9bb50351d36ed01d9728dda6022208ccf10110933d110e4b866bec2373;Antivirus: ESET Antivirus,fids:4baa2d55246a42408ada91049b6e6d7c:fide",
+          "id": "b1e858063f784b998c482ad89e9765e7",
+          "datePublished": "2026-06-05T08:54:52.591857+03:00",
+          "hash": "md5:e264b95db988c2c0eee2fb03c80450de",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/a157f55d170f49799a69a04d570fd2f2?Signature=Zci0ib0mFx3pHfKA3mjlV0I%2B0rhAtnmbOUsw1c1VWstrO6sfDEGu6La0tTH8%2BMksN%2BST2%2BedacscUfWcBwOGDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T08:54:52.591857+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ПП \"БУДПОСТАЧ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "24267110",
+            "legalName": "ПП \"БУДПОСТАЧ\""
+          },
+          "address": {
+            "streetAddress": "вулиця Бориспільська, будинок 9-Е",
+            "locality": "м.Київ",
+            "region": "м. Київ",
+            "postalCode": "02099",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Людмила Примак",
+            "email": "prymak_l@budpostach.com.ua",
+            "telephone": "+380661086535"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 114456.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "2c83d4a0a95548f0a71613b162a6e8fd",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "85fc42a00e464709a6ce46305cbb25c5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "48a96f8bcf75438099097b1f2e3ea429",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "1ac05680ad0744599c3da4130862d9c2",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "7f0193e6fa554b958a902277c320bc67",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "035e32497ae043368bc5f24f1e7fea49",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "ad8468ba0b114e6683fe86deb43fc4e4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R32"
+          ],
+          "id": "a730134cb1494dc2a6b98b0c9a677a79",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "5e4ced7747a94693b2dac34c773b3758",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "82e1398c8d644982afe2f98c6a12a818",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7,
+          "id": "665ba87b3f7940c999850c9bfd03ab16",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.1,
+          "id": "ebb43c42de754b8089ecaa1ae6b43de1",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70,
+          "id": "951d0f50501e406a8638ea5450621da6",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 46,
+          "id": "c9538edeb973420f9eca0f43945b3039",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 24,
+          "id": "4eacce1ec0da491588e6aa3c178d7436",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 2.2,
+          "id": "179a9b08c6d84d9a8d0c491a13420a64",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер (Спліт-система, Інверторний) - GAC-24GH-I32 (GRUNHELM)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 19166.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "abeb580e0e274ec797cd243566deb92f"
+        }
+      ],
+      "submissionDate": "2026-06-05T08:54:52.837860+03:00",
+      "initialValue": {
+        "amount": 114456.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "2dd4ed9df6164799b7ac138ef5895928",
+      "date": "2026-06-06T09:47:57.561774+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:6cefa1a49ae0e6164ff26ef4b0cc5e895fe09ad6;SHA2-384:9baa76c7502aff297556dacc2bfc082674a08964732f710634dd0ed2f4960bdd69f5cbc95a166bf3821e361944bf54b0;Antivirus: ESET Antivirus,fids:4b74c8c8ddbc4ef5aadad4f14047327f:fide",
+          "id": "fa2a08abfb51488db3da67d80e75e71e",
+          "datePublished": "2026-06-06T09:47:57.276436+03:00",
+          "hash": "md5:c66e6afefcf249ef81fee6f6e4dd1479",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/05251fb33b8f42ea9e1a3097c339b507?Signature=EQ3ydpXJ2WQ0XxRQ54wmxuWBbz1Ds2HP7w0LQy%2Bd20x65qYakfAmzQSDo7myzY0GyDSqomnlKGd%2BbXV5XfynAg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-06T09:47:57.276436+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ОК-ОНЛАЙН\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43232156",
+            "legalName": "ТОВ \"ОК-ОНЛАЙН\""
+          },
+          "address": {
+            "streetAddress": "",
+            "locality": "",
+            "region": "",
+            "postalCode": "",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Роман Зимовець",
+            "email": "okonline100@gmail.com",
+            "telephone": "+380672599645"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 199800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "7bd9b7634bb340f4b2fd21a895ded75d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "ac43c16da16f44bcb9bec1e38c5a1ece",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "d402a4ccdd0640148eac5b4f4dca66c5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "20cb0678a9784bbab0318e6c9fad083c",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "780a9f648ac94c9f990c5ea4070b0471",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "24d1100c243248a582ac9e3c361d2103",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "e58834f6454f4ebf9038d4e65b5a2ffb",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R32"
+          ],
+          "id": "d012cf43b9484c57a317f04ec521434c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "ae887c04c3f446e99dd8f48e7fb21090",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "18394e2166d44fb0bd4e48485b4cc545",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7.05,
+          "id": "2138026d19bf402bae098ab5ef840b0d",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.18,
+          "id": "7584a74d7fc446ab97f8ff368a273123",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70,
+          "id": "937b5ddec3d8425da19782dca857d389",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 42,
+          "id": "9e7b4417217c444097ae9423bef4d048",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 24,
+          "id": "1b8f7d6451844907b35168a605276a1e",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 2.02,
+          "id": "70859bc816b54dababbaed4d4a820d50",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер TROSTEN TRN24-INPS",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 33300.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "b1bfee80d6a447a5a76f1cf3184b1258"
+        }
+      ],
+      "submissionDate": "2026-06-06T09:47:57.561774+03:00",
+      "initialValue": {
+        "amount": 199800.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "221dbf4b777c4ca6a235313a456e9a25",
+      "date": "2026-06-06T10:03:50.783751+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:4cd6580288cee983a7f3810aaf8365b48c419177;SHA2-384:18d5ab69070d422ca32e82209768dfbd4a0faf06c0bda937b0c2a177a682473243e0780be362188603246927a2897ced;Antivirus: ESET Antivirus,fids:114c7ab0be504439b36107f39c17a30a:fide",
+          "id": "ef28b4e036ad4d46baac15c749bcc6ce",
+          "datePublished": "2026-06-06T10:03:50.530048+03:00",
+          "hash": "md5:f65d9b1071fd1c628ad1f4c061763a43",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/430e2282d3ad47e18eea30c02d98becd?Signature=5PrMuLJnVDRzlXrBcyEVg%2FVnGUl%2BQRPtIVp8Xc7F1YGhWGdRYCA%2FxeXfdLGhzMcJUcs2GkFu1snChjlSf%2FqRBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-06T10:03:50.530048+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"ТАШКІНОВА НАТАЛІЯ ОЛЕКСАНДРІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2866503324",
+            "legalName": "ФОП \"ТАШКІНОВА НАТАЛІЯ ОЛЕКСАНДРІВНА\""
+          },
+          "address": {
+            "streetAddress": "",
+            "locality": "",
+            "region": "",
+            "postalCode": "",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Наталья Ташкінова",
+            "email": "tashkinova.n@ukr.net",
+            "telephone": "+380672743811"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 220000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "d724a274cf714a9bb3dbd9fd3332bc8f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "3014e7b898014e96a07a56566194f6d4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "57a38ad0dcb34ded8cb6f0fe45c4f56f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "6256ef6d62a44db886ab49c276943f23",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "9caffe591380470ab44085a306fb10bd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "c1bad1d77a8d4d57bae20eed8d595c70",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "7cef93ef2eef42458d8f6ad1d2288046",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R32"
+          ],
+          "id": "e08ff0bf0a7f42ec9a147891a90619de",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "a201068a4d7a49b8838ae6e94fa6aeb4",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "49b5afa7672646cab1b5e8191bd25d8c",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7,
+          "id": "243e0485f55b4b75a70d5a037c0ac158",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.3,
+          "id": "1e7accef2b4c4d4a83f4b26ed6cd8274",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70,
+          "id": "57006286507d49c08d6a63921152aaa0",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 45,
+          "id": "9d102c36a6db49749ddc8eb25ffaba56",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 12,
+          "id": "4c8b82d0bf4a4983870aeff02e814d2a",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 2.2,
+          "id": "9dcb1dd91178415cba8adf852a2aafc8",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер Ardesto ACM-24INV-R32-WF-AG-S 70м2 інвертор 24000BTU",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 44000.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "eeaad790e3a24bdeaa31dcecac8ca8d9"
+        }
+      ],
+      "submissionDate": "2026-06-06T10:03:50.783751+03:00",
+      "initialValue": {
+        "amount": 220000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "44f023aaf70446a78da7ea57a1d064b1",
+      "date": "2026-06-07T14:24:49.546631+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:9c0183d0da13a02bce6c2d260de5ad87fd16aaa4;SHA2-384:b3f0c243649101d9c7b6b3f3102bbf3421f4468b09f7cce11f642978ece7ccbaaf81ca6d58ab5529ac135eb3e4f519c0;Antivirus: ESET Antivirus,fids:31f9f84c2ed4466c808585be86a53a3f:fide",
+          "id": "de1535f0e74a4793bf0cc924b7ffbeea",
+          "datePublished": "2026-06-07T14:24:49.246962+03:00",
+          "hash": "md5:1d51df493e460cef1a0b0b611d05a168",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/17587c0bf9ba4430ac52b609436643f9?Signature=3APjIQDDOo5MleTp2xY7FyNIJ5dJIPTfx07%2BNutbXzevLVwVR%2BTahoLUReNquxvdHyDzSn1MXmfSSo9znC4BCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-07T14:24:49.246962+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"Євротехніка\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "25523360",
+            "legalName": "ТОВ \"Євротехніка\""
+          },
+          "address": {
+            "streetAddress": "вул. Старокозацька, 6",
+            "locality": "м. Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49000",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Сергій Сокол",
+            "email": "tenderevrotehnika@gmail.com",
+            "telephone": "+380503410081"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 228000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "3ae20faba09047938b2a6ee23f15293a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "e49cc31888864aabab81c1b146cb2576",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "7cb6022683b74be4b7b154cec71f36a2",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "1234374c2d244105a06aa390bc2acfdf",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "a2bbe0ae71ac4ea681f349c3766a872d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "532e75b88ffa46cd9ee14a8cf464702d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "b600027b193f4d3f9074e2147718d493",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R410А"
+          ],
+          "id": "7447a214910d475c8101e8f46746be88",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "23e61492e84d48158bf23143d6b62f00",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "dc4f8ad6963d454ca6670d36d0416a20",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7.9,
+          "id": "fbe9485059f74a83b29cebd8c4f4d171",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 8,
+          "id": "9835e61d9f59471ab3c4870cb91fd799",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 80,
+          "id": "32a339d8c22e441399446fa74f3dc9ea",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 37,
+          "id": "d63a76c074574b83b6021df40716d5e5",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 60,
+          "id": "b55b2372fff84c9698e17736c1c5f892",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 1.9,
+          "id": "3063de86f4c04af29ed664bac50ea1c2",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Комплект спліт системи кондиціонер Daiko NSK- H24NVR/NSK - H24NVR",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 38000.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "010e6ff99cb74df78cd98b76de9379f6"
+        }
+      ],
+      "submissionDate": "2026-06-07T14:24:49.546631+03:00",
+      "initialValue": {
+        "amount": 228000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "89ad451a3886430988c352e4ece6f72e",
+      "date": "2026-06-09T01:35:32.068143+03:00",
+      "submissionDate": "2026-06-09T01:35:32.068143+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "8f623e2f4657423fb2b95fdc245467b6",
+          "datePublished": "2026-06-08T13:20:52.995187+03:00",
+          "hash": "md5:b21f057c85dd511d49615faffd13e302",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/2a9df6670b1947f69648bfab86f57791?Signature=7kAmJ%2Fdtzr0x4qV1%2Bcy%2BDYlSTVXispgZ1NBtZoEzJAU8nsRwEDNtf9zZ0oxuG9woCzRdWTL%2Fe6zUtmVVz%2BAABw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T13:20:52.995187+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "8f623e2f4657423fb2b95fdc245467b6",
+          "datePublished": "2026-06-09T01:35:31.868309+03:00",
+          "hash": "md5:231d0b0c04819c029af5e0134cf160d2",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/6bb33a6bdd004505b9f49deebc7696eb?Signature=TJPSBmaXwhC9iW3%2Flrs98BleUi9CEgOHQca2yDwsLWsTKUGtHI6N8KOj7VuMX%2BKf2Gqf0DaPy4jFJVOCJwOuBQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T01:35:31.868309+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП ГРИГОР'ЄВ ОЛЕКСАНДР МИХАЙЛОВИЧ",
+          "name_en": "FOP GRIGOR'YeV OLEKSANDR MIHAILOVICh",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "1916016198",
+            "legalName": "ФОП ГРИГОР'ЄВ ОЛЕКСАНДР МИХАЙЛОВИЧ",
+            "legalName_en": "FOP GRIGOR'YeV OLEKSANDR MIHAILOVICh"
+          },
+          "address": {
+            "streetAddress": "вулиця Центральна, будинок 60, кв 4",
+            "locality": "Тульчинський р-н, селище міського типу Піщанка",
+            "region": "Вінницька область",
+            "postalCode": "24700",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Григорєв Олександр",
+            "email": "oleksandr_grigorev@ukr.net",
+            "telephone": "0967821031"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 235000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "7b0ac3a527b9416690f8b9c9d141f9b8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "e48a7e418d8d4267a92145a745b756b2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "40489829e3bc47689bd4d681e3e08be9",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R32"
+          ],
+          "id": "ff19aa1cd3d84eb0a24385f5e52e1478",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "81e70c815f2e4ce988947f1a346e35cf",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "7016ea283af94564aa4b2617d876b1bd",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "9bf70e8d2c3540069e62b294ed3ecb57",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "315b4163ddc447ef875587ccc6c6a099",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 2.2,
+          "id": "a0fd2ff122f44e438eac6d61aae16947",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 24,
+          "id": "4f6ecd148c4142f99a527e1bfd21c3d1",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70.0,
+          "id": "797cd106af2048029f61e6932b7631d1",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.1,
+          "id": "92991f6898fa4a519ab206e6e4c985fc",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "ae4442abac484ca5abfeed9197291af6",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 46.0,
+          "id": "fdf89008b49045a59eb9ed00eb148caf",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "55060b7cac484ecc8872c53e24914cd9",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7.0,
+          "id": "55d981eca2534067a253ec338de8f1ab",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер (Спліт-система, Інверторний) - GAC-24GH-I32 (GRUNHELM)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 47000.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "abeb580e0e274ec797cd243566deb92f"
+        }
+      ],
+      "initialValue": {
+        "amount": 235000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "1d1d4843e99a42b3b05ac1980a563ec5",
+      "date": "2026-06-08T17:07:12.743257+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:9e3e23ec07a15e2882f7d73743dc7f84f9ae0a71;SHA2-384:6d60bfcafac4b74e8e694f9d8ca5826bece0168c5f650abdaa4042ad9183a4ead5fc3e8d29217a610e8a6f263eba1d8d;Antivirus: ESET Antivirus,fids:08fa50252ed44708a67319d0a2e72930:fide",
+          "id": "2ddd15560b39430682827e51ccbc3f1b",
+          "datePublished": "2026-06-08T17:07:12.018200+03:00",
+          "hash": "md5:44d99f055c389e904a8730ce5797eddb",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/8d8aa8b9e31541b48df14ed6e4d3599c?Signature=nwrn1PnSDBzZK48ImQ3HDWhbVxhjLH9Av%2Fstj%2B5mQ0zZQ27Iut3RIbDhikZNSE5dpvwpCOQTsIX6RxPaWqRrBA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T17:07:12.018200+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"КОВАЛЬ ІРИНА ВОЛОДИМИРІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2547717161",
+            "legalName": "ФОП \"КОВАЛЬ ІРИНА ВОЛОДИМИРІВНА\""
+          },
+          "address": {
+            "streetAddress": "вул. Дмитра Донцова, б. 3, кВ.7",
+            "locality": "Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49000",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ірина Коваль",
+            "email": "tenderkoval@ukr.net",
+            "telephone": "+380981188055"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 195000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "73037e447a24475483825717d1f60fbb",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "f3a172f41cf74633afb6f4d699a69091",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "186faa7e14be42de9e3791de5068e15d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "0353139f4c4f4547af359650c4d40c1e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "221742926036452e9c2003a36fcae90b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "cbb7c8430b3d47368c0be9ca990b4f20",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "80194dbb0d5b4ee08fe38a6fa675193e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R32"
+          ],
+          "id": "02ef3195f3814bedaa1a71f3d59ab448",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "39647cc16bb84e36a569f98693f1e5bb",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "a6a223bebb2b4e16b7d44c8bf526f256",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7.5,
+          "id": "8e89a2b4e5f84787802599d6007afe74",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.9,
+          "id": "55f5bc0ec7ad41ae966cfc0537995a44",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70,
+          "id": "98ae70fc673d4943adac0e9285cf1a5f",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 40,
+          "id": "9d40c402541b45ee90a55d3829a72492",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 60,
+          "id": "8f53f259d2ed469884365690aa64efcd",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 2.02,
+          "id": "74f29e3456c44bddbf7c1e4bdc11b155",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер TKS-24AD2W INVERTER",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 39000.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "65ca778810c64d4da80ed795af9e6cc3"
+        }
+      ],
+      "submissionDate": "2026-06-08T17:07:12.743257+03:00",
+      "initialValue": {
+        "amount": 195000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "881ae75a43074b518ed0936fcbde40da",
+      "date": "2026-06-08T17:31:22.448407+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "d4783567924a4ff9ad4d6330bfcc4748",
+          "datePublished": "2026-06-08T17:31:22.260919+03:00",
+          "hash": "md5:1ae1e0cc8c11d1659280611bc5ef7516",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/7e59b953be8f424c9f56dc2cbf15959f?Signature=y%2Bg7SEToS1%2FTp0g2ukLaEik%2FNk7akKaSJ67i274D7bJp4PK8bdz0myB8XZq3eMgKwWcESiyagbEaEwC0%2FJeVBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T17:31:22.260919+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"Епіцентр К\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "32490244",
+            "legalName": "ТОВ \"Епіцентр К\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ БЕРКОВЕЦЬКА, будинок 6-К",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "04128  ",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Большакова Яна",
+            "email": "OD.TENDER@EPICENTRK.COM",
+            "telephone": "380665360901, 380487793344, 380679216158",
+            "url": "https://epicentrk.ua"
+          },
+          "scale": "large"
+        }
+      ],
+      "value": {
+        "amount": 168199.8,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "d4c6af0fc4464e23b3c78608138b5c98",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "ffe5c1a4946e4028aeeede68c3080824",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "feba23c2de444b179fa8afc097173add",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "5b163c3071394fa187b6b89a429efcaa",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "f34bb0e7462344feb28440702b3e6bb1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "89f4e4806a6c45e69a5f229b2234c72f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "2a8ea0ece1be4ea08526f9b752d84f48",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "3ea722990d9441d385aa25e12fd329d6",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "dd29853105cd411d8df6f158eb9fd348",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7.0,
+          "id": "679401a5b1af41e792f527dccf216ca1",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.0,
+          "id": "744d113f828e4055a7841a69bdc20164",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70.0,
+          "id": "293cc3c53df54792ac467656f2d61da1",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 2.18,
+          "id": "650b43dd19be485298696d1a70e0f427",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 33.0,
+          "id": "cb46c252ea5749509576e9b8d8c434b8",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 24,
+          "id": "388c5fe521dd43d893bb70de36650057",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R32"
+          ],
+          "id": "0f7ad1480fe541d39e5412fac710a808",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер OLMO OSH-24FRH3",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 28033.3,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "6dfb04ce08f04994b10592429421e8c0"
+        }
+      ],
+      "submissionDate": "2026-06-08T17:31:22.448407+03:00",
+      "initialValue": {
+        "amount": 168199.8,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "9711a82969ec409e9a88de287402a6a1",
+      "date": "2026-06-08T22:02:23.250740+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "title_en": "sign.p7s",
+          "title_ru": "sign.p7s",
+          "description": "SHA1: dd1b6f9561969844e3686bba6b1d7e8dbc904629",
+          "id": "b7fa68e138a04f3e9f01905c99fb3556",
+          "datePublished": "2026-06-08T22:02:21.932910+03:00",
+          "hash": "md5:ee8765bbd281adf2a0f6c345efe428d1",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/fed47c00362e4bfcbae67089190ce3eb?Signature=Ue6tHLUxeYMZZ2lFhmOK7BurColWerHEwSzJnjMfpUqmsag%2FyJrjCuDYUANtagMvVhlZZudHLljf97nU9mz4Cw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T22:02:21.932910+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ НЕКСОРА ТЕХ",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45851285",
+            "legalName": "ТОВ НЕКСОРА ТЕХ"
+          },
+          "address": {
+            "streetAddress": "вул.Соборна, буд.112",
+            "locality": "Рівне",
+            "region": "Рівненська область",
+            "postalCode": "33028",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Фесюк Олег Анатолійович",
+            "name_en": "  ",
+            "name_ru": "  ",
+            "email": "groupoffice40@gmail.com",
+            "telephone": "+380964264643"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 248430.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "0d03203f722e4ac381fb2e30b6a880aa",
+            "title": "Тип пристрою"
+          },
+          "values": [
+            "спліт-система"
+          ],
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5bf8a153d28c40e2a5cc60eae85ced42",
+            "title": "Тип установки"
+          },
+          "values": [
+            "настінний"
+          ],
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "fa1cd928b10a4770846f97827e557702",
+            "title": "Тип компресора"
+          },
+          "values": [
+            "інверторний"
+          ],
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "da87b54ac2ee4068851e75353bd10c9a",
+            "title": "Максимальна кількість внутрішніх блоків"
+          },
+          "value": 1,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "H87",
+            "name": "штука"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e77307f3b1804e339934b4562f8939ca",
+            "title": "Маркування кондиціонера, BTU"
+          },
+          "value": 24000,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "E50",
+            "name": "одиниця"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "d689ef23bf03415e89335baa58124604",
+            "title": "Продуктивність охолодження"
+          },
+          "value": 7.03,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "f27aed32064e4ecbbb248953a2345cde",
+            "title": "Продуктивність обігріву"
+          },
+          "value": 7.33,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4152379c20d41c8af29b012b6f8b7f8",
+            "title": "Макс. площа приміщення"
+          },
+          "value": 70,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "MTK",
+            "name": "метр квадратний"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "9d17893887ee4aa892171ac20e46b197",
+            "title": "Споживана потужність охолодження"
+          },
+          "value": 2.3,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "KWT",
+            "name": "кіловат"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "7463e6fcac6b463bb8f0684c03ab9fcc",
+            "title": "Рівень шуму внутрішнього блоку"
+          },
+          "value": 46,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "2N",
+            "name": "децибел"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "b7ef9d119f6a4ed49e03172c44d5d352",
+            "title": "Гарантія"
+          },
+          "value": 12,
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "unit": {
+            "code": "MON",
+            "name": "місяць"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "75866be54bc344ff8c2a766eb19f8c7d",
+            "title": "Тип холодоагенту"
+          },
+          "values": [
+            "R410А"
+          ],
+          "id": "0a1b1899c8e34307b64a881fb9bf76dd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "deeccf85a46740698d50311664af2d1f",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "deeccf85a46740698d50311664af2d1f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "81089fa13e3e403a8b2ec4337ededd64",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "81089fa13e3e403a8b2ec4337ededd64",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "5be5805b5782481e8e8e604fb2b8e6d8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "2033000cb3364376b77e4976ceaa909d",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "2033000cb3364376b77e4976ceaa909d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "45f551524fab40b78286db052f68d168",
+          "description": "Кондиціонер  Kanion KWSM - 24IR410AHF",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 41405.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 5.0,
+          "product": "0131f3bee5d24e04813de170a8bd78a9"
+        }
+      ],
+      "submissionDate": "2026-06-08T22:02:23.250740+03:00",
+      "initialValue": {
+        "amount": 248430.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-09T09:00:07.963920+03:00"
+  },
+  "awards": [
+    {
+      "id": "5b049d97cfb64aa8a713354228b36d7d",
+      "status": "cancelled",
+      "date": "2026-06-09T11:14:15.880003+03:00",
+      "value": {
+        "amount": 114456.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ПП \"БУДПОСТАЧ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "24267110",
+            "legalName": "ПП \"БУДПОСТАЧ\""
+          },
+          "address": {
+            "streetAddress": "вулиця Бориспільська, будинок 9-Е",
+            "locality": "м.Київ",
+            "region": "м. Київ",
+            "postalCode": "02099",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Людмила Примак",
+            "email": "prymak_l@budpostach.com.ua",
+            "telephone": "+380661086535"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "0e4d243873074b2eb4700e9fde874bdd",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "342632af30664305a777446129073ea8",
+          "datePublished": "2026-06-09T09:46:50.601537+03:00",
+          "hash": "md5:4b8f6aa2dc99bb7825260615d8fb58a6",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/b1f04490e8b54a19b86507db81ebe030?Signature=mlyl1SQv1M%2BeMP%2BaFIu5bQdWzjVvvv5UZ6R63OY2bojTiRoYSm0DqC9bCSDxjb43Zu%2BHB43Q1l1quVXvo9y2Dw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T09:46:50.601537+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T09:00:07.963920+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    },
+    {
+      "id": "e55c5b0d46eb4a6f8b1033da54f2dcdd",
+      "status": "unsuccessful",
+      "date": "2026-06-09T11:28:16.742676+03:00",
+      "value": {
+        "amount": 114456.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ПП \"БУДПОСТАЧ\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "24267110",
+            "legalName": "ПП \"БУДПОСТАЧ\""
+          },
+          "address": {
+            "streetAddress": "вулиця Бориспільська, будинок 9-Е",
+            "locality": "м.Київ",
+            "region": "м. Київ",
+            "postalCode": "02099",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Людмила Примак",
+            "email": "prymak_l@budpostach.com.ua",
+            "telephone": "+380661086535"
+          },
+          "scale": "mid"
+        }
+      ],
+      "bid_id": "0e4d243873074b2eb4700e9fde874bdd",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "description": "SHA1:b7adabc6b48dd726a4cf872abda198d29743eca1;SHA2-384:a237763457a93fe3636f3d950f4e5deab6447091fa8f96eff24c9fec31518c3989d0419ba436cc664888c315aef12c39;Antivirus: ESET Antivirus",
+          "id": "0ada1bc0696a49ee8a121a1baea76b8b",
+          "datePublished": "2026-06-09T11:27:26.680770+03:00",
+          "hash": "md5:5829a1cf057ffef3e236067cc476a511",
+          "title": "Протокол _1 від 09.06.26 відхилення переможця.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/ac29795553eb460c94d264d8b8621885?Signature=3E66tAfAtmUfizXkNkhD2l2h2v5GcS4SIz52coFigx2FXO2f2nJnBye4DvsqUGgFbo%2Bq%2BRscSp%2B1V2xtcyl0Cg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T11:27:26.997400+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "description": "SHA1:1c4dad239226760774a63e6d741a6006cc8c689c;SHA2-384:13628e32a2ee02af8043f901615478a244c961de6135579510a03960aa10d52a7b3695013c3d402cfa2cd5cc9296b9b9;Antivirus: ESET Antivirus",
+          "id": "e180120b37fd463fb46a5e9969ddb575",
+          "datePublished": "2026-06-09T11:27:27.726738+03:00",
+          "hash": "md5:b0b3f81b90d2c6c705f27926283a76e4",
+          "title": "Лист-відмова.pdf",
+          "format": "application/pdf",
+          "url": "https://public-docs.prozorro.gov.ua/get/1dd392f9903642c3a681aa50c70ae819?Signature=5nFhrZXzTPB4XNrswNJTNsDQQ0nP3IlI2SGnQGdTbwsEVlCFXPpQFnnvxFp454T9yO4LTuLZ26abVHS98idpDg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T11:27:28.060904+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "0b0a779987f7415bb56ef44f7f98ddaf",
+          "datePublished": "2026-06-09T11:28:16.483053+03:00",
+          "hash": "md5:71eb9dd35ba0df2e40de6cd8c2397c10",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/1f9a9a0e98ed4952af339bb7261d2580?Signature=7turHxKcJ3HFsbjuY14npS7838uEBxKVckdqjmhBLeVCc7K8LPv%2FOfI%2BkfHIpzekc1T2qm8aWZ1ZWPYQEqMECg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-09T11:28:16.483053+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-09T11:14:15.880003+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": false,
+      "title": "письмово відмовився від укладення договору на умовах, визначених замовником у запиті пропозицій постачальників, шляхом заповнення електронних форм з окремими полями та у проекті договору, що є складовою частиною запиту пропозицій постачальників.",
+      "description": "На етапі укладення договору Переможець відбору  ПП \"БУДПОСТАЧ\"  у строк, визначений для укладення договору, надав лист від 09.06.2026 №1250, у якому повідомив про відмову від укладення договору на умовах, визначених у запиті пропозицій постачальників, зокрема у проекті договору, що є складовою частиною запиту пропозицій постачальників."
+    },
+    {
+      "id": "a8ec6a30cabd4b5ab15068beaaee8b6f",
+      "status": "pending",
+      "date": "2026-06-09T11:28:16.742676+03:00",
+      "value": {
+        "amount": 168199.8,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"Епіцентр К\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "32490244",
+            "legalName": "ТОВ \"Епіцентр К\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ БЕРКОВЕЦЬКА, будинок 6-К",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "04128  ",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Большакова Яна",
+            "email": "OD.TENDER@EPICENTRK.COM",
+            "telephone": "380665360901, 380487793344, 380679216158",
+            "url": "https://epicentrk.ua"
+          },
+          "scale": "large"
+        }
+      ],
+      "bid_id": "881ae75a43074b518ed0936fcbde40da",
+      "period": {
+        "startDate": "2026-06-09T11:28:16.742676+03:00",
+        "endDate": "2026-06-12T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "fa8d77a4fa354f9da9fea9ceb173b97d",
+      "status": "cancelled",
+      "awardID": "5b049d97cfb64aa8a713354228b36d7d",
+      "date": "2026-06-09T11:14:15.880003+03:00",
+      "contractID": "UA-2026-06-04-011001-a-a1",
+      "title": "Кондиціонер настінний інверторний 24000 BTU",
+      "title_en": null,
+      "description": "3.2.\tДоставка здійснюється транспортом Постачальника. Вантажно-розвантажувальні роботи; монтажні роботи з врахуванням встановлення кондиціонера на 3-поверх та вентильованого фасаду, здійснюються силами та/або за рахунок Постачальника.\n3.3.\tПоставка Товару здійснюється до 16 червня 2026 року.",
+      "description_en": null,
+      "value": {
+        "amount": 114456.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 114456.0
+      }
+    }
+  ],
+  "id": "0384b4c8c1a24a77b4dd4be3b1cae80b"
+}

@@ -1,0 +1,2896 @@
+{
+  "description": "ДК 021:2015-33140000-3 (Медичні матеріали), 33141310-6 Шприци, класифікатор НК 024:2023 47017 Шприц загального призначення, одноразового використання,",
+  "date": "2026-06-08T12:00:02.939979+03:00",
+  "dateModified": "2026-06-09T11:41:39.691790+03:00",
+  "dateCreated": "2026-06-03T11:26:10.593871+03:00",
+  "tenderID": "UA-2026-06-03-004161-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "51fb2715670946f399af5db227a80b85",
+      "datePublished": "2026-06-03T11:26:16.973873+03:00",
+      "hash": "md5:314be33f0e68844b7ebca478a88dd405",
+      "title": "Проект договір шприци.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/7d4a6f5e2ec3485bbba3c78dda5f98ff?Signature=VmyImoyR2uZ9YyJ2MF4Fll4CXZ%2B%2FJA%2BotFKj7Qqjnh%2BY06v0Y9S35HU1dwgFDLXOExrG5iyC4YbKcM3HIzjKDg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T11:26:16.973873+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "46cb998059eb407c987beb5771cf3007",
+      "datePublished": "2026-06-03T11:41:31.251562+03:00",
+      "hash": "md5:f92b06abb446a9032c98580e51bed5c5",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/54288577c2bb42f3aecbd1d6b6176ebd?Signature=B43O%2FT52KrwmV%2BpFT9mj46NFuCwtyI%2FAOWwru4GUbsD0NmslUZ8pJN3xaeh%2FVDKCwt8pVc8iHH73tdknoq2bAA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T11:41:31.251562+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "51fb2715670946f399af5db227a80b85",
+      "datePublished": "2026-06-03T11:43:01.147392+03:00",
+      "hash": "md5:b97af3f404297aa68a45b66cf49415e5",
+      "title": "Проект договір шприци.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/76adb09b902d4526a16ed1a6793c9fe5?Signature=6mRqeOTKnWd42ylAT1lqdux1NJelv42JlHva5xHJm1tmAcZfDCZtgjRBSnPsWlNtw4FnKpMYwXJRSWKNDwGYCw%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T11:43:01.147392+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "75e1024f277049068157e39df0459413",
+      "datePublished": "2026-06-03T11:44:47.236525+03:00",
+      "hash": "md5:b97af3f404297aa68a45b66cf49415e5",
+      "title": "Проект договір шприци.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/ccc9e29a0dc941f590058b3115f6a016?Signature=83KkweoDeGNjpgk0tRxUN1EKFx9IRglEd8jhPwKx3%2FGTTdHMMiTNKIKEe%2BMupAfgaSCc6uZuf%2F9vwoyrvAHxAA%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T11:44:47.236525+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "46cb998059eb407c987beb5771cf3007",
+      "datePublished": "2026-06-03T15:14:34.701120+03:00",
+      "hash": "md5:cdf2e3eb7a9ce593ff5b7006e4ee361a",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/e242095c3a0c48509f48a5d8aaa84b97?Signature=u6tkfx01T2NoJuNGKNuLsXqVjad5u2zFnRuLHbM6rzTsUBMl7MTKbPNw4SAjknqkRN5EFybbf2WBQ795D4fzCQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-06-03T15:14:34.701120+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "owner": "e-tender.biz",
+  "title": "Приладдя для венепункції та забору крові (Шприц ін'єкційний),",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "selective",
+  "plans": [
+    {
+      "id": "92f743d933a84718a39769f2c8bdf4c7"
+    }
+  ],
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Еxtension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 4 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та/або строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 4 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "The validity of the procurement contract may be extended for a period sufficient to conduct the procurement/simplified procurement procedure at the beginning of the following year in an amount not exceeding 20 percent of the amount specified in the initial procurement contract concluded in the previous year, if the expenditures to achieve this goal have been approved in accordance with the established procedure",
+      "title_en": "Subparagraph 8 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Підпункт 8 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "itemPriceChange": {
+      "description_en": "An increase in the price per unit of goods agreed by the parties by no more than 10 percent in proportion to the fluctuation in the price of such goods on the market that occurred from the date of conclusion of the procurement contract (in the event of an increase in the price per unit of goods under this subparagraph for the first time) or from the date of the last amendment to the procurement contract in terms of price changes (in the event of an increase in the price per unit of goods under this subparagraph for the second and subsequent times), subject to documentary confirmation of such fluctuations. Such amendments to the procurement contract may be made no earlier than 90 days from the date of signing the procurement contract or making amendments to it regarding an increase in the unit price of the goods, provided that such amendments do not lead to an increase in the amount specified in the procurement contract. The restriction on the timing of amendments to the procurement contract regarding an increase in the unit price of goods shall not apply in the event of a change in the terms of the procurement contract for gasoline and diesel fuel, natural gas, and electricity. The restriction on increasing the unit price by no more than 10 percent applies to each individual case of increasing the unit price (without limiting the number of changes). The changed unit price shall not exceed 50 percent of the unit price specified in the initial procurement contract",
+      "title_en": "Subparagraph 2 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Узгодженого сторонами збільшення ціни за одиницю товару не більше ніж на 10 відсотків пропорційно коливанню ціни такого товару на ринку, що відбулося з дня укладення договору про закупівлю (у разі збільшення ціни за одиницю товару за цим підпунктом вперше) або з дня останнього внесення змін до договору про закупівлю в частині зміни ціни (у разі збільшення ціни за одиницю товару за цим підпунктом вдруге і далі), за умови документального підтвердження такого коливання. Такі зміни до договору про закупівлю можуть бути внесені не раніше 90 днів з дня підписання договору про закупівлю або внесення до нього змін щодо збільшення ціни за одиницю товару за умови, що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю. Обмеження стосовно строків внесення змін до договору про закупівлю щодо збільшення ціни за одиницю товару не застосовується у разі зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії. Обмеження щодо збільшення ціни за одиницю товару не більше ніж на 10 відсотків застосовується щодо кожного окремого випадку збільшення ціни за одиницю товару (без обмеження кількості змін). Змінена ціна за одиницю товару не повинна перевищувати 50 відсотків ціни за одиницю товару, що передбачена в початковому договорі про закупівлю",
+      "title_uk": "Підпункт 2 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "priceReductionWithoutQuantity": {
+      "description_en": "Approval of a price change in a procurement contract in a downward direction (without changing the quantity (volume) and quality of goods, works and services), including in the event of fluctuations in the price of goods on the market",
+      "title_en": "Subparagraph 5 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Підпункт 5 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Subparagraph 3 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Покращення якості предмета закупівлі за умови, що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Підпункт 3 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "taxationSystem": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits, as well as in connection with changes in the taxation system in proportion to the change in the tax burden as a result of changes in the taxation system",
+      "title_en": "Subparagraph 6 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку з зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування, а також у зв’язку із зміною системи оподаткування пропорційно до зміни податкового навантаження внаслідок зміни системи оподаткування",
+      "title_uk": "Підпункт 6 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalIndicators": {
+      "description_en": "Changes in the consumer price index established by state statistics authorities in accordance with the law, changes in foreign currency exchange rates, changes in stock market quotations or Platts, ARGUS indicators, regulated prices (tariffs), standards, weighted average prices for electricity on the \"day ahead\" market applied in the purchase agreement, if the procurement contract establishes a procedure for changing the price",
+      "title_en": "Subparagraph 7 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS, регульованих цін (тарифів), нормативів, середньозважених цін на електроенергію на ринку \"на добу наперед\", що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Підпункт 7 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Subparagraph 1 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Підпункт 1 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "restoration": {
+      "description_en": "Reduction in the volume of procurement and/or price under contracts for construction works of real estate objects in accordance with the Resolution of the Cabinet of Ministers of Ukraine dated April 25, 2023, No. 382 \"On the implementation of an experimental project for the restoration of settlements affected by the armed aggression of the Russian Federation\" (Official Bulletin of Ukraine, 2023, No. 46, Article 2466), if the development of project documentation is entrusted to the contractor, after the expert review and approval of the project documentation in accordance with the procedure established by law",
+      "title_en": "Subparagraph 9 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зменшення обсягів закупівлі та/або ціни згідно з договорами про закупівлю робіт з будівництва об’єктів нерухомого майна відповідно до постанови Кабінету Міністрів України від 25 квітня 2023 р. № 382 \"Про реалізацію експериментального проекту щодо відновлення населених пунктів, які постраждали внаслідок збройної агресії Російської Федерації\" (Офіційний вісник України, 2023 р., № 46, ст. 2466), якщо розроблення проектної документації покладено на підрядника, після проведення експертизи та затвердження проектної документації в установленому законодавством порядку",
+      "title_uk": "Підпункт 9 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "projectDocumentation": {
+      "description_en": "Calculation of the contract price, specified (agreed) in accordance with the approved project documentation to the procurement contract specified in the third paragraph of part one of Article 41 of the Law. Such notification shall be accompanied by the specified contract price (including documents containing information on prices for material resources) in machine-readable format",
+      "title_en": "Paragraph 16 of Clause 20 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Складення договірної ціни, уточненої (узгодженої) відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої статті 41 Закону. До такого повідомлення додається уточнена договірна ціна (у тому числі документи, що містять інформацію про ціни на матеріальні ресурси) у машинозчитувальному форматі",
+      "title_uk": "Абзац 16 пункту 20 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyReconstruction": {
+      "description_en": "The procurement of goods, works, and services for/from construction, repair, and other engineering and technical measures to protect facilities is carried out: critical infrastructure of the fuel and energy sector critical infrastructure; the life support systems sector of critical infrastructure as part of the implementation of a pilot project in accordance with Resolution No. 142 of the Cabinet of Ministers of Ukraine dated February 7, 2025, \"On the implementation of a pilot project for new construction, reconstruction, major repairs, repair, and other engineering and technical measures to protect critical infrastructure facilities in the fuel and energy sector of critical infrastructure\" (Official Gazette of Ukraine, 2025, No. 20, p. 1335) under procurement contracts concluded before March 1, 2026",
+      "title_en": "Subparagraph 13 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт та послуг для/з будівництва, ремонту та інших інженерно-технічних заходів із захисту об’єктів: критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури; сектору систем життєзабезпечення критичної інфраструктури в рамках реалізації експериментального проекту відповідно до постанови Кабінету Міністрів України від 7 лютого 2025 р. № 142 \"Про реалізацію експериментального проекту щодо нового будівництва, реконструкції, капітального ремонту, ремонту та інших інженерно-технічних заходів із захисту об’єктів критичної інфраструктури паливно-енергетичного сектору критичної інфраструктури\" (Офіційний вісник України, 2025 р., № 20, ст. 1335) за договорами про закупівлю, які укладаються до 1 березня 2026 року",
+      "title_uk": "Підпункт 13 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "infrastructureProtection": {
+      "description_en": "The procurement of goods, works, and services for measures aimed at ensuring the protection of facilities belonging to enterprises, institutions, and organizations in the electric power, nuclear, coal, oil and gas industries, as well as critical infrastructure facilities in the railway transport subsector of the transport and postal sector, including for the organization of protection of their employees in terms of construction, creation, and arrangement of civil defense structures, for the restoration of such facilities destroyed or damaged as a result of the armed aggression of the Russian Federation, as well as for the implementation of priority emergency repair work on railway infrastructure facilities and the repair of traction and rolling stock",
+      "title_en": "Subparagraph 15 of paragraph 13 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Здійснюється закупівля товарів, робіт і послуг для проведення заходів, спрямованих на забезпечення захисту об’єктів підприємств, установ та організацій електроенергетичного, ядерно-промислового, вугільно-промислового, нафтогазового комплексів та об’єктів критичної інфраструктури підсектору залізничного транспорту сектору транспорту і пошти, у тому числі для організації захисту їх працівників у частині будівництва, створення та облаштування об’єктів фонду захисних споруд цивільного захисту, для відновлення зруйнованих або пошкоджених внаслідок збройної агресії Російської Федерації таких об’єктів, а також для проведення першочергових аварійно-відбудовних робіт на об’єктах залізничної інфраструктури та ремонту тягового і рухомого складу",
+      "title_uk": "Підпункт 15 пункту 13 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "externalCofinancing": {
+      "description_en": "Co-financing in the amount of not less than 75 percent of the price of the procurement contract concluded by the electricity transmission system operator, using funds from loans, credits, and grants provided in accordance with Ukraine's international agreements by the organizations specified in the second part of Article 6 of the Law, with the subsequent application of the rules and procedures established by the organization providing such co-financing",
+      "title_en": "Subparagraph 10 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Співфінансування в обсязі не менш як 75 відсотків ціни договору про закупівлю, укладеного оператором системи передачі електричної енергії, за кошти кредитів, позик, грантів, що надаються відповідно до міжнародних договорів України організаціями, зазначеними у другій частині статті 6 Закону, із подальшим застосуванням правил і процедур, встановлених організацією, що здійснює таке співфінансування",
+      "title_uk": "Підпункт 10 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    },
+    "emergencyElectricitySupply": {
+      "description_en": "Changes in purchase volumes, prices, and other terms of the contract for the supply of electricity, effective as of the date of entry into force of Resolution of the Cabinet of Ministers of Ukraine No. 44 dated January 17, 2026, \"On Amendments to Clause 19 of the Specifics of Public Procurement of Goods, Works, and Services for Customers Provided for by the Law of Ukraine \"On Public Procurement,\" for the period of the legal regime of martial law in Ukraine and for 90 days from the date of its termination or cancellation,\" in order to comply with the requirements set forth in paragraph 6 of Resolution of the Cabinet of Ministers of Ukraine No. 39 dated January 15, 2026, \"Certain Issues of Overcoming the Consequences of a State-Level Emergency in Electric Power Systems,\" as amended by Resolution of the Cabinet of Ministers of Ukraine No. 43 dated January 17, 2026",
+      "title_en": "Subparagraph 11 of paragraph 19 of the Resolution of the Cabinet of Ministers of Ukraine dated 12.10.2022 No. 1178 \"On approval of the features of public procurement of goods, works and services for customers provided for by the Law of Ukraine \"On Public Procurement\", for the period of the legal regime of martial law in Ukraine and within 90 days from the date of its termination or cancellation\"",
+      "description_uk": "Зміни обсягів закупівлі, ціни та інших умов договору про закупівлю на постачання електричної енергії, чинного на дату набрання чинності постановою Кабінету Міністрів України від 17 січня 2026 р. № 44 \"Про внесення зміни до пункту 19 особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\", для виконання вимог, визначених пунктом 6 постанови Кабінету Міністрів України від 15 січня 2026 р. № 39 \"Деякі питання подолання наслідків надзвичайної ситуації державного рівня в електроенергетичних системах\", - із змінами, внесеними постановою Кабінету Міністрів України від 17 січня 2026 р. № 43",
+      "title_uk": "Підпункт 11 пункту 19 Постанови Кабміну Міністрів України від 12.10.2022 № 1178 \"Про затвердження особливостей здійснення публічних закупівель товарів, робіт і послуг для замовників, передбачених Законом України \"Про публічні закупівлі\", на період дії правового режиму воєнного стану в Україні та протягом 90 днів з дня його припинення або скасування\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "27852a5f3d5241c980df6a3d6bfa5a94",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "working"
+      },
+      "sequenceNumber": 1
+    },
+    {
+      "id": "bf59ab2199224916a382945d3f9fe76a",
+      "title": "submissionDateOfApplications",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "working"
+      },
+      "sequenceNumber": 2
+    }
+  ],
+  "procurementMethodType": "priceQuotation",
+  "awardCriteria": "lowestCost",
+  "status": "active.qualification",
+  "agreement": {
+    "id": "13dc9e39071a4ff4a0084e2402fba60b"
+  },
+  "value": {
+    "amount": 8960.0,
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true
+  },
+  "tenderPeriod": {
+    "startDate": "2026-06-03T15:14:37.842247+03:00",
+    "endDate": "2026-06-08T12:00:00+03:00"
+  },
+  "procuringEntity": {
+    "name": "Комунальне некомерційне підприємство \"Центр первинної медико-санітарної допомоги № 2\" Деснянського району м. Києва",
+    "name_en": "",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "21467676",
+      "legalName": "Комунальне некомерційне підприємство \"Центр первинної медико-санітарної допомоги № 2\" Деснянського району м. Києва",
+      "legalName_en": ""
+    },
+    "address": {
+      "streetAddress": "вул. Рональда Рейгана, будинок 19",
+      "locality": "",
+      "region": "м. Київ",
+      "postalCode": "02225",
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Маленко Світлана Петрівна",
+      "email": "rudik.desna2@gmail.com",
+      "telephone": "380735371002"
+    },
+    "kind": "general"
+  },
+  "items": [
+    {
+      "profile": "547856-33141300-904319-42574629",
+      "category": "33141300-904319-42574629",
+      "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+      "description": "Шприц ін'єкційний, 3-х компонентний, Об'єм : 2 мл, Одноразовий, з голкою в комплекті, без додаткової голки, Сертифікат на відповідність ДСТУ EN ISO",
+      "quantity": 4000.0,
+      "classification": {
+        "description": "Приладдя для венепункції та забору крові",
+        "scheme": "ДК021",
+        "id": "33141300-3"
+      },
+      "deliveryDate": {
+        "endDate": "2026-12-31T00:00:00+02:00"
+      },
+      "deliveryAddress": {
+        "streetAddress": "м. Київ, вул. Рональда Рейгана, 19,",
+        "locality": "",
+        "region": "",
+        "postalCode": "02225",
+        "countryName": "Україна"
+      },
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      }
+    }
+  ],
+  "criteria": [
+    {
+      "id": "28da201b53234e81abdccef58ff008dc",
+      "description": "Технічна специфікація повинна містити опис усіх необхідних характеристик товарів, робіт або послуг, що закуповуються, у тому числі їх технічні, функціональні та якісні характеристики. Характеристики товарів, робіт або послуг можуть містити опис конкретного технологічного процесу або технології виробництва чи порядку постачання товару (товарів), виконання необхідних робіт, надання послуги (послуг)",
+      "source": "tenderer",
+      "relatesTo": "item",
+      "relatedItem": "36ce5587f0294aaa8fc348e9ec5e4510",
+      "classification": {
+        "scheme": "ESPD211",
+        "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+      },
+      "title": "Технічні, якісні та кількісні характеристики предмета закупівлі",
+      "legislation": [
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1398"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "22.2.3"
+        },
+        {
+          "version": "2024-04-19",
+          "identifier": {
+            "id": "922-VIII",
+            "legalName": "Закон України \"Про публічні закупівлі\"",
+            "uri": "https://zakon.rada.gov.ua/laws/show/922-19#n1426"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "23"
+        },
+        {
+          "version": "2023-10-31",
+          "identifier": {
+            "id": "1135-2023-п",
+            "legalName": "Про внесення змін до постанов Кабінету Міністрів України від 14 вересня 2020 р. № 822 і від 12 жовтня 2022 р. № 1178",
+            "uri": "https://zakon.rada.gov.ua/laws/show/1135-2023-%D0%BF#n24"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "2.1"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "6f6408280dbb459686c7cd39209faf18",
+              "title": "Кількість застосувань",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Одноразовий"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            },
+            {
+              "id": "e4fe933f7d324cce98f1e76db589619c",
+              "title": "Вид",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "Шприц ін'єкційний"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            },
+            {
+              "id": "aee5553cd9a74fee958516aed426460a",
+              "title": "Тип",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "3-х компонентний"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            },
+            {
+              "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+              "title": "Наявність голки",
+              "dataType": "string",
+              "status": "active",
+              "expectedValues": [
+                "В комплекті"
+              ],
+              "expectedMinItems": 1,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            },
+            {
+              "id": "668842d94f264943b060c06e958e58a6",
+              "title": "Сертифікат на відповідність ДСТУ EN ISO",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            },
+            {
+              "id": "46f7d94525264a9dade92eb58cb287af",
+              "title": "Наявність додаткової голки",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": false,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            },
+            {
+              "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+              "title": "Об'єм, мл",
+              "dataType": "number",
+              "status": "active",
+              "unit": {
+                "code": "MLT",
+                "name": "мілілітр"
+              },
+              "minValue": 2.0,
+              "maxValue": 2.0,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            },
+            {
+              "id": "db810d320b6c411ebe9cfae576fd0170",
+              "title": "Стерильність",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T11:26:12.530883+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "444cb05ad2d94b72ad7d5937671e34e5",
+      "description": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\", або учасник є громадянином Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах); юридичною особою, створеною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран; юридичною особою, створеною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА або пропонує товар походженням з Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран",
+      "source": "tenderer",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+      },
+      "title": "Вчинення правопорушень, повʼязаних із застосуванням санкцій",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.6"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n130"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "40.13"
+        },
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n165"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "57"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "1cd23a5f28fe402189d702467a579425",
+          "description": "Підтверджується, що",
+          "requirements": [
+            {
+              "id": "09b8d273a0384878991fb170fcbc731a",
+              "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\"",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T12:48:24.217409+03:00"
+            },
+            {
+              "id": "4fb88cd5229245b7bdad196bca4d8947",
+              "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T12:48:24.217409+03:00"
+            },
+            {
+              "id": "50eafc7b1696422abfaa591ad78b8ec0",
+              "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T12:48:24.217409+03:00"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a52954b73abf4712846c2e4f50b50749",
+      "description": "Замовник має право відхилити пропозицію постачальника, що за результатами оцінки визначена економічно вигідною, якщо постачальник не виконав свої зобов’язання за раніше укладеним договором із цим самим замовником, що призвело до його дострокового розірвання, і було застосовано санкції у вигляді штрафів та/або відшкодування збитків протягом трьох років з дати дострокового розірвання такого договору, що підтверджується рішенням суду",
+      "source": "winner",
+      "relatesTo": "tender",
+      "classification": {
+        "scheme": "DECREE822",
+        "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+      },
+      "title": "Наявність не виконаних зобов'язань за раніше укладеним договором",
+      "legislation": [
+        {
+          "version": "2026-01-26",
+          "identifier": {
+            "id": "822",
+            "legalName": "Постанова про затвердження Порядку формування та використання електронного каталогу",
+            "uri": "https://zakon.rada.gov.ua/laws/show/822-2020-%D0%BF#n180"
+          },
+          "type": "NATIONAL_LEGISLATION",
+          "article": "62"
+        }
+      ],
+      "requirementGroups": [
+        {
+          "id": "5732f87b48394059add3967bdf3fcbac",
+          "description": "При відсутності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "042a3111a9b84157bb10b2f8496a2654",
+              "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків",
+              "dataType": "boolean",
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T12:48:24.217409+03:00"
+            }
+          ]
+        },
+        {
+          "id": "9e2ff27647254fe28d4a5528e7fd612a",
+          "description": "При наявності не виконаних зобов'язань за раніше укладеним договором підтверджується, що",
+          "requirements": [
+            {
+              "id": "c3748200c26743b1ab28feb33602c78c",
+              "title": "Учасник процедури закупівлі вжив заходів для доведення своєї надійності, а саме: сплатив або зобовʼязався сплатити відповідні зобовʼязання та відшкодування завданих збитків",
+              "dataType": "boolean",
+              "eligibleEvidences": [
+                {
+                  "type": "document",
+                  "id": "cad8858ad44e4182bfaaf991a21e038d"
+                }
+              ],
+              "status": "active",
+              "expectedValue": true,
+              "datePublished": "2026-06-03T12:48:24.217409+03:00"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noticePublicationDate": "2026-06-03T15:14:37.842247+03:00",
+  "bids": [
+    {
+      "id": "89665f0324e24987a5db97feb892744b",
+      "date": "2026-06-03T17:56:37.095721+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "bf9f21ea72eb4cc9b5a36a3a78de748d",
+          "datePublished": "2026-06-03T17:55:30.015669+03:00",
+          "hash": "md5:8dec0b2eefa0b3d6e6ce7176a7edb5b1",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/2f54bf2fdb2c4470b4849ddb74276477?Signature=9QmnSVNb7xZnfc6e3W%2FVfQqqu9MnhB0V9a8aTNwrazuKIunOhVw6T4c%2FxCGIf03Q5q4GP7bpiQlsV6h2ZDoCAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T17:55:30.015669+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТАВОЛГА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "30540001",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТАВОЛГА\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ ВЕСНІНА, будинок 84",
+            "locality": "Дніпро",
+            "region": "Дніпропетровська область",
+            "postalCode": "49057",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Холодова Олена",
+            "name_en": "KHOLODOVA OLENA",
+            "email": "tavolgatender@ukr.net",
+            "telephone": "380999869580,380972416268"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 5778.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "29a5e4f75a7b47748fed1c6a73a11c34",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "a9822ab05d6d4b73b148253b6e1d4757",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "566f15290386406dba3ce166c8700c12",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "6657d56c77f5428b8056225d55d291ea",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "1ca4584e273e446c974001f2a19a2574",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "1b4ce11252b34718ba98476dc162520f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "4b8b31c40c6a4bed800e95463abf40d4",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "4867cf9a0f734f60aabeac72459a6174",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "fcb8cac2a7af4439a92c70d0c9cad0fc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "a4a09541748f4e20ad448f1c83e35b76",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "20007de6589c4e6a88a710f4f96fcfaa",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2.0,
+          "id": "2e58c1b03dad40679c3dac9e37fae7a3",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц 2 ml (мл) луєр трьохкомпонентний ін'єкційний одноразового застосування з голкою 0,6х32 mm (мм) (23Gх1 1/4)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.35,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "cab569f37f1c490f95e9b21c7e683da5"
+        }
+      ],
+      "submissionDate": "2026-06-03T17:56:37.095721+03:00",
+      "initialValue": {
+        "amount": 5778.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "b366494f537041feaa6aafe8dde36192",
+      "date": "2026-06-03T16:01:36.729883+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:4bf218f7e1336aebeb63ec0c62dd9db2a235abda;SHA2-384:1b16a3a355c96823a11fb8ba7a50fd1eabea8ab122784cf994c38416bb43ac6fb9e047f8120230b4f2652e572efdaf1a;Antivirus: ESET Antivirus,fids:a35cc09f3bba4f2085cbab6367f91256:fide",
+          "id": "de54bea2372a486e80c2bc790d39c614",
+          "datePublished": "2026-06-03T16:01:36.437605+03:00",
+          "hash": "md5:258a972db58449ae91edbeb4617c5dfd",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/3cd02a732f1c4913bca9aea3e8e3a5ab?Signature=7Put1tA%2BgqNN4lQs41N5KjPGGfYAiZi49EhranhSGREfOiR0ZfV3GPILjYMsis08LThB%2B4%2FTBZZR%2FPUjbiJNBw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T16:01:36.437605+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ВОК - Медіка Груп\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45099150",
+            "legalName": "ТОВ \"ВОК - Медіка Груп\""
+          },
+          "address": {
+            "streetAddress": "вулиця Без Назви, будинок 241",
+            "locality": "Мукачівський район, село Солочин",
+            "region": "Закарпатська область",
+            "postalCode": "89321",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Сергій Кантемир",
+            "email": "vok.sergey349@gmail.com",
+            "telephone": "+380672233404, +380506482455"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 8688.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "01b19497b0a54a599e2d136cfb14b280",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "4a7b1d85c7384b609d87ac16a993a4b6",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "9e3a4fa0a22f488ba114c70e00b81620",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "698b9f0b9db6479ba9108c6c08d0dcc8",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "b65be20d99af4c7fb63f87f68edf1ecd",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2,
+          "id": "6011bc596dd445e9b2b5a342087750c1",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "ab503522ac924f8391eb0a530bb25e8f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "865852da70e64374abf0a7beaabbd789",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "1eb78156e21a4e21b8e8810b2c550679",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "08dd675843c34cd29c2a63b8de4b907d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "c8ebd1e06c39449e93e0b170a8be9443",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "76444c67fc924064b6974a30680e6704",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц ін'єкційний одноразового використання, луєр сліп \"MEDICARE\", 2,0 мл (трьохкомпонентний, з голкою 0,6 x 25мм)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2.03,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "61ebb7b1ff7842cabadb7ec04bfee2fb"
+        }
+      ],
+      "submissionDate": "2026-06-03T16:01:36.729883+03:00",
+      "initialValue": {
+        "amount": 8688.4,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "5c12ff6c425442c5bbc3bac2a53a5a6a",
+      "date": "2026-06-03T17:37:31.008368+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:a1db92b35fcef70d6db78aa7b9c698b87f32d126;SHA2-384:71b485127971ad25661cd590cff43934f875fd0e7918802ae72b92511625d85a380bc8476293ff4b67f2a56210047a50;Antivirus: ESET Antivirus,fids:530cbc4b5374404a86b5599b789a67bc:fide",
+          "id": "4a2257bdd6f24e79abea6741944fc5bb",
+          "datePublished": "2026-06-03T17:37:30.746417+03:00",
+          "hash": "md5:3525f6a0330b1225f3cc94f28264a84d",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/cf07d1aca2464b2d8b2a3a747f9ddde4?Signature=ALPYpcBYLp41qzEh8LuKbINhCaCOfx76lSMRUyzmiI%2FwAUIse%2BeB6jEKZQYBm3K9Cv%2F%2Bu8O7osXVqP9Kw5evAw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T17:37:30.746417+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ \"ЛЮКС ФАРМ ГРУП\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45023363",
+            "legalName": "ТОВ \"ЛЮКС ФАРМ ГРУП\""
+          },
+          "address": {
+            "streetAddress": "вул. Алматинська, будинок 2/1, офіс 37",
+            "locality": "м. Київ",
+            "region": "м. Київ",
+            "postalCode": "02090",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Юрій Недорізанюк",
+            "email": "sales2@lfg.com.ua",
+            "telephone": "+380978497646"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 4151.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "a28d773df1374837acec3a7cc4caf4a1",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "88779b20ced54fb08492430be2abfb2e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "6951c8eaca6549ee8d2578d6eecd4aaf",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "121f134b577e45b2ab7c9525d5725ec7",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "f95c76522fea4546a6a1de75ab15a679",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2,
+          "id": "0e028284b54e48f3a943cb3e5e95f48d",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "2cd6143ff4a741f39fce2cdbf3e8b830",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "77a0297870014fc383270811e451df8d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "a4e1e27321e541deb99f2ece781d22a1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "38386359105e4545bccfe608721aad40",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "4d37c942061542a8bc8dba7620e7a311",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "fae9e3beb4404e87a157d2914b01b1a0",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц ін’єкційний 3-х компонентний одноразовий стерильний \"ALEXPHARM\" 2 мл Luer Slip з голкою, 23G (0,6x30 мм)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 0.97,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "0dbc27b2016443b68aa4aa0250c4c9a9"
+        }
+      ],
+      "submissionDate": "2026-06-03T17:37:31.008368+03:00",
+      "initialValue": {
+        "amount": 4151.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "2fe42d738211489b80aec149897fa5ca",
+      "date": "2026-06-04T14:21:27.741359+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "40db0e8142054568afefc82bc463f3ae",
+          "datePublished": "2026-06-04T14:21:27.480503+03:00",
+          "hash": "md5:bb2a6ede2c2e05ae36641bdb3c80df0b",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/fcf1b4eacfd34482b4765c695d1fbfc3?Signature=6uTlTkvWSGNkUthx3wuCdFd7PclhTEldeVONIpiEEnL0T0YtKuzIb6OVxKFKV71MMai178Q9hL%2FbjtnrUKvVDA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T14:21:27.480503+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Товариство з обмеженою відповідальністю \"УКРАЇНСЬКИЙ МЕДИЧНИЙ ДІМ\"",
+          "name_en": "LLC \"UKRAINIAN MEDICINE HOUSE\"\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "36113325",
+            "legalName": "Товариство з обмеженою відповідальністю \"УКРАЇНСЬКИЙ МЕДИЧНИЙ ДІМ\"",
+            "legalName_en": "LLC \"UKRAINIAN MEDICINE HOUSE\"\""
+          },
+          "address": {
+            "streetAddress": "площа Миру, буд.8, офіс 8",
+            "locality": "Кролевець",
+            "region": "Сумська область",
+            "postalCode": "41300",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Коваль Ірина Анатоліївна",
+            "name_en": "Koval",
+            "email": "umdtender@gmail.com",
+            "telephone": "380961523611"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 7920.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "35568a9043bb4d47b2691efcfd5f321e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "11863bbf16a349439fec7b5585abc98b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "bcef7494be014ad79c8e04adacf09be4",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "9b61d9d0180d44f0a9116359e52a7eb5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "b54b40f1dd384eb8b159a30c28c84f70",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "312b6d1943284e458d88a7f71c3c5ac1",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2.0,
+          "id": "85d313dcc5e04a34bf71bdd57ecf3dc3",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "a402d6b35b654d5bb668cf6f4f67e633",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "395b0c5e6d58417a8d91e5f317a23265",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "818dd6cb4d434d31bc1b052e18383bba",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "2810fdd6257144bf96a2105a640f9328",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "2f64e015cd924c0c89d53ddea0e3ec4d",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц ін’єкційний 3-х компонентний одноразовий стерильний «ANGEL CARE» 2 мл Luer Slip з голкою, 23G (0,6x30 мм)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.8504675,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "2ad998e402dd43da9666b1010d97cdef"
+        }
+      ],
+      "submissionDate": "2026-06-04T14:21:27.741359+03:00",
+      "initialValue": {
+        "amount": 7920.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "f47b483bb11145a2ade3f5306154775a",
+      "date": "2026-06-04T14:45:22.368899+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "84c7e449cfe8452bb88bbf247505a3b3",
+          "datePublished": "2026-06-04T14:45:22.063303+03:00",
+          "hash": "md5:761a86c53ac5602902ee34caefa57c6d",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/283a5dbeeacb49b583c79e74396f7ff2?Signature=wHVlpDDalP%2FbgRSe5BeXQXVaVcRxyRUfZE4VjvabVH3p%2BRkkFOILSAEcq32LT6vpGgKIC%2B3szD6l0Ifir7LVDQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-04T14:45:22.063303+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТДЕ УА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "43661130",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ТДЕ УА\""
+          },
+          "address": {
+            "streetAddress": "02064, м.Київ, Деснянський район, ПРОСПЕКТ Червоної Калини, будинок 68, офіс 233",
+            "locality": "Київ",
+            "region": "Київська область",
+            "postalCode": "02064",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Брагіна Марина",
+            "email": "sales.med@mediok.com.ua",
+            "telephone": "380503412430"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 4494.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "e3669deb3eed4f31b6dbf653169a7ef5",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "4b8f25662655493c8e8df92fda42983f",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "3bd98ab82327467fbc21abd97442f534",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "16e97a4ba1a844938d29880dea3a9734",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "a52d82c329324b5db0e993664ab70fe5",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "232554fdf1e24388995ad213cbb6c00e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "6c7786b496b64b8fa764156ff2efcd0b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "6a7268df2e8740038e09b65d636e69e6",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "566cbc9bcb1b48a9a81311f218ed6046",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "c772377a447945a7a903e99f5f461534",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2.0,
+          "id": "bab3dee4a5b448e18a4913d30b810c47",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "e243409146ec4c7194582120de44227e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц ін’єкційний трикомпонентний, одноразовий, стерильний з голкою mediOk® Luer Slip, 2 мл (ml) з голкою 23G 0.6x30 мм (mm)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.05,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "ad15851cbd8d4afea202fd3357c4196c"
+        }
+      ],
+      "submissionDate": "2026-06-04T14:45:22.368899+03:00",
+      "initialValue": {
+        "amount": 4494.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "780b447d49b44f49862318cbdfd0069b",
+      "date": "2026-06-05T17:22:02.198930+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "de565f711a924e4dad1cacfb953f8970",
+          "datePublished": "2026-06-05T17:21:39.249415+03:00",
+          "hash": "md5:1008b619a3a36e6013c1364469e7d4e6",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/4f084f372b9c4f80810cedc7ad17d954?Signature=XTpAnONfCE2kymkszVyP50TBaohel3vXhTPuCEUZYmxb8ywo93wZCEOT58BtqAO2xrFFjjB0ace75L0bqB3yCg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T17:21:39.249415+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "Фізична особа-підприємець Волошина Анна Анатоліївна",
+          "name_en": "FOP Voloshina Anna Anatolievna",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3093017900",
+            "legalName": "Фізична особа-підприємець Волошина Анна Анатоліївна",
+            "legalName_en": "FOP Voloshina Anna Anatolievna"
+          },
+          "address": {
+            "streetAddress": "вулиця Березовського, будинок 8",
+            "locality": "Ковель",
+            "region": "Волинська область",
+            "postalCode": "45000",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Волошина Анна Анатоліївна",
+            "name_en": "Voloshina Anna Anatolievna",
+            "email": "voloshuna.prozorro@gmail.com",
+            "telephone": "380501446026"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 8000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "52224c4edd554bd1a1e5c20a5b57967b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "21f65298d07747d399df44d8024ff3a2",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "a3b8f34d26a440f5bdf1a3cd2f4182ce",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "26be8b8c2b884eb99b292d9e09ec99b7",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "88b1e2cca14047ce80a9f64b066be29a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "7e0c6a0b53404fafa0e720f5e31c1cb2",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "1c488c7ab17d418ebd692aeccc1a9817",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "61d4ccc96d2a4aa5aeda07dd9c758363",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2.0,
+          "id": "99180c5c75a040a4a4b0914f5c09b6f6",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "2cbf9cbbecc54cc58c5b033791097bac",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "a5f47198e9ab4f99bea667c8ad6c5db3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "6b2e86b5f3ef432da469b95fb731f860",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц ін’єкційний 3-х компонентний одноразовий стерильний \"ALEXPHARM\" 2 мл Luer Slip з голкою, 23G (0,6x30 мм)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 2.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "0dbc27b2016443b68aa4aa0250c4c9a9"
+        }
+      ],
+      "submissionDate": "2026-06-05T17:22:02.198930+03:00",
+      "initialValue": {
+        "amount": 8000.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "046d1a4e40a347a6ac132ebc9618a68a",
+      "date": "2026-06-05T17:16:36.436837+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "description": "SHA1:92431881ca7e880dec559eb7dac9867e5c630690;SHA2-384:5f5965ee0b0cdfd90bf82348423fae2ef7992ea71a22016550c215ae0f5c92ec3621016484b87b8e3bcdff205ae15954;Antivirus: ESET Antivirus,fids:7611b516fa1945d5aa7d534040157e84:fide",
+          "id": "4b0899d85dc24eb39fc6c86975203db9",
+          "datePublished": "2026-06-05T17:16:36.170801+03:00",
+          "hash": "md5:faac493136dd03f396d3609b63866843",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/928442a856d9433fa3ab8ea7790447eb?Signature=Jf0n1NvuRx0t40Q0TvuihM%2BMaQh0AYa04wXSbBbHbapPvVXdiqcnHn4oA1VcjhHdoiPhsC3TH%2ByGrYn1e8VLCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-05T17:16:36.170801+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП \"ЗАБОЛОТНА ОЛЕНА ЛЕОНІДІВНА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "2781218086",
+            "legalName": "ФОП \"ЗАБОЛОТНА ОЛЕНА ЛЕОНІДІВНА\""
+          },
+          "address": {
+            "streetAddress": "вул.Ніколаєва Архітектора, будинок 9-А, квартира 183",
+            "locality": "місто Київ",
+            "region": "м. Київ",
+            "postalCode": "02225",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Олена Заболотна",
+            "email": "olena.zabolotna@ukr.net",
+            "telephone": "+380503572536"
+          },
+          "scale": "mid"
+        }
+      ],
+      "value": {
+        "amount": 4480.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "fbd17f8fe58e437bab29c141b7e0d712",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "95198074a1d74f0d9dc6360cfede9e66",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "edc48e9f08d3427ca207336ace9baf8b",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "955796ff768c487293810293ef0d1e81",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "71e36d0bb2fd44b08a286b8911f1776c",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2,
+          "id": "a5e44d0351fe42b4bf3d50d13b13a0ab",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "29740964fd77408bb4e824646d55f0c8",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "e1aa5f4da93c45b18910fd4e059d9a3d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "6dd338011b1f4c89a8ac06eaa5029805",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "95fdbf4a08b04f3aafdc09011a3f6364",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "4b743fba31fc4774a6f581b9cba1c603",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "6e21089b681b421bbbff317e19103796",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Одноразовий стерильний шприц 2В, 3-комп.,2 мл 23G* 1 1/4 0,6*32",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.12,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "68ed0b74cf6d42cf92e3d66c924e6efb"
+        }
+      ],
+      "submissionDate": "2026-06-05T17:16:36.436837+03:00",
+      "initialValue": {
+        "amount": 4480.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "b0fd286c36794f7ab225f5e8d5d7524b",
+      "date": "2026-06-06T07:44:43.606407+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "f79b1c84ef4a4500a78010174fef2488",
+          "datePublished": "2026-06-06T07:44:27.166001+03:00",
+          "hash": "md5:3b2d4fbdce1f4f6613ebb6e853ecf973",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/ec3da47d87814d50b821a3a0717dc36c?Signature=D9O%2B%2Fju%2BS221CzmDrf4ywpfd7wuvACKIbDr4lWtz1ZXIArEUE%2FBvgJ5TYatQH24l6g%2BFGki4QQevAO4YqUbnAA%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-06T07:44:27.166001+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СОФІ-МЕД\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "42717957",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"СОФІ-МЕД\""
+          },
+          "address": {
+            "streetAddress": "ВУЛИЦЯ КИРИЛІВСЬКА, будинок 152-А, офіс 2",
+            "locality": "",
+            "region": "м. Київ",
+            "postalCode": "04073",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Якубович Марія Романівна",
+            "name_en": "Yakubovych Mariia",
+            "email": "sofimed.ltd2018@gmail.com",
+            "telephone": "380662687541"
+          },
+          "scale": "sme"
+        }
+      ],
+      "value": {
+        "amount": 4280.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "3e1aed33f20f47af8f4f50f2e946090b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "b82ad4a40ef54ad485b252b922824853",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "9c56d5d873e14a2e92dab34f69e33388",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "e223d85ac47d45cea34c4e175bf2b913",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "8c110ba5ebc4479380904c409ee60384",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "79d6e5232acb4772a12140f19aeee754",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "5e5b76f3f5da4307a130f14f348944e3",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "dad48fa3ad924a8985b219dd01782c7e",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2.0,
+          "id": "ae3d58e3aed6479db84844811d6d88bb",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "43ae7fa4e4e1415dadd85c9be394631d",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "d6a4b2a22a4b4739bcd09ff905eff271",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "5403b8fd2b3b4e98a64c68dbf105b43b",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц ін'єкційний одноразового використання, луєр сліп \"MEDICARE\", 2,0 мл (трьохкомпонентний, з голкою 0,6 x 25мм)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.0,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "95c84cc4405c4e7b9ce1c2fb1e3d34f2"
+        }
+      ],
+      "submissionDate": "2026-06-06T07:44:43.606407+03:00",
+      "initialValue": {
+        "amount": 4280.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "db80c21679ef4fc29d89bd054f0c4fab",
+      "date": "2026-06-08T10:48:59.561783+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "id": "86b10b03076a43bbaca835b62b433f7a",
+          "datePublished": "2026-06-08T10:48:59.403808+03:00",
+          "hash": "md5:3f5714a608c2e7b4b6dcc549595c6adf",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/c848bead1e7e4d2caa5f3b854eaf661b?Signature=3PuMDqWCkyprzsh6gui8FlUNU2UR%2BOZA9WeCRQ3CjYy9%2FRi5CbO0j6kKcoOOHobVBCbTneZen5fXqH07%2BVcgCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T10:48:59.403808+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІНТЕЛЛА\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "38493226",
+            "legalName": "ТОВАРИСТВО З ОБМЕЖЕНОЮ ВІДПОВІДАЛЬНІСТЮ \"ІНТЕЛЛА\""
+          },
+          "address": {
+            "streetAddress": "Дарвіна,6",
+            "locality": "Харків",
+            "region": "Харківська область",
+            "postalCode": "61002",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Ірина",
+            "email": "OFFICE@INTELLA.COM.UA",
+            "telephone": "380678110252, 380738110252, 380958110252",
+            "url": "https://intella.com.ua"
+          },
+          "scale": "micro"
+        }
+      ],
+      "value": {
+        "amount": 4494.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "fe0ecfb1e29e449b9d9130c35919f4aa",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "784b69b7c9ab49ae9b200cc338a866f1",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "fb7f57e607924776909d5aa1199fb3ad",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "74dea34d334f481887c7aec4c1a84315",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        },
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "0a439790d2a348efbc93d70db797fbfc",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "74b8a9e94bb448aab41f26c96768c2af",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "54f65201943d45e78ddbe8f180bb56f3",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "33138356ba3a426cb4b5f65d13273e14",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "55f0f0c8728b48fab320636505640f1e",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "992276f44c874ceab3f13f0423a59159",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2.0,
+          "id": "1e36bf04eb7d45a98ff17c7b49b00d37",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "164b18dd160042968e8f8539e2c42f0f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц 2В, 3-комп., 2 мл 23G* 1 1/4 0,6*32",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.05,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "ac8f89a3ee5c4563a385ae07a0c27bdb"
+        }
+      ],
+      "submissionDate": "2026-06-08T10:48:59.561783+03:00",
+      "initialValue": {
+        "amount": 4494.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    },
+    {
+      "id": "d845ec0bc9524c9db712cbb568f44cc5",
+      "date": "2026-06-08T11:30:53.352731+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "title_en": "sign.p7s",
+          "title_ru": "sign.p7s",
+          "description": "SHA1: 663b203b17d2f88f7bfc6b893c625f0eb993b8c6",
+          "id": "68795c62e4b745ed876b431747e14f8e",
+          "datePublished": "2026-06-08T11:30:51.538447+03:00",
+          "hash": "md5:24e55506075353fd09c01d67bf8ed586",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/21845b52929c43c8826d4abe22150810?Signature=YvhauRwLNVGLOJAg9f0Sfm3TSSeHgbHakWrdUJF8673IJuJA6SKzkSf2cy8LnNCpWmDf1SpMvvVxbQvNGKcOCQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-08T11:30:51.538447+03:00",
+          "language": "uk"
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ФОП Кікоть Станіслав Валентинович",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "3530011875",
+            "legalName": "ФОП Кікоть Станіслав Валентинович"
+          },
+          "address": {
+            "streetAddress": "б.Шевченка, 399/1, кв.115",
+            "locality": "Черкаси",
+            "region": "Черкаська область",
+            "postalCode": "18006",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Кікоть Станіслав Валентинович",
+            "email": "ksv.fop@ukr.net",
+            "telephone": "+380930062880"
+          },
+          "scale": "micro",
+          "signerInfo": {
+            "name": "Кікоть Станіслав Валентинович",
+            "email": "ksv.fop@ukr.net",
+            "telephone": "+380930062880",
+            "iban": "UA533052990000026000031606506",
+            "position": "Фізична особа-підприємець",
+            "authorizedBy": "Виписки з Єдиного державного реєстру юридичних осіб, фізичних осіб-підприємців та громадських формувань"
+          }
+        }
+      ],
+      "value": {
+        "amount": 5560.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "requirementResponses": [
+        {
+          "requirement": {
+            "id": "6f6408280dbb459686c7cd39209faf18",
+            "title": "Кількість застосувань"
+          },
+          "values": [
+            "Одноразовий"
+          ],
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "e4fe933f7d324cce98f1e76db589619c",
+            "title": "Вид"
+          },
+          "values": [
+            "Шприц ін'єкційний"
+          ],
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "aee5553cd9a74fee958516aed426460a",
+            "title": "Тип"
+          },
+          "values": [
+            "3-х компонентний"
+          ],
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "76f1f04a08f54e8a8dbdb6912ee4548e",
+            "title": "Наявність голки"
+          },
+          "values": [
+            "В комплекті"
+          ],
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "668842d94f264943b060c06e958e58a6",
+            "title": "Сертифікат на відповідність ДСТУ EN ISO"
+          },
+          "value": true,
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "46f7d94525264a9dade92eb58cb287af",
+            "title": "Наявність додаткової голки"
+          },
+          "value": false,
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "cbd8918fa1ed4a2dbeec6ee1a64518d6",
+            "title": "Об'єм, мл"
+          },
+          "value": 2,
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "unit": {
+            "code": "MLT",
+            "name": "мілілітр"
+          },
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "db810d320b6c411ebe9cfae576fd0170",
+            "title": "Стерильність"
+          },
+          "value": true,
+          "id": "e61252bd1e81446c90f4d27c8cc47d6f",
+          "classification": {
+            "scheme": "ESPD211",
+            "id": "CRITERION.OTHER.SUBJECT_OF_PROCUREMENT.TECHNICAL_FEATURES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "09b8d273a0384878991fb170fcbc731a",
+            "title": "Учасник або кінцевий бенефіціарний власник учасника, член або учасник (акціонер) юридичної особи - учасника не є особою, до якої застосовано санкцію у вигляді заборони на здійснення у неї публічних закупівель товарів, робіт і послуг згідно із Законом України \"Про санкції\""
+          },
+          "value": true,
+          "id": "09b8d273a0384878991fb170fcbc731a",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "4fb88cd5229245b7bdad196bca4d8947",
+            "title": "Учасник процедури закупівлі не є юридичною особою, утвореною та зареєстрованою відповідно до законодавства України, кінцевим бенефіціарним власником, членом або учасником (акціонером), що має частку в статутному капіталі 10 і більше відсотків (далі - активи), якої є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран, громадянин Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран (крім того, що проживає на території України на законних підставах), або юридичною особою, утвореною та зареєстрованою відповідно до законодавства Російської Федерації/Республіки Білорусь/Ісламської Республіки Іран, крім випадків, коли активи в установленому законодавством порядку передані в управління АРМА"
+          },
+          "value": true,
+          "id": "4fb88cd5229245b7bdad196bca4d8947",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "50eafc7b1696422abfaa591ad78b8ec0",
+            "title": "Країною-походження товару не є Російська Федерація/Республіка Білорусь/Ісламська Республіка Іран"
+          },
+          "value": true,
+          "id": "50eafc7b1696422abfaa591ad78b8ec0",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONVICTIONS.TERRORIST_OFFENCES"
+          }
+        },
+        {
+          "requirement": {
+            "id": "042a3111a9b84157bb10b2f8496a2654",
+            "title": "Учасник процедури закупівлі не мав з цим самим замовником договорів достроково розірваних через невиконання (учасником) своїх зобов'язань через що було застосовано санкції у вигляді штрафів та/або відшкодування збитків"
+          },
+          "value": true,
+          "id": "042a3111a9b84157bb10b2f8496a2654",
+          "classification": {
+            "scheme": "DECREE822",
+            "id": "CRITERION.EXCLUSION.CONFLICT_OF_INTEREST.EARLY_TERMINATION"
+          }
+        }
+      ],
+      "status": "active",
+      "items": [
+        {
+          "id": "36ce5587f0294aaa8fc348e9ec5e4510",
+          "description": "Шприц  ін'єкційний 3-х компонентний одноразовий  стерильний \"МОЯ АПТЕЧКА\" 2 мл  Luer Slip з голкою, 23G (0.6*30 мм)",
+          "unit": {
+            "name": "штука",
+            "value": {
+              "amount": 1.39,
+              "currency": "UAH",
+              "valueAddedTaxIncluded": false
+            },
+            "code": "H87"
+          },
+          "quantity": 4000.0,
+          "product": "34330e73cef64036bb552fdd5f76af57"
+        }
+      ],
+      "submissionDate": "2026-06-08T11:30:53.352731+03:00",
+      "initialValue": {
+        "amount": 5560.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      }
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-08T12:00:02.939979+03:00"
+  },
+  "awards": [
+    {
+      "id": "7543de9b928847f7b23aa20351bb4db8",
+      "status": "pending",
+      "date": "2026-06-08T12:00:02.939979+03:00",
+      "value": {
+        "amount": 4151.6,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ \"ЛЮКС ФАРМ ГРУП\"",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "45023363",
+            "legalName": "ТОВ \"ЛЮКС ФАРМ ГРУП\""
+          },
+          "address": {
+            "streetAddress": "вул. Алматинська, будинок 2/1, офіс 37",
+            "locality": "м. Київ",
+            "region": "м. Київ",
+            "postalCode": "02090",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Юрій Недорізанюк",
+            "email": "sales2@lfg.com.ua",
+            "telephone": "+380978497646"
+          },
+          "scale": "micro"
+        }
+      ],
+      "bid_id": "5c12ff6c425442c5bbc3bac2a53a5a6a",
+      "period": {
+        "startDate": "2026-06-08T12:00:02.939979+03:00",
+        "endDate": "2026-06-11T00:00:00+03:00"
+      },
+      "qualified": true
+    }
+  ],
+  "id": "b22d4b0fb391422e8eb1cbd069d144d1"
+}

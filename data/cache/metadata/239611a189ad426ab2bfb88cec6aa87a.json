@@ -1,0 +1,948 @@
+{
+  "description": "",
+  "date": "2026-06-09T11:48:13.930218+03:00",
+  "dateModified": "2026-06-09T11:48:13.930218+03:00",
+  "dateCreated": "2026-05-21T07:36:39.213971+03:00",
+  "tenderID": "UA-2026-05-21-000048-a",
+  "documents": [
+    {
+      "confidentiality": "public",
+      "documentType": "contractProforma",
+      "id": "16bfd69a41ab45e099621d051cd5be00",
+      "datePublished": "2026-05-21T07:36:41.907662+03:00",
+      "hash": "md5:e93cfce12604b7d64ed8ccc5fd099152",
+      "title": "Проект договору_Duster.doc",
+      "format": "application/msword",
+      "url": "https://public-docs.prozorro.gov.ua/get/985fa30b2c4c474da58d4bdde496a5c3?Signature=RpTr%2Bxh8S97Z%2FJ%2B3QsXkOfqHgWCPfPYCJo2wZix6KOQ7%2Fv0rASvlxMgbAaiAKv%2BI2peNYhxEY1Dw4r2zZ6iUAQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-21T07:36:41.907662+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "biddingDocuments",
+      "id": "4e581d9cf20a4092a02499d429849c78",
+      "datePublished": "2026-05-21T07:36:41.907662+03:00",
+      "hash": "md5:1ebee87d0b00098524709e1d11ef70d8",
+      "title": "Оголошення спрощена_DUSTER.docx",
+      "format": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "url": "https://public-docs.prozorro.gov.ua/get/d91bd5e586a44d9a95d1366bc34985d1?Signature=wJzOCNsofwOVr%2BZadhz4U%2F3xg7C%2B%2Fhom8OoNDE09FzcaOQxGA4qt1nGqnoIjIn2O%2B54vivFyWJCQfS31KWYYBQ%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-21T07:36:41.907662+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    },
+    {
+      "confidentiality": "public",
+      "documentType": "notice",
+      "id": "05d8ec1ba351482bb8cb0e947056c91f",
+      "datePublished": "2026-05-21T07:36:48.587951+03:00",
+      "hash": "md5:4253a1059f67eb85d581f8266b6c0952",
+      "title": "sign.p7s",
+      "format": "application/pkcs7-signature",
+      "url": "https://public-docs.prozorro.gov.ua/get/5bb975c9fe384c198302ebf82adb92db?Signature=EqYbGOUtmrF6k3h2ZlytE28%2BKMPJWqAdpEl36daWHqXH%2FGBFEi231mi%2FM9N0VT%2FubXJfb%2F%2B6uFlrnVonUgwfBg%3D%3D&KeyID=52462340",
+      "documentOf": "tender",
+      "dateModified": "2026-05-21T07:36:48.587951+03:00",
+      "author": "tender_owner",
+      "language": "uk"
+    }
+  ],
+  "status": "complete",
+  "owner": "it.ua",
+  "title": "Спеціалізований легковий автомобіль RENAULT Duster",
+  "mainProcurementCategory": "goods",
+  "procurementMethod": "open",
+  "contractChangeRationaleTypes": {
+    "durationExtension": {
+      "description_en": "Extension of the period of the procurement contract duration and the term of obligations fulfilment regarding the transfer of goods, implementation of works and provision of services in case of documented objective circumstances that led to such extension, including circumstances of force majeure, delays in funding of procuring entitys expenditures, provided that such changes will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 4, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Продовження строку дії договору про закупівлю та строку виконання зобов’язань щодо передачі товару, виконання робіт, надання послуг у разі виникнення документально підтверджених об’єктивних обставин, що спричинили таке продовження, у тому числі обставин непереборної сили, затримки фінансування витрат замовника, за умови що такі зміни не призведуть до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 4 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "fiscalYearExtension": {
+      "description_en": "Еffect of the procurement contract may be extended for a period sufficient for conduction of the procurement procedure/simplified procurement at the beginning of the next year in volume that does not exceed 20% of the sum specified in the initial procurement contract concluded in the previous year, if expenditures for achieving this goal are approved in the prescribed manner",
+      "title_en": "Part 6 of Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Дія договору про закупівлю може бути продовжена на строк, достатній для проведення процедури закупівлі/спрощеної закупівлі на початку наступного року в обсязі, що не перевищує 20 відсотків суми, визначеної в початковому договорі про закупівлю, укладеному в попередньому році, якщо видатки на досягнення цієї цілі затверджено в установленому порядку",
+      "title_uk": "Частина 6 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceClarification": {
+      "description_en": "Drawing up a contract price, specified in accordance with the approved project documentation for the purchase contract, specified in paragraph three of part one of this article",
+      "title_en": "Clause 2, Part 7, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Складання договірної ціни, уточненої відповідно до затвердженої проектної документації до договору про закупівлю, зазначеного в абзаці третьому частини першої цієї статті",
+      "title_uk": "Пункт 2 частини 7 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "itemPriceVariation": {
+      "description_en": "An increase in the price per unit of goods by up to 10 percent in proportion to the increase in the market price of such goods in the event of fluctuations in the market price of such goods, provided that such a change does not lead to an increase in the amount specified in the procurement contract; - no more than once every 90 days from the date of signing the procurement contract/making changes to such a contract regarding an increase in the price per unit of goods. The restriction on the timing of changes in the price per unit of goods does not apply in cases of changes in the terms of the contract for the procurement of gasoline and diesel fuel, natural gas, and electricity",
+      "title_en": "Clause 2, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Збільшення ціни за одиницю товару до 10 відсотків пропорційно збільшенню ціни такого товару на ринку у разі коливання ціни такого товару на ринку за умови, що така зміна не призведе до збільшення суми, визначеної в договорі про закупівлю, - не частіше ніж один раз на 90 днів з моменту підписання договору про закупівлю/внесення змін до такого договору щодо збільшення ціни за одиницю товару. Обмеження щодо строків зміни ціни за одиницю товару не застосовується у випадках зміни умов договору про закупівлю бензину та дизельного пального, природного газу та електричної енергії",
+      "title_uk": "Пункт 2 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "priceReduction": {
+      "description_en": "Аpproval of price changes in the procurement contract in the direction of reduction (without changing the quantity (volume) and quality of goods, works and services), including in case of fluctuations in the price of goods on the market",
+      "title_en": "Clause 5, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Погодження зміни ціни в договорі про закупівлю в бік зменшення (без зміни кількості (обсягу) та якості товарів, робіт і послуг), у тому числі у разі коливання ціни товару на ринку",
+      "title_uk": "Пункт 5 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "qualityImprovement": {
+      "description_en": "Іmprovement of the item's quality, provided that such improvement will not increase the sum of money specified in the procurement contract",
+      "title_en": "Clause 3, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Покращення якості предмета закупівлі, за умови що таке покращення не призведе до збільшення суми, визначеної в договорі про закупівлю",
+      "title_uk": "Пункт 3 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "taxRate": {
+      "description_en": "Changes in the price in the purchase contract due to changes in tax and duty rates and/or changes in the conditions for granting tax benefits - in proportion to the change in such rates and/or tax benefits",
+      "title_en": "Clause 6, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни ціни в договорі про закупівлю у зв’язку зі зміною ставок податків і зборів та/або зміною умов щодо надання пільг з оподаткування - пропорційно до зміни таких ставок та/або пільг з оподаткування",
+      "title_uk": "Пункт 6 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "thirdParty": {
+      "description_en": "Changes in the consumer price index established in accordance with the legislation by state statistics bodies, changes in foreign currency exchange rates, changes in stock market quotes or Platts, ARGUS indicators of regulated prices (tariffs) and standards applied in the procurement contract, if the procurement contract establishes the procedure for changing the price",
+      "title_en": "Clause 7, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зміни встановленого згідно із законодавством органами державної статистики індексу споживчих цін, зміни курсу іноземної валюти, зміни біржових котирувань або показників Platts, ARGUS регульованих цін (тарифів) і нормативів, що застосовуються в договорі про закупівлю, у разі встановлення в договорі про закупівлю порядку зміни ціни",
+      "title_uk": "Пункт 7 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    },
+    "volumeCuts": {
+      "description_en": "Reduction of the procurement's volume, particularly taking into account the actual expenditures of the procuring entity",
+      "title_en": "Clause 1, Part 5, Article 41 of the Law of Ukraine dated 25.12.2015 No. 922-VIII \"On Public Procurement\"",
+      "description_uk": "Зменшення обсягів закупівлі, зокрема з урахуванням фактичного обсягу видатків замовника",
+      "title_uk": "Пункт 1 частини 5 статті 41 Закону України від 25.12.2015 № 922-VIII \"Про публічні закупівлі\""
+    }
+  },
+  "milestones": [
+    {
+      "id": "ae4d487a80404042bce4d37fbb113bca",
+      "title": "deliveryOfGoods",
+      "type": "financing",
+      "code": "postpayment",
+      "percentage": 100.0,
+      "duration": {
+        "days": 10,
+        "type": "working"
+      },
+      "sequenceNumber": 1,
+      "relatedLot": "1cf80480f92148d1a20b601912a12ed7"
+    },
+    {
+      "id": "d0849599221b4c75941cb4f0dcc24a75",
+      "title": "submissionDateOfApplications",
+      "type": "delivery",
+      "code": "standard",
+      "percentage": 100.0,
+      "duration": {
+        "days": 7,
+        "type": "calendar"
+      },
+      "sequenceNumber": 2,
+      "relatedLot": "1cf80480f92148d1a20b601912a12ed7"
+    }
+  ],
+  "submissionMethod": "electronicAuction",
+  "awardCriteria": "lowestCost",
+  "procuringEntity": {
+    "name": "ВІЙСЬКОВА ЧАСТИНА 3056 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ",
+    "identifier": {
+      "scheme": "UA-EDR",
+      "id": "23313931",
+      "legalName": "ВІЙСЬКОВА ЧАСТИНА 3056 НАЦІОНАЛЬНОЇ ГВАРДІЇ УКРАЇНИ"
+    },
+    "address": {
+      "countryName": "Україна"
+    },
+    "contactPoint": {
+      "name": "Євчук Мар′ян Миколайович",
+      "email": "tenderkomitet3056@ukr.net",
+      "telephone": "380507485824"
+    },
+    "kind": "defense"
+  },
+  "value": {
+    "currency": "UAH",
+    "valueAddedTaxIncluded": true,
+    "amount": 2328908.0
+  },
+  "tenderPeriod": {
+    "startDate": "2026-05-27T10:00:00+03:00",
+    "endDate": "2026-06-01T09:00:00+03:00"
+  },
+  "lots": [
+    {
+      "title": "Лот 1. Спеціалізований легковий автомобіль RENAULT Duster",
+      "status": "complete",
+      "id": "1cf80480f92148d1a20b601912a12ed7",
+      "date": "2026-06-09T11:48:13.930218+03:00",
+      "value": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 2328908.0
+      },
+      "minimalStep": {
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amount": 11644.54
+      }
+    }
+  ],
+  "procurementMethodType": "belowThreshold",
+  "enquiryPeriod": {
+    "startDate": "2026-05-21T07:36:39.213971+03:00",
+    "clarificationsUntil": "2026-05-29T00:00:00+03:00",
+    "endDate": "2026-05-27T09:00:00+03:00"
+  },
+  "items": [
+    {
+      "id": "57f0ec6ee7ba40ddb0eac36b9dac59f5",
+      "description": "Спеціалізований легковий автомобіль RENAULT Duster",
+      "unit": {
+        "name": "штука",
+        "code": "H87"
+      },
+      "quantity": 2.0,
+      "classification": {
+        "description": "Легкові автомобілі",
+        "scheme": "ДК021",
+        "id": "34110000-1"
+      },
+      "deliveryDate": {
+        "endDate": "2026-07-25T00:00:00+03:00"
+      },
+      "deliveryAddress": {
+        "locality": "Відповідно до документації",
+        "countryName": "Україна"
+      },
+      "relatedLot": "1cf80480f92148d1a20b601912a12ed7"
+    }
+  ],
+  "noticePublicationDate": "2026-05-21T07:36:50.944816+03:00",
+  "bids": [
+    {
+      "lotValues": [
+        {
+          "value": {
+            "amount": 2325576.0,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          },
+          "relatedLot": "1cf80480f92148d1a20b601912a12ed7",
+          "subcontractingDetails": "Не залучається",
+          "status": "active",
+          "date": "2026-05-28T10:15:04.140457+03:00",
+          "initialValue": {
+            "amount": 2325576.0,
+            "currency": "UAH",
+            "valueAddedTaxIncluded": true
+          }
+        }
+      ],
+      "tenderers": [
+        {
+          "name": "ТОВ АВТО ГРУП +",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "35880173",
+            "legalName": "ТОВ АВТО ГРУП +"
+          },
+          "address": {
+            "streetAddress": "вул. Інглезі, 15",
+            "locality": "Одеса",
+            "region": "Одеська область",
+            "postalCode": "65070",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Бикова Віталіна Валеріївна",
+            "name_en": "  ",
+            "name_ru": "  ",
+            "email": "tender@renault.in.ua",
+            "telephone": "+380487843575",
+            "faxNumber": "+380487654585"
+          },
+          "scale": "sme"
+        }
+      ],
+      "status": "active",
+      "id": "b50d5a228fbd439892f781cde5ca094b",
+      "date": "2026-05-28T10:15:04.140457+03:00",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "1. Статут АГ_ в новіи_ редакціі_ 2026.pdf.asice (2).zip",
+          "title_ru": "1. Статут АГ_ в новіи_ редакціі_ 2026.pdf.asice (2).zip",
+          "description": "SHA1: d25a39b3dcef1b058bd9a29e04a567f5637f244f",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "616e1210c50b419db3385024ca91190b",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:6090e534dc7aa7fe77cb049e9a909582",
+          "title": "1. Статут АГ_ в новіи_ редакціі_ 2026.pdf.asice (2).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/5a04a94f772740159dbe1dc5169f5804?Signature=bQvQNly9mLGAIJ%2FIFaBHkLtVdQx654jTIZBTWcqrkwN6IiKArgwMNe6XS2NrE1fF9IUZc6%2Fo18JsuW4wo4dkAQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "3. витяг від 15.01.2026.pdf.asice (1).zip",
+          "title_ru": "3. витяг від 15.01.2026.pdf.asice (1).zip",
+          "description": "SHA1: 7fd3faf3d9e03f64b015168b79d1833bea73e8e1",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "56c8766b22db4b91a36a5e5654f20c3f",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:e5ce33d99bb0e19f4a7b27a953cecdc4",
+          "title": "3. витяг від 15.01.2026.pdf.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/773b34d687164bc9b3b145e442e81375?Signature=iEf1mqdzDLjDBkcuainAzGToawfkxxb7oh9jZR9HOSeDLiI%2Fvmcf50YKYTwQtcIpAbmMnaUvthXIA7AIYU81CQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "4. Довідка про уповноважену особу.doc.asice (1).zip",
+          "title_ru": "4. Довідка про уповноважену особу.doc.asice (1).zip",
+          "description": "SHA1: 9f43ec30b43eabe135ae7efe685098faca9eabc3",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "cac135b188f5430fba968239354bc7aa",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:3a7c32a9aeb3f69394c36f62c59ecc15",
+          "title": "4. Довідка про уповноважену особу.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/97400ec78627403e965a279f756ed956?Signature=6RXXrZeNeLKsRULY18XLtzB%2FKECVUuA14EgPIvqhe7ySUbkHIU5oViT4MOr6cI0rxWbFG6yjBIIKpFn%2FQY8mBg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "5. Підтвердження повноважень.pdf.asice (1).zip",
+          "title_ru": "5. Підтвердження повноважень.pdf.asice (1).zip",
+          "description": "SHA1: 41e732a62c083395445619017925d42511437c1f",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "3039c812c7b44718836db4c969367bcb",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:308f6eab427a05ba41d6bf698240acea",
+          "title": "5. Підтвердження повноважень.pdf.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/2ee2cacaaa1b4077a1bf567b290159ab?Signature=ibyAC8i3vfcV8T7XEObo0sNtHxYdtRJ2YfQwN%2Fi09mRcHBRbMwc1y6sZQSt9y6lE8bb36beP%2FGSP%2Fkf%2BzOraCA%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "6. Наказ на призначення Іванова.pdf.asice (1).zip",
+          "title_ru": "6. Наказ на призначення Іванова.pdf.asice (1).zip",
+          "description": "SHA1: 664d2db60e0d081a93bb53b2cb7f5fffba8a4d0f",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "731ee2f5ebb7498cb0d20b2cbddf6d82",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:3cce4b823115d5f3833423231e7ed184",
+          "title": "6. Наказ на призначення Іванова.pdf.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/4fd9dcb628414a078b2c4c6256f2e617?Signature=ch2Tj1x1toWj%2BDV87EoCDpGBzTxLaWr9B8dNaYKA4SNbxbafWxy3iqw2%2BDWt5EFkhg6qHgzhkH296PHMiJY5Bg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "7. Лист-згода на обробку персональних даних.doc.asice (1).zip",
+          "title_ru": "7. Лист-згода на обробку персональних даних.doc.asice (1).zip",
+          "description": "SHA1: e39b9c40fc8c39b7b249fed46fc60be46ecb36cf",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "5a10bdd611a4499fbd443468694d3995",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:f0320c8298bb1a70f9dafe21963ef996",
+          "title": "7. Лист-згода на обробку персональних даних.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/20ba94ada6e94c6d95db1b71fbab3a64?Signature=Z7SmXl6oo%2BPFDKBdj8UlRFukdLNFVJP6%2BddiC2jqj%2Bdcjr%2FP7qJslwfBD%2BUAKFXS1b6VmVgIqHzBZvUJQ3mXDA%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "8. Витяг ПДВ.pdf.asice (2).zip",
+          "title_ru": "8. Витяг ПДВ.pdf.asice (2).zip",
+          "description": "SHA1: 1617e5d013425494441b06434eabc58313de6c30",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "9b884bdbdfa44989ba9d3c08ebc08281",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:b8c33f255c3f4833f81563701d01a8c3",
+          "title": "8. Витяг ПДВ.pdf.asice (2).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/e4ca4a9723f5400fb3817a5f4dc0334b?Signature=t%2BpwEoA0fe%2FHXE0xlzGMfsZAdZ3vcAFpWq1BPwECDNj4GzsefdZWp6S3cIF%2F2jcia%2Fl1EP6S3jkbQxxanzN5DQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "9. Гарантійний лист санкції.doc.asice (1).zip",
+          "title_ru": "9. Гарантійний лист санкції.doc.asice (1).zip",
+          "description": "SHA1: c7b040858da00030216ea7d34cc58269f8a18728",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "b412c3c4259f4fdea4403ed2cf639b0c",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:be953a3b89072efb39a43d8c98a35c28",
+          "title": "9. Гарантійний лист санкції.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/25fc76cd8eb24faebb4f521816a0501a?Signature=zxh4%2BpzIF%2BSZa1heZUzIejGrqYnrRvlqVOMejaYQFCpYe%2BGTXQLg6C3Y56bRR7GwXfqtB%2FNe9iWkKRotl%2FUODQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "10. Гарантійний лист технічні вимоги.doc.asice (1).zip",
+          "title_ru": "10. Гарантійний лист технічні вимоги.doc.asice (1).zip",
+          "description": "SHA1: 921a4f25bd39b274ecf97ae4fe14932e32aa2325",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "057b398467a3408a8a55f5ada907c2d3",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:2b6de23f9b66a6eb6fa52f89fed1ee92",
+          "title": "10. Гарантійний лист технічні вимоги.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/037e9ddad3b5465fa9cef94be3a03a4b?Signature=r%2BKsPcxDxbvMgYr8l5TTfbIfgdkeBOXki%2BiaCWgG0ZytRrlwCTkkEXgPngEOziNEnm08pljU562Ui71LKWX3BQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "11. Відомості про учасника.doc.asice (1).zip",
+          "title_ru": "11. Відомості про учасника.doc.asice (1).zip",
+          "description": "SHA1: ba286edbb04620cab52e400651fef53d0b26a566",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "506c1a9b2956444a81eee46209590f43",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:82baa4f67f12579baa14db4835ce7295",
+          "title": "11. Відомості про учасника.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/90327b392c1f44af9237851d51a114ef?Signature=kQng4Pmk%2BdmB71wn1IdTQQ3eTuOxBuy8Q7%2BRJkNLsCpm%2FBT%2FKyv4U7teQ2ekBwMRMEGiuXp6VIic%2BoaQJuwgAA%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "12. Ліцензування.doc.asice (1).zip",
+          "title_ru": "12. Ліцензування.doc.asice (1).zip",
+          "description": "SHA1: 27f9aba9d5c1abd8c0f7325085c43430ca39fe1c",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "632d156c487a425ea626e16dcb766280",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:41e3ebd619fbcef1c7edd90fa0746ffb",
+          "title": "12. Ліцензування.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/140c6413aa8a4a9daa88597fce0e361c?Signature=63sM8gqnIjCp2cyRifOLMqqbp4chk6JDsix0VUIGWxT7VL1z9B%2BNArxZy9wKGiMx6L70XTZIYwBRu0K%2FMztrBg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "13. Довідка ст. 358 ККУ.doc.asice (1).zip",
+          "title_ru": "13. Довідка ст. 358 ККУ.doc.asice (1).zip",
+          "description": "SHA1: 45675b2aba3acd276d91faaeab6246020301f1f2",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "ed11ea7533ff43cabeb63e16476057d4",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:68457b5866b378ec8602ee58522704d8",
+          "title": "13. Довідка ст. 358 ККУ.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/63112065743e4485aa4b183bd99d6122?Signature=1F89Yh%2Ba%2FR2dXrL8CYX6HAlPeq5qG52s%2B7hFJLonQ2S3wkj%2FsG7RP6AruWV921CVvaVm%2FiHn9%2BdHKtA5C1csBg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "14. Довідка нац. безпека.doc.asice (1).zip",
+          "title_ru": "14. Довідка нац. безпека.doc.asice (1).zip",
+          "description": "SHA1: a794de5e6e87d52d537d82925fd5d9d5f8141cf2",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "0190e45de776486595ae32e14fd6a551",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:071193bdbc8e23e0a33ca8fd9c9db2ec",
+          "title": "14. Довідка нац. безпека.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/7fee4f97292b43fe96b76637d1594479?Signature=O5qP7BiPVcTchHYN2cUOG4fQG%2FpMUWTjRXpbooRqOrOHJPAIyNZNKBSOGDbhKYx1VOZjKeHf%2F2gjIIfi1sLmAQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "15. Довідка про бенефіціара.docx.asice (1).zip",
+          "title_ru": "15. Довідка про бенефіціара.docx.asice (1).zip",
+          "description": "SHA1: a4c606e873eff15762eb46b75ef7377a64b8019d",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "4f2ba057e9864f13b326639ee2742863",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:e830f1d9ac53169d5ae57d8045913c3b",
+          "title": "15. Довідка про бенефіціара.docx.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/b9448ba83e2c4d498087c4318788fbe6?Signature=LFNcDn1q%2FIyULnIahpBlpGzQsc4o4RdbF%2FY1B2P%2FYWH2Out4dVJGBQ38JYYCKACm%2BzXlxPnCppXRxzE3D3pFAQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "16. Гарантійний лист митна територія.doc.asice (1).zip",
+          "title_ru": "16. Гарантійний лист митна територія.doc.asice (1).zip",
+          "description": "SHA1: f9ce5c4d11dde9fab2472d3b597bacd115965622",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "84c1213d50994e6592bc8fc7701bd723",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:6511e1b52ea7d166ad8650ac597d36c5",
+          "title": "16. Гарантійний лист митна територія.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/6d6a3928a5f342cc972161e2e656f7b8?Signature=%2FGBIuk9TdcSsefpNfWVXHsBEvqdOMeIRobg7Ld2Y4KqufLKf7LOUwXb3G%2Bo2GynmUUtrGBG%2BNpFjEQFO39qRDQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "17. Гарантійний лист нормативна база.doc.asice (1).zip",
+          "title_ru": "17. Гарантійний лист нормативна база.doc.asice (1).zip",
+          "description": "SHA1: 61b4a253181f632d50355bac0462ec6b7ba2a0fd",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "f13b148a4e83420cad61df352e120dd8",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:f66b43267570911fee7ea2c44e5b4ff9",
+          "title": "17. Гарантійний лист нормативна база.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/9c49f650e7ad4bda976b7684bfc89fcc?Signature=gr350LvwEQVWSwnnNocfc%2F%2FG1obF8U%2BR1rW%2FiwAJOCAppRZXOub2nqLmTbPr6IhGc%2Fh8acCT8CQ%2FQnNTNYCbBw%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "18. ДОВІДКА ПРО НАЯВНІСТЬ ДОСВІДУ ВИКОНАННЯ АНАЛОГІЧНОГО(ИХ) ДОГОВОРУ(ІВ).doc.asice (1).zip",
+          "title_ru": "18. ДОВІДКА ПРО НАЯВНІСТЬ ДОСВІДУ ВИКОНАННЯ АНАЛОГІЧНОГО(ИХ) ДОГОВОРУ(ІВ).doc.asice (1).zip",
+          "description": "SHA1: 1c855f94a061fb2371a5f21dd48635aba2e46106",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "8cd8778234bd44eda0c4bde5ca1b25f7",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:f14a63dbecb89d99f493abf923646a09",
+          "title": "18. ДОВІДКА ПРО НАЯВНІСТЬ ДОСВІДУ ВИКОНАННЯ АНАЛОГІЧНОГО(ИХ) ДОГОВОРУ(ІВ).doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/65a143a4e034499a8c0c874f4f611c38?Signature=OmJaU2dGRIj9rnLxPWjOjhVf%2BJV7mGRDrTvC5TyC0BqxiouO9XEgb4CGTkLmNB%2F5QLjf1m734Tln9Ga3wHhnCQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "19. Аналогічні договори.pdf.asice (1).zip",
+          "title_ru": "19. Аналогічні договори.pdf.asice (1).zip",
+          "description": "SHA1: b8e9968ae634cc606c42651f37de7eb6ec7f4845",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "501af60749eb4666b7a1541785ea00b2",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:c7c83036f29f11ed236289ec1307ba93",
+          "title": "19. Аналогічні договори.pdf.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/70e6cd7c10fb4fb6a9ccaa99dc8a80c3?Signature=Dt5H4qrPPTPezUzPo8i6r9SR3%2FKWPc1o8TDxhY3zYdjPhD6oQZhjTNUbLnCNdManmg0hpn0I5L1AUMCIlCEcAg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "20. Довідка захист довкілля.doc.asice (1).zip",
+          "title_ru": "20. Довідка захист довкілля.doc.asice (1).zip",
+          "description": "SHA1: 4d2d927e044fc2743e161dd87c2abdc853b4e3e7",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "5c519d959e604e84a64b538cf445ff51",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:91ec0ff5f9c4adb380b00503107d23e5",
+          "title": "20. Довідка захист довкілля.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/e5d3d4ef2f0d48ce8aba5d94cc22979b?Signature=WkreAjsQmQVzNrI8QmWcjaapol4qdIposgxGmXifsN4YbPnVxzA%2Fao2g11KVdRqJ77GlXomAzNBD6P0VBZfkCw%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "21. Довідка мтб.doc.asice (1).zip",
+          "title_ru": "21. Довідка мтб.doc.asice (1).zip",
+          "description": "SHA1: a8c24142230768e85dab424b9433c111f506ba7a",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "af774a77f5074907bb142b447c346835",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:4350a72e53053461345bec996fc34744",
+          "title": "21. Довідка мтб.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/b5bc58fb10e5436b801bf74dc0dfdc33?Signature=ZXKj9kVPIaMZuhYIURxCqhcM2H5%2FTZLPDdt3Tjy0rG5qWoCCGhAAIkZfrsuxk9CPB%2FJKodQX1b5g0GZfda5YAA%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "22. Цінова пропозиція дастер - для слияния.docx.asice (1).zip",
+          "title_ru": "22. Цінова пропозиція дастер - для слияния.docx.asice (1).zip",
+          "description": "SHA1: e14e73d2677e085cd2d576cbc7b2a3474460964b",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "01d145c3ec3e4208919c26220dd95a66",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:c40f6f8e6feb7ee5044cb19862cfb2e0",
+          "title": "22. Цінова пропозиція дастер - для слияния.docx.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/dd444d35ca574f74865bed46737232d7?Signature=n86URL1Y4gvCgnm54v8aMLMPoYVA3x%2FDwy%2FUE3vYOnpHXOLVTxegSr81HPpw5flAfNPGNSlQ8hZ9BgnK0DH6Bw%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "23. Гарантійний лист тех.doc.asice (1).zip",
+          "title_ru": "23. Гарантійний лист тех.doc.asice (1).zip",
+          "description": "SHA1: b324aaf212af690b42469920f0fdbcb883fc0276",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "771c2341b93f44ab827e04aad0439c90",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:34e1562accb8eb9ae1cb918f3a384226",
+          "title": "23. Гарантійний лист тех.doc.asice (1).zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/b21309abeaea45c392a8a64fa7083b3d?Signature=H6T2Lx3Q5FVbXXBE1nXf8DY0ka0AkpuTBrSkjOfMjuSZDf9FiSUSIXvjUN9bzXAi9%2BY23z%2FPN%2BgIK6LGk6PWDg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "technicalSpecifications",
+          "title_en": "24. Додаток 2 DUSTER.docx.asice.zip",
+          "title_ru": "24. Додаток 2 DUSTER.docx.asice.zip",
+          "description": "SHA1: b77121d980fac46f88766bba0ce4c395c0fadc58",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "582d1390ecc84361b4a8ba4bb7d119d1",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:38210a62c144096242fdb3db04c0fbde",
+          "title": "24. Додаток 2 DUSTER.docx.asice.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/32fdf2b163e2490ca90898210e1fa7a6?Signature=2fKY3hurMd0lp6F0AFd%2F0fAZJWMHRcyZqEsUzTG0K1YLe3s4ZNxlty5gpj%2BmIM9Xaues7dS6JMCLdk9MsipIBA%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "technicalSpecifications",
+          "title_en": "25. Додаток 2 порівняльна таблиця.docx.asice.zip",
+          "title_ru": "25. Додаток 2 порівняльна таблиця.docx.asice.zip",
+          "description": "SHA1: 363cb805ce4c1928d79058dc2ee47f9748ffa35a",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "535e903d623940fe8f6d23d99bf85254",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:d6eaded9bd6f05e2d23e65f99f3676ba",
+          "title": "25. Додаток 2 порівняльна таблиця.docx.asice.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/4b6a49cb42bd4920a9f328e9173b3ec1?Signature=gH2pdVws0zaLc2s2EFIcjKkt4DwZai06WEG5eLNKaDb4dQv4nCXWJ6jBAYTcBncP11fjNrNhR6IrBrb2GVtlAA%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "technicalSpecifications",
+          "title_en": "26. Сертифікат відповідності Дастер.pdf.asice.zip",
+          "title_ru": "26. Сертифікат відповідності Дастер.pdf.asice.zip",
+          "description": "SHA1: a88d6de30475a943e4040baa3c1f8d3b317539cf",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "57c96dd5bc9349c78ac9a145affa7ea0",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:cadb2fd2c7429e7ee39dfdfade866b54",
+          "title": "26. Сертифікат відповідності Дастер.pdf.asice.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/f74b5155268a49629c745626cade35b1?Signature=eLT%2FZThCwXZmY6b7MgIrFWnajVCwVsxEzBR1T3dZZzbq1aquFx7e4oHVMae0xqbsOQ8bifLjfIr7MDFSXQBfBA%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "27. Інформ. по п. 47 Особливостей.doc.asice.zip",
+          "title_ru": "27. Інформ. по п. 47 Особливостей.doc.asice.zip",
+          "description": "SHA1: b6e6da98cce8db5d557ce3ce3f240aac50608aa2",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "ea731b55fcc342469bb8d63141c47c5f",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:8e19f05dd32358b3161456a34fbb3a75",
+          "title": "27. Інформ. по п. 47 Особливостей.doc.asice.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/f53c90d0e154466e9704f277f6f8a46e?Signature=Yu82P53xJl8MLLLS3ApiOV8T2wJDYCpSckH8hSV4%2BAF80IXf8rHbcDmFtH4SMTKNH0SGlQm%2B4K1ipBOwrc46Ag%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "28. Гарантійний лист проект договору.docx.asice.zip",
+          "title_ru": "28. Гарантійний лист проект договору.docx.asice.zip",
+          "description": "SHA1: 781a882a7aec185600e287107e8f4249266ea356",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "594e20ddae7743a0923496d9fcb314a0",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:27c380ac867abc5349b09862905f06aa",
+          "title": "28. Гарантійний лист проект договору.docx.asice.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/da72d5cbb78b41768b2f03c0efb79620?Signature=%2FYDewGE7rDWAZw3bvnSJqOniFalCWzngUNcQ8zxMjza3HJmaDx%2B2by%2B9mkiCl3ZmG6EZ5CxwDkCzfoOa%2FG%2BVCQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "qualificationDocuments",
+          "title_en": "Проект договору.pdf.asice.zip",
+          "title_ru": "Проект договору.pdf.asice.zip",
+          "description": "SHA1: 8539c0018537c97a1ab5c491c12d7f55c952ba48",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "id": "33d9439c4781496c88dc4576ed7b4e83",
+          "datePublished": "2026-05-28T10:12:26.618848+03:00",
+          "hash": "md5:cc778336ac0615c4d46a1caf2ea12962",
+          "title": "Проект договору.pdf.asice.zip",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/a62cfef0c5864696b1bff1ad37cda9a7?Signature=p0cRi1vJA3WnV7FpxtcAk%2B1bMlzwFR27ihjOMiahz3cn%2BDKI8Ax1590qgcprppb8c1V6xcy42zUjC%2BLA9Gg5Cg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "dateModified": "2026-05-28T10:12:26.618848+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "title_en": "sign.p7s",
+          "title_ru": "sign.p7s",
+          "description": "SHA1: 02f3fdc0bb97429185329301891d48e6101b99c6",
+          "id": "251bdc26f9f14f3f90de255df6e4b7f8",
+          "datePublished": "2026-05-28T10:15:02.830951+03:00",
+          "hash": "md5:e62f1f1d94a2bd84a0885f7f4771886b",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/0161b0ce26dd4e2c893808257ca90d62?Signature=6aDThjgV924ug2G4kNru%2Fza8AGXRB%2FUnBY2YdZlBhugDM1Kb0Y7rXX6p5STGBlM8ei6e%2B%2FvqH98GE6ldInxsCw%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-05-28T10:15:02.830951+03:00",
+          "language": "uk"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "eligibilityDocuments",
+          "title_en": "Витяг МВС.rar",
+          "title_ru": "Витяг МВС.rar",
+          "description": "SHA1: 314786c7d081c107b7a20379d91a8d0a7efd7be2",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "hash": "md5:23ae4b4340e453eb5ebec7246349c455",
+          "title": "Витяг МВС",
+          "format": "application/x-rar-compressed",
+          "url": "https://public-docs.prozorro.gov.ua/get/9c1faa00724a427ab65ce81118d5ebe1?Signature=0%2BF7SHuRQbEgjsHLzUfYWW49%2BTzxxb54eMMDZY6vQ9tvUSLXGYnLG1AbezTV8k5H196xaL%2B1TPQxTnrzs6NbBw%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "language": "uk",
+          "id": "ff128fa634ac4bc2a90d2d5b92dd73d9",
+          "datePublished": "2026-06-03T11:03:56.728637+03:00",
+          "dateModified": "2026-06-03T11:03:56.728637+03:00"
+        },
+        {
+          "confidentiality": "public",
+          "title_en": "Довідка ДПС заборгованість.pdf.asice.zip",
+          "title_ru": "Довідка ДПС заборгованість.pdf.asice.zip",
+          "description": "SHA1: 105ef92d72bb07ee1e7166cc32723c0a6d550e37",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "hash": "md5:009561a6ba3a7185f25be42bfe0dfd11",
+          "title": "Довідка ДПС заборгованість",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/a22d22411fd845d6853556d60e6fa021?Signature=7MtoQ%2ByB3zDcKpcbh8MVRU7hjsSHZTvkb4G6HCSv9ioR0dj66c7b2K9588YVoZfhKgt4JrwUQo22JoYtrJxqDg%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "language": "uk",
+          "id": "73ada6c2407048dfa506cb9295fad9a8",
+          "datePublished": "2026-06-03T11:03:56.728637+03:00",
+          "dateModified": "2026-06-03T11:03:56.728637+03:00"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "eligibilityDocuments",
+          "title_en": "Довідка НАЗК фіз. особа.zip",
+          "title_ru": "Довідка НАЗК фіз. особа.zip",
+          "description": "SHA1: 26445f2ae21ddb51911d63298bd6a645b8952f2c",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "hash": "md5:783192df7c9dee01ba2dd17f8d280318",
+          "title": "Довідка НАЗК фіз. особа",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/7695de79a46a4b97b905543064123a71?Signature=KdjElQhuqdv%2BFoT%2FRHmqWhOt%2BPycCuqhKuedYDANm%2BOktiYGgYg3wl%2BTPY2XJ%2BjoEReGlEtIYg94bneF1xC2CQ%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "language": "uk",
+          "id": "0b3c55aa18f248fa8846cdfe0169a84f",
+          "datePublished": "2026-06-03T11:03:56.728637+03:00",
+          "dateModified": "2026-06-03T11:03:56.728637+03:00"
+        },
+        {
+          "confidentiality": "public",
+          "title_en": "Довідка НАЗК юр. особа.zip",
+          "title_ru": "Довідка НАЗК юр. особа.zip",
+          "description": "SHA1: 8f2be3bf92f9cf27ad538bc5600c7aaabd4cde0f",
+          "relatedItem": "1cf80480f92148d1a20b601912a12ed7",
+          "hash": "md5:a01c9f7df09f514824e3ad1173621694",
+          "title": "Довідка НАЗК юр. особа",
+          "format": "application/zip",
+          "url": "https://public-docs.prozorro.gov.ua/get/06edb4a6fd0e4a898d402b0a2bdc91f0?Signature=QHEhIJQipjPP0jjVh2MgJXBFvqxylbC3gsSNdP9p1S8rh%2BWyy4Fc1yWd%2BhYCRQYmFYWJAQTIc4yCPSQuSsJtDw%3D%3D&KeyID=52462340",
+          "documentOf": "lot",
+          "language": "uk",
+          "id": "f50cabe2454744edb7f397c58849d0d2",
+          "datePublished": "2026-06-03T11:03:56.728637+03:00",
+          "dateModified": "2026-06-03T11:03:56.728637+03:00"
+        },
+        {
+          "confidentiality": "public",
+          "documentType": "proposal",
+          "title_en": "sign.p7s",
+          "title_ru": "sign.p7s",
+          "description": "SHA1: ec4c708e8096e1663575661cd914549c8695313c",
+          "id": "251bdc26f9f14f3f90de255df6e4b7f8",
+          "datePublished": "2026-06-03T11:06:10.265491+03:00",
+          "hash": "md5:a199cbccc170951805a6be9e6eed576e",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/d6abad059e4d47daa934f48d7a8b3cda?Signature=gtz9RXo5QLTUpLyxD7KIfmGYmFGg9KICqjJi5mHQTQMFpeZB8U9XBjFb6UZ4TofUFjBoiLtaULYlxepO0fN7CQ%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T11:06:10.265491+03:00",
+          "language": "uk"
+        }
+      ],
+      "items": [
+        {
+          "id": "57f0ec6ee7ba40ddb0eac36b9dac59f5",
+          "description": "Спеціалізований легковий автомобіль RENAULT Duster",
+          "unit": {
+            "name": "штука",
+            "code": "H87"
+          },
+          "quantity": 2.0,
+          "relatedLot": "1cf80480f92148d1a20b601912a12ed7"
+        }
+      ],
+      "submissionDate": "2026-05-28T10:15:04.140457+03:00"
+    }
+  ],
+  "awardPeriod": {
+    "startDate": "2026-06-01T09:00:02.225041+03:00",
+    "endDate": "2026-06-03T09:37:40.450121+03:00"
+  },
+  "awards": [
+    {
+      "id": "ef5cfc1631934c74824f2002bfa30180",
+      "status": "active",
+      "date": "2026-06-03T09:37:40.450121+03:00",
+      "value": {
+        "amount": 2325576.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true
+      },
+      "suppliers": [
+        {
+          "name": "ТОВ АВТО ГРУП +",
+          "identifier": {
+            "scheme": "UA-EDR",
+            "id": "35880173",
+            "legalName": "ТОВ АВТО ГРУП +"
+          },
+          "address": {
+            "streetAddress": "вул. Інглезі, 15",
+            "locality": "Одеса",
+            "region": "Одеська область",
+            "postalCode": "65070",
+            "countryName": "Україна"
+          },
+          "contactPoint": {
+            "name": "Бикова Віталіна Валеріївна",
+            "name_en": "  ",
+            "name_ru": "  ",
+            "email": "tender@renault.in.ua",
+            "telephone": "+380487843575",
+            "faxNumber": "+380487654585"
+          },
+          "scale": "sme"
+        }
+      ],
+      "bid_id": "b50d5a228fbd439892f781cde5ca094b",
+      "lotID": "1cf80480f92148d1a20b601912a12ed7",
+      "documents": [
+        {
+          "confidentiality": "public",
+          "documentType": "notice",
+          "id": "3f707078339d4d1d91d17a8ee8ae0b44",
+          "datePublished": "2026-06-03T09:37:39.334148+03:00",
+          "hash": "md5:b95cfecc043a0fe8632e91dad98197aa",
+          "title": "sign.p7s",
+          "format": "application/pkcs7-signature",
+          "url": "https://public-docs.prozorro.gov.ua/get/bf4ad0a889ce4f6a9647feb75f696be5?Signature=2bQJhK1B%2BdudEfP03vdIKOZ4dXlzF66ilBaRCq%2F0otDMwiIkFLEPVMVcq2nE4nqWpFKw2uccbQ8Hp3ynWB8mBg%3D%3D&KeyID=52462340",
+          "documentOf": "tender",
+          "dateModified": "2026-06-03T09:37:39.334148+03:00",
+          "author": "tender_owner",
+          "language": "uk"
+        }
+      ],
+      "period": {
+        "startDate": "2026-06-01T09:00:02.225041+03:00",
+        "endDate": "2026-06-09T00:00:00+03:00"
+      },
+      "qualified": true,
+      "title": "Визнаний переможцем",
+      "description": "На підставі ч. 12 ст. 14 Закону України «Про публічні закупівлі» за результатами оцінки та розгляду пропозиції ТОВ «АВТО ГРУП +» у спрощеній закупівлі № UA-2026-05-21-000048-a, згідно з предметом закупівлі – спеціалізований легковий автомобіль RENAULT Duster, за кодом CPV за ДК 021:2015 34110000-1 «Легкові автомобілі», визнати такою, що відповідає умовам, визначеним в Оголошенні про проведення спрощеної закупівлі та вимогам до предмета закупівлі.",
+      "complaintPeriod": {
+        "startDate": "2026-06-03T09:37:40.450121+03:00",
+        "endDate": "2026-06-06T00:00:00+03:00"
+      }
+    }
+  ],
+  "contracts": [
+    {
+      "id": "089a007255aa4b68afe5219d0f263c71",
+      "status": "active",
+      "awardID": "ef5cfc1631934c74824f2002bfa30180",
+      "date": "2026-06-09T11:48:13.930218+03:00",
+      "contractID": "UA-2026-05-21-000048-a-a1",
+      "title": "Лот 1. Спеціалізований легковий автомобіль RENAULT Duster",
+      "title_en": null,
+      "description": null,
+      "description_en": null,
+      "value": {
+        "amount": 2325576.0,
+        "currency": "UAH",
+        "valueAddedTaxIncluded": true,
+        "amountNet": 1937980.0
+      }
+    }
+  ],
+  "id": "239611a189ad426ab2bfb88cec6aa87a"
+}
