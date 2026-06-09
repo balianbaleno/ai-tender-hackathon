@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+{% block title %}Панель якості тендерів{% endblock %}
+{% block content %}
+<section class="summary-strip" aria-label="Зведення">
+  <div class="metric">
+    <span>Опрацьовано</span>
+    <strong>{{ aggregate.total }}</strong>
+  </div>
+  <div class="metric">
+    <span>Середній бал</span>
+    <strong>{{ aggregate.average_score }}</strong>
+  </div>
+  <div class="metric">
+    <span>Потенційні ризики</span>
+    <strong>{{ aggregate.issue_count }}</strong>
+  </div>
+  <div class="metric">
+    <span>Високий пріоритет</span>
+    <strong>{{ aggregate.high_risk_count }}</strong>
+  </div>
+  <div class="metric">
+    <span>LLM витрати</span>
+    <strong>{{ aggregate.total_llm_cost|usd }}</strong>
+  </div>
+</section>
+
+<section class="workbench">
+  <form class="tool" method="post" action="/process/batch">
+    <h1>Обробка тендерів</h1>
+    <label>
+      Кількість
+      <input type="number" name="limit" min="1" max="20" value="5">
+    </label>
+    <label>
+      Сторінок API
+      <input type="number" name="max_pages" min="1" max="50" value="{{ settings.default_max_pages }}">
+    </label>
+    <label class="check">
+      <input type="checkbox" name="use_codex" value="true">
+      Codex для коротких пояснень
+    </label>
+    <button type="submit">Обробити нові тендери</button>
+  </form>
+
+  <form class="tool" method="post" action="/process/tender">
+    <h2>Один тендер</h2>
+    <label>
+      Prozorro UUID
+      <input type="text" name="tender_id" placeholder="73e491ce38214a5da0589d0564408609">
+    </label>
+    <label class="check">
+      <input type="checkbox" name="use_codex" value="true">
+      Codex для коротких пояснень
+    </label>
+    <button type="submit">Обробити за ID</button>
+  </form>
+
+  <form class="tool filters" method="get" action="/">
+    <h2>Фільтри</h2>
+    <label>
+      Категорія
+      <select name="category">
+        <option value="">Усі категорії</option>
+        {% for category in categories %}
+          <option value="{{ category }}" {% if category == selected_category %}selected{% endif %}>{{ category }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <label>
+      Максимальний бал
+      <input type="number" name="max_score" min="0" max="100" value="{{ max_score }}">
+    </label>
+    <label>
+      Сортування
+      <select name="sort">
+        {% for value, label in sort_labels.items() %}
+          <option value="{{ value }}" {% if value == selected_sort %}selected{% endif %}>{{ label }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    <button type="submit">Застосувати</button>
+  </form>
+</section>
+
+<section class="table-section">
+  <div class="section-head">
+    <h2>Опрацьовані тендери</h2>
+    <span>{{ results|length }} у поточному списку</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Тендер</th>
+          <th>Замовник</th>
+          <th>Вартість</th>
+          <th>CPV / сектор</th>
+          <th>Дата обробки</th>
+          <th>Токени / $</th>
+          <th>
+            <a class="sort-link {% if selected_sort in ['score_asc', 'score_desc'] %}is-active{% endif %}" href="{{ request.url.include_query_params(sort=score_sort) }}">
+              Бал <span class="sort-mark">{{ score_sort_marker }}</span>
+            </a>
+          </th>
+          <th>Ризики</th>
+          <th>
+            <a class="sort-link {% if selected_sort in ['priority_asc', 'priority_desc'] %}is-active{% endif %}" href="{{ request.url.include_query_params(sort=priority_sort) }}">
+              Пріоритет <span class="sort-mark">{{ priority_sort_marker }}</span>
+            </a>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for result in results %}
+        <tr>
+          <td>
+            <a class="row-title" href="/tenders/{{ result.summary.tender_id }}">{{ result.summary.tender_code }}</a>
+            <span>{{ result.summary.title }}</span>
+          </td>
+          <td>{{ result.summary.buyer_name }}</td>
+          <td>{{ result.summary.value_amount|uah(result.summary.currency) }}</td>
+          <td>{{ result.summary.cpv or "не вказано" }}<br><small>{{ result.summary.sector }}</small></td>
+          <td>{{ result.processed_at|date_ua }}</td>
+          <td>
+            {% if result.llm_usage.model %}
+              {{ result.llm_usage.total_tokens|tokens }}<br>
+              <small>{{ result.llm_usage.total_cost_usd|usd }}</small>
+            {% else %}
+              <span class="muted">не рахувалось</span>
+            {% endif %}
+          </td>
+          <td><span class="score">{{ result.overall_score }}</span></td>
+          <td>{{ result.issues|length }}</td>
+          <td><span class="priority priority-{{ result.highest_severity|priority_class }}">{{ result.highest_severity|priority_label }}</span></td>
+        </tr>
+        {% else %}
+        <tr>
+          <td colspan="9" class="empty">Ще немає опрацьованих тендерів. Запустіть обробку партії або одного ID.</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endblock %}

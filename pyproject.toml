@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "prozorro-quality"
+version = "0.1.0"
+description = "AI-assisted quality detector for Prozorro tender documentation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.31",
+  "fastapi>=0.110",
+  "uvicorn>=0.27",
+  "jinja2>=3.1",
+  "pdfminer.six>=20221105",
+  "python-docx>=1.1",
+  "openpyxl>=3.1",
+  "xlrd>=2.0",
+  "beautifulsoup4>=4.12",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+prozorro-quality = "prozorro_quality.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["prozorro_quality*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

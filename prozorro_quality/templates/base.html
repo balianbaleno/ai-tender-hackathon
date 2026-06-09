@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}Якість тендерної документації Prozorro{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='styles.css') }}">
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/">Якість документації Prozorro</a>
+      <span class="notice">Автоматичні сигнали потребують перевірки людиною</span>
+    </header>
+    <main class="layout">
+      {% block content %}{% endblock %}
+    </main>
+  </body>
+</html>
+

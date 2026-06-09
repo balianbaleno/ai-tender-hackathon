@@ -1,0 +1,153 @@
+{% extends "base.html" %}
+{% block title %}{{ result.summary.tender_code }}{% endblock %}
+{% block content %}
+<nav class="crumb"><a href="/">← До списку</a></nav>
+
+<section class="detail-head">
+  <div>
+    <p class="eyebrow">{{ result.summary.tender_code }}</p>
+    <h1>{{ result.summary.title }}</h1>
+    <p>{{ result.summary.buyer_name }} · {{ result.summary.value_amount|uah(result.summary.currency) }} · {{ result.summary.cpv or "CPV не вказано" }}</p>
+  </div>
+  <div class="score-block">
+    <span>Загальний бал</span>
+    <strong>{{ result.overall_score }}</strong>
+    {% if result.issues %}
+      <em>{{ result.highest_severity|priority_label }} пріоритет</em>
+    {% else %}
+      <em>без сигналів</em>
+    {% endif %}
+  </div>
+</section>
+
+<section class="subscores" aria-label="Підбали">
+  {% for name, value in result.subscores.items() %}
+  <div class="subscore">
+    <span>{{ name }}</span>
+    <meter min="0" max="100" value="{{ value }}"></meter>
+    <strong>{{ value }}</strong>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="issues">
+  <div class="section-head">
+    <h2>Виявлені сигнали</h2>
+    <span>{{ result.issues|length }}</span>
+  </div>
+  {% for category, issues in grouped_issues.items() %}
+  <div class="issue-group">
+    <h3>{{ category|category_label }}</h3>
+    {% for issue in issues %}
+    <article class="issue">
+      <header>
+        <div>
+          <h4>{{ issue.title }}</h4>
+          {% if issue.document_title %}<span>{{ issue.document_title }}</span>{% endif %}
+        </div>
+        <span class="priority priority-{{ issue.severity|priority_class }}">{{ issue.severity|priority_label }}</span>
+      </header>
+      <blockquote>{{ issue.evidence_quote }}</blockquote>
+      <p><strong>Пояснення:</strong> {{ issue.explanation }}</p>
+      <p><strong>Можливе переписування:</strong> {{ issue.suggested_rewrite }}</p>
+    </article>
+    {% endfor %}
+  </div>
+  {% else %}
+  <p class="empty">Потенційних ризиків за поточними правилами не знайдено. Це не замінює ручну перевірку документації.</p>
+  {% endfor %}
+</section>
+
+<section class="notice-panel">
+  <div class="section-head">
+    <h2>Обмеження аналізу</h2>
+  </div>
+  <p>{{ result.human_review_notice }}</p>
+  <p>Режим мовної моделі: {{ result.llm_engine }}</p>
+  {% if result.llm_usage.model %}
+    <p>
+      Витрати LLM: {{ result.llm_usage.total_tokens|tokens }} токенів,
+      {{ result.llm_usage.total_cost_usd|usd }} за моделлю {{ result.llm_usage.model }}.
+    </p>
+  {% else %}
+    <p>Витрати LLM: не рахувались для цього старого запису.</p>
+  {% endif %}
+  {% if result.limitations %}
+    <ul>
+      {% for limitation in result.limitations %}
+      <li>{{ limitation }}</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>Критичних обмежень парсингу не зафіксовано.</p>
+  {% endif %}
+</section>
+
+<section class="table-section">
+  <div class="section-head">
+    <h2>Токени та вартість LLM</h2>
+    <span>{{ result.llm_usage.source }}</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Модель</th>
+          <th>Input</th>
+          <th>Cached input</th>
+          <th>Output</th>
+          <th>Reasoning output</th>
+          <th>Ставки за 1M</th>
+          <th>Вартість</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>{{ result.llm_usage.model or "не рахувалось" }}</td>
+          <td>{{ result.llm_usage.input_tokens|tokens }}</td>
+          <td>{{ result.llm_usage.cached_input_tokens|tokens }}</td>
+          <td>{{ result.llm_usage.output_tokens|tokens }}</td>
+          <td>{{ result.llm_usage.reasoning_output_tokens|tokens }}</td>
+          <td>
+            input {{ result.llm_usage.input_usd_per_million|usd }} ·
+            cached {{ result.llm_usage.cached_input_usd_per_million|usd }} ·
+            output {{ result.llm_usage.output_usd_per_million|usd }}
+          </td>
+          <td>{{ result.llm_usage.total_cost_usd|usd }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="table-section">
+  <div class="section-head">
+    <h2>Документи</h2>
+    <span>{{ result.documents|length }}</span>
+  </div>
+  <div class="table-wrap">
+    <table>
+      <thead>
+        <tr>
+          <th>Назва</th>
+          <th>Формат</th>
+          <th>Статус</th>
+          <th>Символів</th>
+          <th>Примітка</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for doc in result.documents %}
+        <tr>
+          <td>{{ doc.title }}</td>
+          <td>{{ doc.format or "не вказано" }}</td>
+          <td>{{ doc.status }}</td>
+          <td>{{ doc.parsed_chars }}</td>
+          <td>{{ doc.limitation or "немає" }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</section>
+{% endblock %}
