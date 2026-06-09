@@ -483,10 +483,29 @@ CONTACT_INFO_RE = re.compile(
     r"відомості\s+про\s+учасника|банківські\s+реквізити|телефон|електронн(?:а|ої)\s+адрес",
     re.IGNORECASE,
 )
+BID_FORM_CONTEXT_RE = re.compile(
+    r"форма\s+тендерн\w*\s+пропозиц|повне\s+найменування.{0,80}адрес.{0,80}місцезнаходжен",
+    re.IGNORECASE | re.DOTALL,
+)
+SPECIFIC_LOCAL_REQUIREMENT_RE = re.compile(
+    r"на\s+території\s+(?:міста|м\.|област|район)|(?:у|в)\s+місті|розташован\w*.{0,100}(?:м\.|міст|област|район)",
+    re.IGNORECASE | re.DOTALL,
+)
+FUEL_CARD_TRADEMARK_RE = re.compile(
+    r"торгов\w*\s+марк\w*.{0,80}(?:талон|скретч-карт|паливн\w*\s+карт|АЗС).{0,160}"
+    r"торгов\w*\s+марк\w*.{0,80}(?:талон|скретч-карт|паливн\w*\s+карт|АЗС|співпада)",
+    re.IGNORECASE | re.DOTALL,
+)
 TECH_CONTEXT_RE = re.compile(r"технічн|специфікац|характеристик|параметр|розмір|довжин|тиск|діаметр|конфіг", re.IGNORECASE)
 FLEXIBLE_TECH_RE = re.compile(
     r"допустим\w*\s+відхилен|діапазон|не\s+гірш|функціональн|еквівалент",
     re.IGNORECASE,
+)
+BOQ_TECH_CONTEXT_RE = re.compile(
+    r"найменування\s+(?:робіт|послуг|витрат)|робіт\s+і\s+витрат|локальн\w*\s+кошторис|"
+    r"дефектн\w*\s+акт|відомість\s+обсяг|демонтаж|прокладання|розбирання|влаштування|"
+    r"\bм[23]\b",
+    re.IGNORECASE | re.DOTALL,
 )
 PRECISE_PARAMETER_RE = re.compile(
     r"(?<![\d.])\d+[,.]\d+\s*(?:мм|см|мл|F|Атм|грам|[\"″]|%|В|А)(?!\d)|"
@@ -531,6 +550,40 @@ SHORT_DELIVERY_NOTICE_RE = re.compile(
     r"(інформує|повідомл\w*).{0,140}не\s+пізніше.{0,100}до\s+закінчення\s+строку\s+постав",
     re.IGNORECASE | re.DOTALL,
 )
+SHORT_DELIVERY_NON_DELIVERY_RE = re.compile(
+    r"(податков\w*\s+накладн|податков\w*\s+кредит|ПДВ).{0,220}не\s+пізніше\s+(?:[1-5])\s*(?:календарн\w*|робоч\w*)?\s*дн|"
+    r"провести.{0,80}замін\w*.{0,140}повідомл\w*.{0,80}не\s+пізніше\s+(?:[1-5])|"
+    r"(направити\s+представника|надати\s+відповідь|не\s+направлення).{0,160}не\s+пізніше.{0,80}(?:[1-5])\s*(?:календарн\w*|робоч\w*)?\s*дн|"
+    r"дат[аою]\s+поставки.{0,140}узгоджен\w*.{0,100}не\s+пізніше.{0,120}до\s+бажан\w*\s+дати|"
+    r"звільн\w*.{0,120}(місце|об.?єкт).{0,160}(смітт|будівельн\w*\s+машин|технічн\w*\s+обладнан|невикористан\w*\s+матеріал)|"
+    r"неможлив\w*.{0,100}здійснити.{0,80}замін\w*.{0,120}повідомл\w*.{0,120}(?:не\s+перевищує|протягом|не\s+пізніше).{0,40}(?:[1-5])\s*(?:календарн\w*|робоч\w*)?\s*дн|"
+    r"(?:забезпечити\s+)?вивезення\s+Товару\s+неналежної\s+якості.{0,160}(?:не\s+пізніше|протягом).{0,60}(?:[1-5])\s*(?:календарн\w*|робоч\w*)?\s*дн|"
+    r"(?:не\s+пізніше|протягом)\s+(?:[1-5])\s*(?:календарн\w*|робоч\w*)?\s*дн.{0,180}(?:забезпечити\s+)?вивезення\s+Товару\s+неналежної\s+якості",
+    re.IGNORECASE | re.DOTALL,
+)
+SHORT_DELIVERY_ACCEPTANCE_RE = re.compile(
+    r"(?:оглянути|прийняти|підписати\s+Акт|надати\s+обґрунтовані\s+запереченн).{0,220}"
+    r"протягом\s+(?:[1-5])\s*(?:календарн\w*|робоч\w*)?\s*дн",
+    re.IGNORECASE | re.DOTALL,
+)
+BUYER_SIDE_PENALTY_RE = re.compile(
+    r"(Виконавець|Постачальник|Продавець|Підрядник)\s+має\s+право\s+стягнути\s+"
+    r"(?:із|з)\s+Замовника.{0,120}пен[яю].{0,80}(?:[1-9]|\d{2,})\s*%.{0,80}кожн\w*\s+день",
+    re.IGNORECASE | re.DOTALL,
+)
+MTB_RESOURCE_CONTEXT_RE = re.compile(
+    r"учасник|працівник|персонал|матеріально-технічн|наявн\w*\s+технік|\bСТО\b|"
+    r"оренд|власн|субпідряд|фахів|довідк\w*.{0,80}наявн",
+    re.IGNORECASE | re.DOTALL,
+)
+BREACH_ONLY_EXIT_RE = re.compile(
+    r"односторонн\w*.{0,180}розірв.{0,240}(невиконан|неналежн|неякісн|порушен).{0,140}"
+    r"(Постачальник|Виконавець|Підрядник|Продавець)|"
+    r"(невиконан|неналежн|неякісн|порушен).{0,160}(Постачальник|Виконавець|Підрядник|Продавець)"
+    r".{0,220}односторонн\w*.{0,120}розірв",
+    re.IGNORECASE | re.DOTALL,
+)
+BUYER_NEED_EXIT_RE = re.compile(r"зменш|відсутн|відпад|фінанс|потреб|обсяг|ціна", re.IGNORECASE)
 
 
 class TenderAnalyzer:
@@ -686,6 +739,8 @@ def technical_precision_issues(parsed_documents: list[ParsedDocument]) -> list[I
             window = text[start : start + 1600]
             if not TECH_CONTEXT_RE.search(window) or FLEXIBLE_TECH_RE.search(window):
                 continue
+            if BOQ_TECH_CONTEXT_RE.search(window):
+                continue
             matches = list(PRECISE_PARAMETER_RE.finditer(window))
             decimal_count = sum(1 for match in matches if re.search(r"\d+[,.]\d+", match.group(0)))
             if len(matches) < 12 and decimal_count < 6:
@@ -726,6 +781,8 @@ def should_skip_match(category: str, quote: str) -> bool:
             return True
         if GENERIC_PRODUCER_RE.search(quote):
             return True
+        if FUEL_CARD_TRADEMARK_RE.search(quote):
+            return True
         if FORMAT_CONTEXT_RE.search(quote):
             return True
         if AMD_AMENDMENT_RE.search(quote):
@@ -739,6 +796,10 @@ def should_skip_match(category: str, quote: str) -> bool:
             return True
         if CONTACT_INFO_RE.search(quote):
             return True
+        if BID_FORM_CONTEXT_RE.search(quote):
+            return True
+        if re.search(r"склад", quote, re.IGNORECASE) and not SPECIFIC_LOCAL_REQUIREMENT_RE.search(quote):
+            return True
         if GRAMMAR_EXAMPLE_RE.search(quote):
             return True
         if "на всій території України" in quote:
@@ -751,7 +812,17 @@ def should_skip_match(category: str, quote: str) -> bool:
         return True
     if category == "строки поставки / сервіс" and SHORT_DELIVERY_NOTICE_RE.search(quote):
         return True
+    if category == "строки поставки / сервіс" and SHORT_DELIVERY_NON_DELIVERY_RE.search(quote):
+        return True
+    if category == "строки поставки / сервіс" and SHORT_DELIVERY_ACCEPTANCE_RE.search(quote):
+        return True
+    if category == "договірні санкції" and BUYER_SIDE_PENALTY_RE.search(quote):
+        return True
+    if category == "вимоги до персоналу / МТБ" and not MTB_RESOURCE_CONTEXT_RE.search(quote):
+        return True
     if category == "договірний дисбаланс" and STANDARD_CONTRACT_EXIT_RE.search(quote):
+        return True
+    if category == "договірний дисбаланс" and BREACH_ONLY_EXIT_RE.search(quote) and not BUYER_NEED_EXIT_RE.search(quote):
         return True
     if category == "приймання / логістика" and OPTIONAL_PRESENCE_RE.search(quote):
         return True
